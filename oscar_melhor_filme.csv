@@ -322,39 +322,38 @@
 320,Lenny,7.5,1974,1h 51m,Bob Fosse,"Biografia, Drama",Julian Barry,"Dustin Hoffman, Valerie Perrine, Jan Miner, Stanley Beck, Frankie Man",False
 321,A Touch of Class,6.5,1973,1h 46m,Melvin Frank,"Comédia, Romance",Melvin Frank,"George Segal, Glenda Jackson, Paul Sorvino, K Callan, John Randolph",False
 322,American Graffiti,7.4,1973,1h 50m,George Lucas,"Comédia, Drama",George Lucas,"Richard Dreyfuss, Ron Howard, Paul Le Mat, Cindy Williams, Charles Martin Smith",False
-323,Cries and Whispers,8.1,1973,2h 2m,William Friedkin,Terror,Ingmar Bergman,"Harriet Andersson, Kari Sylwan, Ingrid Thulin, Liv Ullmann, Erland Josephson",False
+323,Cries and Whispers7.9,1972,1h 32m,Ingmar Bergman,Drama,"Jan Troell, Bengt Forslund","Max von Sydow, Liv Ullmann, Eddie Axberg, Allan Edwall, Pierre Lindstedt",False
 324,The Sting,8.2,1973,2h 9m,George Roy Hill,"Comédia, Drama, Policial",George Lucas,"Richard Dreyfuss, Ron Howard, Paul Le Mat, Cindy Williams, Charles Martin Smith",False
-325,Cabaret,7.8,1972,2h 4m,Bob Fosse,"Drama, Musical, Musical, Romance","Joe Masteroff, John Van Druten, Christopher Isherwood","Liza Minnelli, Michael York, Helmut Griem, Joel Grey, Fritz Wepper",True
-326,Deliverance,7.6,1972,1h 49m,John Boorman,"Aventura, Drama, Suspense",James Dickey,"Jon Voight, Burt Reynolds, Ned Beatty, Ronny Cox, Billy Redden",False
-327,Sounder,7.5,1972,1h 45m,Martin Ritt,"Drama, Família",Lonne Elder III,"Cicely Tyson, Paul Winfield, Kevin Hooks, Taj Mahal, Paul Hamilton",False
-328,The Emigrants,7.9,1972,1h 32m,Ingmar Bergman,Drama,"Jan Troell, Bengt Forslund","Max von Sydow, Liv Ullmann, Eddie Axberg, Allan Edwall, Pierre Lindstedt",False
-329,The Godfather,9.2,1972,2h 55m,Francis Ford Coppola,"Drama, Policial",Lonne Elder III,"Cicely Tyson, Paul Winfield, Kevin Hooks, Taj Mahal, Paul Hamilton",False
-330,Fiddler on the Roof,8.0,1971,3h 1m,Norman Jewison,"Drama, Família, Musical, Romance","Mario Puzo, Francis Ford Coppola","Marlon Brando, Al Pacino, Robert Duvall, Diane Keaton, Richard S. Castellano",True
+325,The Godfather,9.2,1972,2h 55m,Francis Ford Coppola,"Drama, Policial",Lonne Elder III,"Marlon Brando, Al Pacino, Robert Duvall, Diane Keaton, Richard S. Castellano",True
+326,Cabaret,7.8,1972,2h 4m,Bob Fosse,"Drama, Musical, Musical, Romance","Joe Masteroff, John Van Druten, Christopher Isherwood","Liza Minnelli, Michael York, Helmut Griem, Joel Grey, Fritz Wepper",False
+327,Deliverance,7.6,1972,1h 49m,John Boorman,"Aventura, Drama, Suspense",James Dickey,"Jon Voight, Burt Reynolds, Ned Beatty, Ronny Cox, Billy Redden",False
+328,Sounder,7.5,1972,1h 45m,Martin Ritt,"Drama, Família",Lonne Elder III,"Cicely Tyson, Paul Winfield, Kevin Hooks, Taj Mahal, Paul Hamilton",False
+329,The Emigrants,8.0,1971,3h 11m,Jan Troell,"Drama, História","Jan Troell, Bengt Forslund","Max von Sydow, Liv Ullmann, Eddie Axberg, Allan Edwall, Pierre Lindstedt",False
+330,The French Connection,7.7,1971,1h 44m,William Friedkin,"Ação, Drama, Policial, Suspense","Stanley Kubrick, Anthony Burgess","Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke, James Marcus",True
 331,A Clockwork Orange,8.2,1971,2h 16m,Stanley Kubrick,"Ficção científica, Policial","Stanley Kubrick, Anthony Burgess","Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke, James Marcus",False
-332,Nicholas and Alexandra,7.2,1971,3h 3m,Franklin J. Schaffner,"Biografia, Drama, Guerra, História","Robert K. Massie, Edward Bond, James Goldman","Michael Jayston, Janet Suzman, Roderic Noble, Ania Marson, Lynne Frederick",False
-333,The Emigrants,8.0,1971,3h 11m,Jan Troell,"Drama, História","Jan Troell, Bengt Forslund","Max von Sydow, Liv Ullmann, Eddie Axberg, Allan Edwall, Pierre Lindstedt",False
-334,The French Connection,7.7,1971,1h 44m,William Friedkin,"Ação, Drama, Policial, Suspense","Stanley Kubrick, Anthony Burgess","Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke, James Marcus",False
-335,The Last Picture Show,8.0,1971,1h 58m,Peter Bogdanovich,"Drama, Romance","Larry McMurtry, Peter Bogdanovich","Timothy Bottoms, Jeff Bridges, Cybill Shepherd, Ben Johnson, Cloris Leachman",False
+332,Fiddler on the Roof,8.0,1971,3h 1m,Norman Jewison,"Drama, Romance","Joseph Stein, Arnold Perl","Topol, Norma Crane, Leonard Frey, Molly Picon, Rosalind Harris",False
+333,Nicholas and Alexandra,7.2,1971,3h 3m,Franklin J. Schaffner,"Biografia, Drama, Guerra, História","Robert K. Massie, Edward Bond, James Goldman","Michael Jayston, Janet Suzman, Roderic Noble, Ania Marson, Lynne Frederick",False
+334,The Last Picture Show,8.0,1971,1h 58m,Peter Bogdanovich,"Drama, Romance","Larry McMurtry, Peter Bogdanovich","Timothy Bottoms, Jeff Bridges, Cybill Shepherd, Ben Johnson, Cloris Leachman",False
+335,Patton,7.9,1970,2h 52m,Franklin J. Schaffner,"Biografia, Drama, Guerra","Francis Ford Coppola, Edmund H. North, Ladislas Farago","George C. Scott, Karl Malden, Stephen Young, Michael Strong, Carey Loftin",True
 336,Airport,6.6,1970,2h 17m,"George Seaton, Henry Hathaway","Ação, Drama, Suspense",Ring Lardner Jr.,"Donald Sutherland, Elliott Gould, Tom Skerritt, Sally Kellerman, Robert Duvall",False
 337,Five Easy Pieces,7.4,1970,1h 38m,Bob Rafelson,Drama,Erich Segal,"Ali MacGraw, Ryan O'Neal, John Marley, Ray Milland, Tom Skerritt",False
 338,Love Story,6.9,1970,1h 40m,Arthur Hiller,"Drama, Romance","Bob Rafelson, Adrien Joyce","Jack Nicholson, Karen Black, Susan Anspach, Sally Struthers, Toni Basil",False
 339,MASH,7.3,1970,1h 56m,Robert Altman,"Comédia, Drama, Guerra",Ring Lardner Jr.,"Donald Sutherland, Elliott Gould, Tom Skerritt, Sally Kellerman, Robert Duvall",False
-340,Patton,7.9,1970,2h 52m,Franklin J. Schaffner,"Biografia, Drama, Guerra","Francis Ford Coppola, Edmund H. North, Ladislas Farago","George C. Scott, Karl Malden, Stephen Young, Michael Strong, Carey Loftin",False
-341,Midnight Cowboy,7.8,1969,1h 53m,John Schlesinger,Drama,Waldo Salt,"Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver, Brenda Vaccaro",True
-342,Z,8.1,1969,2h 7m,Costa-Gavras,"Drama, Policial, Suspense",Waldo Salt,"Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver, Brenda Vaccaro",True
-343,Anne of the Thousand Days,7.4,1969,2h 25m,Charles Jarrott,"Biografia, Drama, História","Bridget Boland, John Hale, Richard Sokolove","Richard Burton, Geneviève Bujold, Irene Papas, Anthony Quayle, John Colicos",False
-344,Butch Cassidy and the Sundance Kid,8.0,1969,1h 50m,George Roy Hill,"Aventura, Biografia, Drama, Faroeste, Policial","Costa-Gavras, Jorge Semprún","Jean-Louis Trintignant, Yves Montand, Irene Papas, Charles Denner, Georges Géret",False
-345,"Hello, Dolly!",7.0,1969,2h 26m,Gene Kelly,"Aventura, Comédia, Musical, Romance","Michael Stewart, Thornton Wilder, Ernest Lehman","Barbra Streisand, Walter Matthau, Michael Crawford, Marianne McAndrew, Danny Lockin",False
-346,Romeo and Juliet,7.6,1968,2h 18m,Franco Zeffirelli,"Drama, Romance","William Shakespeare, Franco Brusati, Masolino D'Amico","Leonard Whiting, Olivia Hussey, John McEnery, Milo O'Shea, Pat Heywood",True
-347,Funny Girl,7.4,1968,2h 31m,William Wyler,"Biografia, Comédia, Drama, Musical, Romance",Stewart Stern,"Joanne Woodward, James Olson, Kate Harrington, Stephen Elliott, Estelle Parsons",False
-348,Oliver!,7.4,1968,2h 33m,Carol Reed,"Drama, Família, Musical",James Goldman,"Peter O'Toole, Katharine Hepburn, Anthony Hopkins, Timothy Dalton, Nigel Terry",False
-349,"Rachel, Rachel",7.1,1968,1h 41m,Paul Newman,"Drama, Romance",Stewart Stern,"Joanne Woodward, James Olson, Kate Harrington, Stephen Elliott, Estelle Parsons",False
+340,Midnight Cowboy,7.8,1969,1h 53m,John Schlesinger,Drama,Waldo Salt,"Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver, Brenda Vaccaro",True
+341,Anne of the Thousand Days,7.4,1969,2h 25m,Charles Jarrott,"Biografia, Drama, História","Bridget Boland, John Hale, Richard Sokolove","Richard Burton, Geneviève Bujold, Irene Papas, Anthony Quayle, John Colicos",False
+342,Butch Cassidy and the Sundance Kid,8.0,1969,1h 50m,George Roy Hill,"Aventura, Biografia, Drama, Faroeste, Policial","Costa-Gavras, Jorge Semprún","Jean-Louis Trintignant, Yves Montand, Irene Papas, Charles Denner, Georges Géret",False
+343,"Hello, Dolly!",7.0,1969,2h 26m,Gene Kelly,"Aventura, Comédia, Musical, Romance","Michael Stewart, Thornton Wilder, Ernest Lehman","Barbra Streisand, Walter Matthau, Michael Crawford, Marianne McAndrew, Danny Lockin",False
+344,Z,8.1,1969,2h 7m,Costa-Gavras,"Drama, Policial, Suspense",Waldo Salt,"Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver, Brenda Vaccaro",False
+345,Oliver!,7.4,1968,2h 33m,Carol Reed,"Drama, Família, Musical",James Goldman,"Peter O'Toole, Katharine Hepburn, Anthony Hopkins, Timothy Dalton, Nigel Terry",True
+346,Funny Girl,7.4,1968,2h 31m,William Wyler,"Biografia, Comédia, Drama, Musical, Romance",Stewart Stern,"Joanne Woodward, James Olson, Kate Harrington, Stephen Elliott, Estelle Parsons",False
+347,"Rachel, Rachel",7.1,1968,1h 41m,Paul Newman,"Drama, Romance",Stewart Stern,"Joanne Woodward, James Olson, Kate Harrington, Stephen Elliott, Estelle Parsons",False
+348,Romeo and Juliet,7.6,1968,2h 18m,Franco Zeffirelli,"Drama, Romance","William Shakespeare, Franco Brusati, Masolino D'Amico","Leonard Whiting, Olivia Hussey, John McEnery, Milo O'Shea, Pat Heywood",False
 350,The Lion in Winter,7.8,1968,2h 14m,Anthony Harvey,"Biografia, Drama, História",James Goldman,"Peter O'Toole, Katharine Hepburn, Anthony Hopkins, Timothy Dalton, Nigel Terry",False
 351,In the Heat of the Night,7.9,1967,1h 50m,Norman Jewison,"Drama, Mistério, Suspense",Stirling Silliphant,"Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant, James Anderson",True
-352,The Graduate,8.0,1967,1h 46m,Mike Nichols,"Comédia, Drama, Romance",Stirling Silliphant,"Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant, James Anderson",True
-353,Bonnie and Clyde,7.7,1967,1h 51m,Arthur Penn,"Ação, Biografia, Drama, Policial",William Rose,"Spencer Tracy, Sidney Poitier, Katharine Hepburn, Katharine Houghton, Cecil Kellaway",False
-354,Doctor Dolittle,6.2,1967,2h 32m,Richard Fleischer,"Aventura, Comédia, Família, Fantasia, Musical, Romance","Hugh Lofting, Leslie Bricusse","Rex Harrison, Samantha Eggar, Anthony Newley, Richard Attenborough, Peter Bull",False
-355,Guess Who's Coming to Dinner,7.8,1967,1h 48m,Stanley Kramer,"Comédia, Drama",William Rose,"Spencer Tracy, Sidney Poitier, Katharine Hepburn, Katharine Houghton, Cecil Kellaway",False
+352,Bonnie and Clyde,7.7,1967,1h 51m,Arthur Penn,"Ação, Biografia, Drama, Policial",William Rose,"Spencer Tracy, Sidney Poitier, Katharine Hepburn, Katharine Houghton, Cecil Kellaway",False
+353,Doctor Dolittle,6.2,1967,2h 32m,Richard Fleischer,"Aventura, Comédia, Família, Fantasia, Musical, Romance","Hugh Lofting, Leslie Bricusse","Rex Harrison, Samantha Eggar, Anthony Newley, Richard Attenborough, Peter Bull",False
+354,Guess Who's Coming to Dinner,7.8,1967,1h 48m,Stanley Kramer,"Comédia, Drama",William Rose,"Spencer Tracy, Sidney Poitier, Katharine Hepburn, Katharine Houghton, Cecil Kellaway",False
+355,The Graduate,8.0,1967,1h 46m,Mike Nichols,"Comédia, Drama, Romance",Stirling Silliphant,"Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant, James Anderson",False
 356,A Man for All Seasons,7.7,1966,2h,Fred Zinnemann,"Biografia, Drama, História",Robert Bolt,"Paul Scofield, Wendy Hiller, Robert Shaw, Leo McKern, Orson Welles",True
 357,Alfie,7.0,1966,1h 54m,Lewis Gilbert,"Comédia, Drama",Bill Naughton,"Michael Caine, Shelley Winters, Millicent Martin, Julia Foster, Jane Aster",False
 358,The Russians Are Coming! The Russians Are Coming!,7.0,1966,1h 54m,Norman Jewison,"Comédia, Drama",William Rose,"Carl Reiner, Eva Marie Saint, Alan Arkin, Brian Keith, Jonathan Winters",False
