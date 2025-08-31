@@ -561,9 +561,9 @@
 559,The Informer,7.3,1935,1h 31m,John Ford,"Drama, Policial","Howard J. Green, Sidney Buchman","William Powell, Jean Harlow, Myrna Loy, Spencer Tracy, Walter Connolly",False
 560,The Lives of a Bengal Lancer,7.0,1935,1h 49m,Henry Hathaway,"Aventura, Drama, Guerra","Grover Jones, William Slavens McNutt","Gary Cooper, Franchot Tone, Richard Cromwell, Douglass Montgomery, Guy Kibbee",False
 561,Top Hat,7.7,1935,1h 41m,Mark Sandrich,"Comédia, Musical, Romance","Allan Scott, Dwight Taylor","Fred Astaire, Ginger Rogers, Edward Everett Horton, Erik Rhodes, Helen Broderick",False
-562,Cleopatra,6.8,1934,1h 40m,Cecil B. DeMille,"Biografia, Drama, História","Waldemar Young, Vincent Lawrence, Bartlett Cormack","Claudette Colbert, Warren William, Henry Wilcoxon, Joseph Schildkraut, Ian Keith",True
-563,It Happened One Night,8.1,1934,1h 45m,Frank Capra,"Comédia, Romance",Dudley Nichols,"Victor McLaglen, Heather Angel, Preston Foster, Margot Grahame, Wallace Ford",True
-564,David Copperfield,5.6,1934,1h 37m,Frank Borzage,Musical,"Lenore J. Coffee, Howard Estabrook, S.K. Lauren","Freddie Bartholomew, Edna May Oliver, Basil Rathbone, W.C. Fields, Maureen O'Sullivan",False
+562,It Happened One Night,8.1,1934,1h 45m,Frank Capra,"Comédia, Romance",Dudley Nichols,"Victor McLaglen, Heather Angel, Preston Foster, Margot Grahame, Wallace Ford",True
+563,Cleopatra,6.8,1934,1h 40m,Cecil B. DeMille,"Biografia, Drama, História","Waldemar Young, Vincent Lawrence, Bartlett Cormack","Claudette Colbert, Warren William, Henry Wilcoxon, Joseph Schildkraut, Ian Keith",False
+564,Flirtation Walk,5.6,1934,1h 37m,Frank Borzage,Musical,"Delmer Daves, Louis F. Edelman","Dick Powell, Ruby Keeler, Pat O'Brien, Ross Alexander, John Arledge",False
 565,Here Comes the Navy,6.2,1934,1h 27m,Lloyd Bacon,"Comédia, Drama, Guerra, Romance",Casey Robinson,"Errol Flynn, Olivia de Havilland, Basil Rathbone, Ross Alexander, Hobart Cavanaugh",False
 566,Imitation of Life,7.5,1934,1h 51m,John M. Stahl,"Comédia, Drama, Romance","Jack McGowan, Richard Macaulay, Irving Brecher","Jack Benny, Eleanor Powell, Robert Taylor, Una Merkel, Sid Silvers",False
 567,One Night of Love,5.6,1934,1h 24m,Victor Schertzinger,"Comédia, Musical, Romance","Dorothy Yost, Sarah Y. Mason","Katharine Hepburn, Fred MacMurray, Fred Stone, Frank Albertson, Fred Kohler Jr.",False
@@ -573,16 +573,16 @@
 571,The Thin Man,7.9,1934,1h 31m,W.S. Van Dyke,"Comédia, Mistério, Policial, Romance","Albert Hackett, Frances Goodrich","William Powell, Myrna Loy, Maureen O'Sullivan, Nat Pendleton, Porter Hall",False
 572,The White Parade,6.5,1934,1h 20m,Irving Cummings,Drama,"Samuel Hoffenstein, George Oppenheimer","Grace Moore, Tullio Carminati, Lyle Talbot, Harry Stockwell, Olive Tell",False
 573,Viva Villa!,6.3,1934,1h 55m,"Jack Conway, Howard Hawks, William A. Wellman","Biografia, Drama, Faroeste",William Hurlbut,"Claudette Colbert, Warren William, Rochelle Hudson, Louise Beavers, Alan Hale",False
-574,42nd Street,7.3,1933,1h 29m,Lloyd Bacon,"Comédia, Drama, Musical, Romance","Frank Wead, William Conselman","James Cagney, Pat O'Brien, Gloria Stuart, Frank McHugh, Guy Kibbee",False
-575,Cavalcade,5.8,1933,1h 52m,Frank Lloyd,"Drama, Guerra, Romance",Nunnally Johnson,"George Arliss, Loretta Young, Boris Karloff, Henry Travers, Louis Calhern",False
-576,Lady for a Day,7.4,1933,1h 36m,Frank Capra,"Comédia, Drama","Dwight Taylor, Guy Bolton","Fred Astaire, Ginger Rogers, Edward Everett Horton, Eric Blore, Eric Campbell",False
-577,Little Women,7.1,1933,1h 55m,George Cukor,"Drama, Família, Guerra, Romance","Louisa May Alcott, Sarah Y. Mason, Victor Heerman","Katharine Hepburn, Joan Bennett, Paul Lukas, Edna May Oliver, Jean Parker",False
-578,She Done Him Wrong,6.3,1933,1h 6m,Lowell Sherman,"Comédia, Drama, História, Musical, Romance",Lamar Trotti,"Dick Powell, Ruby Keeler, Pat O'Brien, Ross Alexander, John Arledge",False
-579,State Fair,6.7,1933,1h 39m,Henry King,"Comédia, Drama, Romance","Morrie Ryskind, Sonya Levien","Janet Gaynor, Will Rogers, Allan Jones, June Knight, Helen Westley",False
-580,The Private Life of Henry VIII,7.0,1933,1h 37m,Alexander Korda,"Biografia, Drama, História","Edith Fitzgerald, Ian McLellan Hunter","Norma Shearer, Fredric March, Charles Laughton, Maureen O'Sullivan, Glenn Anders",False
-581,A Farewell to Arms,6.4,1932,1h 20m,Frank Borzage,"Drama, Guerra, Romance",Robert Riskin,"Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas",True
-582,I Am a Fugitive from a Chain Gang,8.2,1932,1h 32m,Mervyn LeRoy,"Drama, Filme noir, Policial",Anita Loos,"Mae West, Cary Grant, Owen Moore, Gilbert Roland, Rochelle Hudson",False
-583,Smilin' Through,6.9,1932,1h 38m,Sidney Franklin,"Drama, Romance",Jane Murfin,"Norma Shearer, Fredric March, Leslie Howard, Ralph Forbes, Anita Louise",False
+574,Cavalcade,5.8,1933,1h 52m,Frank Lloyd,"Drama, Guerra, Romance",Nunnally Johnson,"George Arliss, Loretta Young, Boris Karloff, Henry Travers, Louis Calhern",True
+575,42nd Street,7.3,1933,1h 29m,Lloyd Bacon,"Comédia, Drama, Musical, Romance","Frank Wead, William Conselman","James Cagney, Pat O'Brien, Gloria Stuart, Frank McHugh, Guy Kibbee",False
+576,A Farewell to Arms,6.4,1932,1h 20m,Frank Borzage,"Drama, Guerra, Romance",Robert Riskin,"Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas",True
+577,I Am a Fugitive from a Chain Gang,8.2,1932,1h 32m,Mervyn LeRoy,"Drama, Filme noir, Policial",Anita Loos,"Mae West, Cary Grant, Owen Moore, Gilbert Roland, Rochelle Hudson",False
+578,Lady for a Day,7.4,1933,1h 36m,Frank Capra,"Comédia, Drama","Dwight Taylor, Guy Bolton","Fred Astaire, Ginger Rogers, Edward Everett Horton, Eric Blore, Eric Campbell",False
+579,Little Women,7.1,1933,1h 55m,George Cukor,"Drama, Família, Guerra, Romance","Louisa May Alcott, Sarah Y. Mason, Victor Heerman","Katharine Hepburn, Joan Bennett, Paul Lukas, Edna May Oliver, Jean Parker",False
+580,She Done Him Wrong,6.3,1933,1h 6m,Lowell Sherman,"Comédia, Drama, História, Musical, Romance",Lamar Trotti,"Dick Powell, Ruby Keeler, Pat O'Brien, Ross Alexander, John Arledge",False
+581,State Fair,6.7,1933,1h 39m,Henry King,"Comédia, Drama, Romance","Morrie Ryskind, Sonya Levien","Janet Gaynor, Will Rogers, Allan Jones, June Knight, Helen Westley",False
+582,Smilin' Through,6.9,1932,1h 38m,Sidney Franklin,"Drama, Romance",Jane Murfin,"Norma Shearer, Fredric March, Leslie Howard, Ralph Forbes, Anita Louise",False
+583,The Private Life of Henry VIII,7.0,1933,1h 37m,Alexander Korda,"Biografia, Drama, História","Edith Fitzgerald, Ian McLellan Hunter","Norma Shearer, Fredric March, Charles Laughton, Maureen O'Sullivan, Glenn Anders",False
 584,Grand Hotel,7.3,1932,1h 52m,Edmund Goulding,"Drama, Romance","Morrie Ryskind, Sonya Levien","Janet Gaynor, Will Rogers, Allan Jones, June Knight, Helen Westley",True
 585,Arrowsmith,6.2,1931,1h 48m,John Ford,Drama,Robert Riskin,"May Robson, Warren William, Karen Morley, Joan Blondell, Glenda Farrell",False
 586,Bad Girl,6.4,1931,1h 30m,Frank Borzage,"Drama, Romance",Sheridan Gibney,"Paul Muni, Helen Vinson, Glenda Farrell, Preston Foster, Allen Jenkins",False
@@ -609,4 +609,4 @@
 607,The Crowd,8.0,1928,1h 38m,King Vidor,"Drama, Romance","King Vidor, John V.A. Weaver","James Murray, Eleanor Boardman, Raymond Hatton, Clarine Seymour, Malcolm Waite",False
 608,Wings,7.5,1927,2h 24m,"William A. Wellman, Harry d'Abbadie d'Arrast","Ação, Drama, Guerra, Romance",John Monk Saunders,"Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston, El Brendel",True
 609,7th Heaven,7.5,1927,1h 50m,Frank Borzage,"Drama, Romance","Benjamin Glazer, Kenneth Webb","Janet Gaynor, Charles Farrell, Ben Bard, Albert Gran, Olive Borden",False
-610,The Racket,6.6,1928,1h 24m,Lewis Milestone,"Drama, Filme noir, Policial","Louis N. Parker, James Forbes","George Arliss, Doris Lloyd, Joan Bennett, Florence Arliss, Anthony Bushell",True
+610,The Racket,6.6,1928,1h 24m,Lewis Milestone,"Drama, Filme noir, Policial","Louis N. Parker, James Forbes","George Arliss, Doris Lloyd, Joan Bennett, Florence Arliss, Anthony Bushell",False
