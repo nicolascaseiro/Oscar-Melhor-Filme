@@ -135,6 +135,7 @@
 133,Toy Story 3,8.3,2010,1h 43m,Lee Unkrich,"Animação, Aventura, Comédia, Família, Fantasia","John Lasseter, Andrew Stanton, Lee Unkrich","Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty, Don Rickles",False
 134,True Grit,7.6,2010,1h 50m,"Ethan Coen, Joel Coen","Drama, Faroeste","Joel Coen, Ethan Coen, Charles Portis","Jeff Bridges, Matt Damon, Hailee Steinfeld, Josh Brolin, Barry Pepper",False
 135,Winter's Bone,7.1,2010,1h 40m,Debra Granik,"Drama, Mistério, Policial, Suspense","Debra Granik, Anne Rosellini, Daniel Woodrell","Jennifer Lawrence, John Hawkes, Garret Dillahunt, Isaiah Stone, Ashlee Thompson",False
+146,The Hurt Locker,7.5,2008,2h 11m,Kathryn Bigelow,"Drama, Guerra, Suspense",Mark Boal,"Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce, Ralph Fiennes",True
 136,A Serious Man,7.0,2009,1h 46m,"Ethan Coen, Joel Coen","Comédia, Drama","Joel Coen, Ethan Coen","Michael Stuhlbarg, Richard Kind, Sari Lennick, Fred Melamed, Aaron Wolff",False
 137,An Education,7.2,2009,1h 40m,Lone Scherfig,Drama,"Lynn Barber, Nick Hornby","Carey Mulligan, Peter Sarsgaard, Alfred Molina, Olivia Williams, Cara Seymour",False
 138,Avatar,7.9,2009,2h 42m,James Cameron,"Aventura, Ação, Fantasia, Ficção científica",James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Michelle Rodriguez, Stephen Lang",False
@@ -145,7 +146,6 @@
 143,Up,8.3,2009,1h 36m,"Pete Docter, Bob Peterson","Animação, Aventura, Comédia, Drama, Família","Pete Docter, Bob Peterson, Tom McCarthy","Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer, Bob Peterson",False
 144,Up in the Air,7.4,2009,1h 49m,Jason Reitman,"Comédia, Drama, Romance","Walter Kirn, Jason Reitman, Sheldon Turner","George Clooney, Vera Farmiga, Anna Kendrick, Jason Bateman, Amy Morton",False
 145,Slumdog Millionaire,8.0,2008,2h,"Danny Boyle, Loveleen Tandan","Drama, Policial, Romance","Simon Beaufoy, Vikas Swarup","Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor, Raj Zutshi",True
-146,The Hurt Locker,7.5,2008,2h 11m,Kathryn Bigelow,"Drama, Guerra, Suspense",Mark Boal,"Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce, Ralph Fiennes",True
 147,Frost/Nixon,7.6,2008,2h 2m,Ron Howard,"Biografia, Drama, História",Peter Morgan,"Frank Langella, Michael Sheen, Kevin Bacon, Sam Rockwell, Matthew Macfadyen",False
 148,Milk,7.5,2008,2h 8m,Gus Van Sant,"Biografia, Drama, História",Dustin Lance Black,"Sean Penn, Josh Brolin, Emile Hirsch, Diego Luna, James Franco",False
 149,The Curious Case of Benjamin Button,7.8,2008,2h 46m,David Fincher,"Drama, Fantasia, Romance","Eric Roth, Robin Swicord, F. Scott Fitzgerald","Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond, Faune Chambers Watkins",False
@@ -160,27 +160,26 @@
 158,Letters from Iwo Jima,7.8,2006,2h 21m,Clint Eastwood,"Aventura, Ação, Drama, Guerra, História","Iris Yamashita, Paul Haggis, Tadamichi Kuribayashi","Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara, Ryô Kase, Shidô Nakamura",False
 159,Little Miss Sunshine,7.8,2006,1h 41m,"Jonathan Dayton, Valerie Faris","Comédia, Drama",Michael Arndt,"Steve Carell, Toni Collette, Greg Kinnear, Abigail Breslin, Paul Dano",False
 160,The Queen,7.3,2006,1h 43m,Stephen Frears,"Biografia, Drama",Peter Morgan,"Helen Mirren, Michael Sheen, James Cromwell, Alex Jennings, Roger Allam",False
+165,Crash,7.7,2004,1h 52m,Paul Haggis,"Drama, Policial, Suspense","Paul Haggis, Bobby Moresco","Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave, Dato Bakhtadze",True
 161,Brokeback Mountain,7.7,2005,2h 14m,Ang Lee,"Drama, Romance","Annie Proulx, Larry McMurtry, Diana Ossana","Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid, Valerie Planche",False
 162,Capote,7.3,2005,1h 54m,Bennett Miller,"Biografia, Drama, História, Policial","Dan Futterman, Gerald Clarke","Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener, Allie Mickelson, Kelci Stephenson",False
 163,"Good Night, and Good Luck.",7.4,2005,1h 33m,George Clooney,"Biografia, Drama, História","George Clooney, Grant Heslov","David Strathairn, George Clooney, Patricia Clarkson, Jeff Daniels, Alex Borstein",False
 164,Munich,7.5,2005,2h 44m,Steven Spielberg,"Drama, História, Suspense","Tony Kushner, Eric Roth, George Jonas","Eric Bana, Daniel Craig, Marie-Josée Croze, Ciarán Hinds, Mathieu Kassovitz",False
-165,Crash,7.7,2004,1h 52m,Paul Haggis,"Drama, Policial, Suspense","Paul Haggis, Bobby Moresco","Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave, Dato Bakhtadze",True
 166,Million Dollar Baby,8.1,2004,2h 12m,Clint Eastwood,"Drama, Esportes","Paul Haggis, F.X. Toole","Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel, Mike Colter",True
+170,The Aviator,7.5,2004,2h 50m,Martin Scorsese,"Biografia, Drama",John Logan,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly, Alec Baldwin",False
 167,Finding Neverland,7.6,2004,1h 46m,Marc Forster,"Biografia, Drama, Família","Allan Knee, David Magee","Johnny Depp, Kate Winslet, Julie Christie, Radha Mitchell, Dustin Hoffman",False
 168,Ray,7.7,2004,2h 32m,Taylor Hackford,"Biografia, Drama, Musical","Taylor Hackford, James L. White","Jamie Foxx, Regina King, Kerry Washington, Clifton Powell, Harry Lennix",False
 169,Sideways,7.5,2004,2h 7m,Alexander Payne,"Comédia, Drama, Romance","Rex Pickett, Alexander Payne, Jim Taylor","Paul Giamatti, Thomas Haden Church, Virginia Madsen, Sandra Oh, Marylouise Burke",False
-170,The Aviator,7.5,2004,2h 50m,Martin Scorsese,"Biografia, Drama",John Logan,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly, Alec Baldwin",False
-171,Master and Commander: The Far Side of the World,7.5,2003,2h 18m,Peter Weir,"Aventura, Ação, Drama, Guerra","Patrick O'Brian, Peter Weir, John Collee","Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy, Edward Woodall",True
-172,Mystic River,7.9,2003,2h 18m,Clint Eastwood,"Drama, Mistério, Policial, Suspense",Brian Helgeland,"Sean Penn, Tim Robbins, Kevin Bacon, Laurence Fishburne, Marcia Gay Harden",True
-173,Seabiscuit,7.3,2003,2h 20m,Gary Ross,"Drama, Esportes, História","Fran Walsh, Philippa Boyens, Peter Jackson","Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Astin",True
 174,The Lord of the Rings: The Return of the King,9.0,2003,3h 21m,Peter Jackson,"Aventura, Drama, Fantasia","Fran Walsh, Philippa Boyens, Peter Jackson","Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Astin",True
+171,Master and Commander: The Far Side of the World,7.5,2003,2h 18m,Peter Weir,"Aventura, Ação, Drama, Guerra","Patrick O'Brian, Peter Weir, John Collee","Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy, Edward Woodall",False
+172,Mystic River,7.9,2003,2h 18m,Clint Eastwood,"Drama, Mistério, Policial, Suspense",Brian Helgeland,"Sean Penn, Tim Robbins, Kevin Bacon, Laurence Fishburne, Marcia Gay Harden",False
+173,Seabiscuit,7.3,2003,2h 20m,Gary Ross,"Drama, História, Esporte","Laura Hillenbrand, Gary Ross","Tobey Maguire, Jeff Bridges, Elizabeth Banks, Chris Cooper, David McCullough",False
 175,Lost in Translation,7.7,2003,1h 42m,Sofia Coppola,"Comédia, Drama",Sofia Coppola,"Bill Murray, Scarlett Johansson, Giovanni Ribisi, Anna Faris, Fumihiro Hayashi",False
-176,Chicago,7.2,2002,1h 53m,Rob Marshall,"Comédia, Musical, Policial","Bill Condon, Bob Fosse, Fred Ebb","Renée Zellweger, Catherine Zeta-Jones, Richard Gere, Taye Diggs, Cliff Saunders",False
-177,Gangs of New York,7.5,2002,2h 47m,Martin Scorsese,"Drama, Policial","Fran Walsh, Philippa Boyens, Peter Jackson","Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Bernard Hill",False
+176,Chicago,7.2,2002,1h 53m,Rob Marshall,"Comédia, Musical, Policial","Bill Condon, Bob Fosse, Fred Ebb","Renée Zellweger, Catherine Zeta-Jones, Richard Gere, Taye Diggs, Cliff Saunders",True
+177,Gangs of New York,7.5,2002,2h 47m,Martin Scorsese,"Crime, Drama","Jay Cocks, Steven Zaillian, Kenneth Lonergan","Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis, Jim Broadbent, John C. Reilly",False
 178,The Hours,7.5,2002,1h 50m,Stephen Daldry,"Drama, Romance",David Hare,"Nicole Kidman, Meryl Streep, Julianne Moore, Ed Harris, John C. Reilly",False
 179,The Lord of the Rings: The Two Towers,8.8,2002,2h 59m,Peter Jackson,"Aventura, Drama, Fantasia","Fran Walsh, Philippa Boyens, Peter Jackson","Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Bernard Hill",False
 180,The Pianist,8.5,2002,2h 30m,Roman Polanski,"Biografia, Drama, Guerra, Musical","Ronald Harwood, Wladyslaw Szpilman","Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox, Michal Zebrowski",False
-
 181,A Beautiful Mind,8.2,2001,2h 15m,Ron Howard,"Biografia, Drama, Mistério",Akiva Goldsman,"Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany, Christopher Plummer",True
 184,Gosford Park,7.2,2001,2h 17m,Robert Altman,"Comédia, Drama, Mistério","Todd Field, Robert Festinger","Sissy Spacek, Tom Wilkinson, Marisa Tomei, Nick Stahl, William Mapother",False
 185,In the Bedroom,7.4,2001,2h 11m,Todd Field,"Drama, Policial",Julian Fellowes,"Maggie Smith, Michael Gambon, Kristin Scott Thomas, Helen Mirren, Clive Owen",False
