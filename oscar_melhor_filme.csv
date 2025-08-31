@@ -519,26 +519,26 @@
 517,Of Mice and Men,7.8,1939,1h 46m,Lewis Milestone,"Aventura, Drama",Sidney Buchman,"James Stewart, Jean Arthur, Claude Rains, Edward Arnold, Joseph Sawyer",False
 518,Stagecoach,7.8,1939,1h 36m,John Ford,"Aventura, Drama, Faroeste","Delmer Daves, Donald Ogden Stewart","Irene Dunne, Charles Boyer, Maria Ouspenskaya, Lee Bowman, Astrid Allwyn",False
 519,The Wizard of Oz,8.1,1939,1h 42m,"Victor Fleming, George Cukor, Norman Taurog, Richard Thorpe, King Vidor","Aventura, Família, Fantasia, Musical","Eric Maschwitz, Claudine West","Robert Donat, Greer Garson, Terry Kilburn, John Mills, Lyn Harding",False
-520,Alexander's Ragtime Band,6.8,1938,1h 46m,Henry King,"Drama, Musical, Musical, Romance","Bertram Millhauser, Humphrey Pearson","Bette Davis, George Brent, Humphrey Bogart, Geraldine Fitzgerald, Ronald Reagan",False
-521,Boys Town,7.2,1938,1h 36m,Norman Taurog,"Biografia, Drama, Família","Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
-522,Four Daughters,6.9,1938,1h 30m,Michael Curtiz,"Drama, Musical, Romance",Frank Wead,"Clark Gable, Myrna Loy, Spencer Tracy, Lionel Barrymore, Melvyn Douglas",False
-523,In Old Chicago,6.7,1938,1h 35m,Henry King,"Ação, Drama, Musical, Romance",George Bernard Shaw,"Leslie Howard, Wendy Hiller, Wilfrid Lawson, Donald Wolfit, Margaretta Scott",False
-524,Jezebel,7.4,1938,1h 44m,William Wyler,"Drama, Romance","Clements Ripley, Abem Finkel, John Huston","Bette Davis, Henry Fonda, George Brent, Margaret Lindsay, Donald Crisp",False
-525,Pygmalion,7.7,1938,1h 36m,"Anthony Asquith, Leslie Howard","Comédia, Drama, Romance","Jean Renoir, Charles Spaak","Jean Gabin, Dita Parlo, Pierre Fresnay, Erich von Stroheim, Marcel Dalio",False
-526,Test Pilot,6.8,1938,1h 59m,Victor Fleming,"Drama, Romance","Julius J. Epstein, Philip G. Epstein, Casey Robinson","Priscilla Lane, Rosemary Lane, Lola Lane, Gale Page, John Garfield",False
-527,The Adventures of Robin Hood,7.9,1938,1h 42m,"Michael Curtiz, William Keighley","Aventura, Ação, Romance","Ian Dalrymple, W.P. Lipscomb, Lewis Galantière","Robert Donat, Rosalind Russell, Ralph Richardson, Rex Harrison, Ben Webster",False
-528,The Citadel,7.0,1938,1h 50m,King Vidor,Drama,"Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
-529,You Can't Take It with You,7.8,1938,2h 6m,Frank Capra,"Comédia, Drama, Romance","Alan Scott, George O'Neil, Stephen Morehouse Avery","Tyrone Power, Alice Faye, Don Ameche, Ethel Merman, Jack Haley",False
-530,A Star Is Born,7.3,1937,1h 51m,"William A. Wellman, Jack Conway, Victor Fleming","Drama, Romance","Dorothy Parker, Alan Campbell, Robert Carson","Janet Gaynor, Fredric March, Adolphe Menjou, May Robson, Andy Devine",False
-531,Captains Courageous,7.9,1937,1h 57m,Victor Fleming,"Aventura, Drama, Família",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
-532,Dead End,7.2,1937,1h 33m,William Wyler,"Drama, Filme noir, Policial, Romance","Lillian Hellman, Sidney Kingsley","Sylvia Sidney, Joel McCrea, Humphrey Bogart, Wendy Barrie, Claire Trevor",False
-533,La grande illusion,8.1,1937,1h 53m,Jean Renoir,"Drama, Guerra","Morrie Ryskind, Anthony Veiller","Katharine Hepburn, Ginger Rogers, Adolphe Menjou, Gail Patrick, Andrea Leeds",False
-534,Lost Horizon,7.6,1937,2h 12m,Frank Capra,"Aventura, Drama, Fantasia, Mistério",Norman Krasna,"Deanna Durbin, Adolphe Menjou, Eugene Pallette, Alice Brady, Edward Everett Horton",False
-535,One Hundred Men and a Girl,6.7,1937,1h 24m,Henry Koster,"Comédia, Drama, Musical",Robert E. Sherwood,"Ronald Colman, Jane Wyatt, Edward Everett Horton, Isabel Jewell, John Howard",False
-536,Stage Door,7.7,1937,1h 32m,Gregory La Cava,"Comédia, Drama, Romance",Nunnally Johnson,"Alice Brady, Tyrone Power, Alice Faye, Don Ameche, Andy Devine",False
-537,The Awful Truth,7.6,1937,1h 30m,Leo McCarey,"Comédia, Romance",Dudley Nichols,"Paul Muni, Luise Rainer, Walter Huston, Tilly Losch, Charley Grapewin",False
-538,The Good Earth,7.5,1937,2h 18m,"Sidney Franklin, Victor Fleming, Gustav Machatý, Sam Wood","Drama, Romance",Dudley Nichols,"Paul Muni, Luise Rainer, Walter Huston, Tilly Losch, Charley Grapewin",False
-539,The Life of Emile Zola,7.1,1937,1h 56m,William Dieterle,"Biografia, Drama","Norman Reilly Raine, Seton I. Miller, Richard Maibaum","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles",False
+520,In Old Chicago,6.7,1938,1h 35m,Henry King,"Ação, Drama, Musical, Romance",George Bernard Shaw,"Leslie Howard, Wendy Hiller, Wilfrid Lawson, Donald Wolfit, Margaretta Scott",False
+521,You Can't Take It with You,7.8,1938,2h 6m,Frank Capra,"Comédia, Drama, Romance","Alan Scott, George O'Neil, Stephen Morehouse Avery","Tyrone Power, Alice Faye, Don Ameche, Ethel Merman, Jack Haley",True
+522,Alexander's Ragtime Band,6.8,1938,1h 46m,Henry King,"Drama, Musical, Musical, Romance","Bertram Millhauser, Humphrey Pearson","Bette Davis, George Brent, Humphrey Bogart, Geraldine Fitzgerald, Ronald Reagan",False
+523,Boys Town,7.2,1938,1h 36m,Norman Taurog,"Biografia, Drama, Família","Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
+524,Four Daughters,6.9,1938,1h 30m,Michael Curtiz,"Drama, Musical, Romance",Frank Wead,"Clark Gable, Myrna Loy, Spencer Tracy, Lionel Barrymore, Melvyn Douglas",False
+525,Jezebel,7.4,1938,1h 44m,William Wyler,"Drama, Romance","Clements Ripley, Abem Finkel, John Huston","Bette Davis, Henry Fonda, George Brent, Margaret Lindsay, Donald Crisp",False
+526,Pygmalion,7.7,1938,1h 36m,"Anthony Asquith, Leslie Howard","Comédia, Drama, Romance","Jean Renoir, Charles Spaak","Jean Gabin, Dita Parlo, Pierre Fresnay, Erich von Stroheim, Marcel Dalio",False
+527,Test Pilot,6.8,1938,1h 59m,Victor Fleming,"Drama, Romance","Julius J. Epstein, Philip G. Epstein, Casey Robinson","Priscilla Lane, Rosemary Lane, Lola Lane, Gale Page, John Garfield",False
+528,The Adventures of Robin Hood,7.9,1938,1h 42m,"Michael Curtiz, William Keighley","Aventura, Ação, Romance","Ian Dalrymple, W.P. Lipscomb, Lewis Galantière","Robert Donat, Rosalind Russell, Ralph Richardson, Rex Harrison, Ben Webster",False
+529,The Citadel,7.0,1938,1h 50m,King Vidor,Drama,"Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
+530,Grand Illusion,8.1,1937,1h 53m,Jean Renoir,"Drama, Guerra","Morrie Ryskind, Anthony Veiller","Katharine Hepburn, Ginger Rogers, Adolphe Menjou, Gail Patrick, Andrea Leeds",False
+531,The Life of Emile Zola,7.1,1937,1h 56m,William Dieterle,"Biografia, Drama","Norman Reilly Raine, Seton I. Miller, Richard Maibaum","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles",True
+532,A Star Is Born,7.3,1937,1h 51m,"William A. Wellman, Jack Conway, Victor Fleming","Drama, Romance","Dorothy Parker, Alan Campbell, Robert Carson","Janet Gaynor, Fredric March, Adolphe Menjou, May Robson, Andy Devine",False
+533,Captains Courageous,7.9,1937,1h 57m,Victor Fleming,"Aventura, Drama, Família",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
+534,Dead End,7.2,1937,1h 33m,William Wyler,"Drama, Filme noir, Policial, Romance","Lillian Hellman, Sidney Kingsley","Sylvia Sidney, Joel McCrea, Humphrey Bogart, Wendy Barrie, Claire Trevor",False
+535,Lost Horizon,7.6,1937,2h 12m,Frank Capra,"Aventura, Drama, Fantasia, Mistério",Norman Krasna,"Deanna Durbin, Adolphe Menjou, Eugene Pallette, Alice Brady, Edward Everett Horton",False
+536,One Hundred Men and a Girl,6.7,1937,1h 24m,Henry Koster,"Comédia, Drama, Musical",Robert E. Sherwood,"Ronald Colman, Jane Wyatt, Edward Everett Horton, Isabel Jewell, John Howard",False
+537,Stage Door,7.7,1937,1h 32m,Gregory La Cava,"Comédia, Drama, Romance",Nunnally Johnson,"Alice Brady, Tyrone Power, Alice Faye, Don Ameche, Andy Devine",False
+538,The Awful Truth,7.6,1937,1h 30m,Leo McCarey,"Comédia, Romance",Dudley Nichols,"Paul Muni, Luise Rainer, Walter Huston, Tilly Losch, Charley Grapewin",False
+539,The Good Earth,7.5,1937,2h 18m,"Sidney Franklin, Victor Fleming, Gustav Machatý, Sam Wood","Drama, Romance",Dudley Nichols,"Paul Muni, Luise Rainer, Walter Huston, Tilly Losch, Charley Grapewin",False
 540,The Great Ziegfeld,6.6,1936,2h 56m,Robert Z. Leonard,"Drama, Musical","Viña Delmar, Leo McCarey","Cary Grant, Irene Dunne, Ralph Bellamy, Alexander D'Arcy, Cecil Cunningham",True
 541,A Tale of Two Cities,7.8,1935,2h 8m,"Jack Conway, Robert Z. Leonard","Drama, História, Romance",Sidney Howard,"Walter Huston, Ruth Chatterton, Mary Astor, David Niven, Paul Lukas",False
 542,Anthony Adverse,6.3,1936,2h 21m,"Mervyn LeRoy, Michael Curtiz","Aventura, Drama, Romance",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
@@ -547,7 +547,7 @@
 545,Mr. Deeds Goes to Town,7.8,1936,1h 55m,Frank Capra,"Comédia, Drama, Romance","Pierre Collings, Sheridan Gibney","Paul Muni, Josephine Hutchinson, Anita Louise, Donald Woods, Henry O'Neill",True
 546,Romeo and Juliet,6.5,1936,2h 5m,George Cukor,"Drama, Romance","William Shakespeare, Franco Brusati, Masolino D'Amico","Leonard Whiting, Olivia Hussey, John McEnery, Milo O'Shea, Pat Heywood",False
 547,San Francisco,7.1,1936,1h 55m,W.S. Van Dyke,"Drama, Musical, Romance","Robert E. Hopkins, Casey Robinson, William R. Lipman","Clark Gable, Jeanette MacDonald, Spencer Tracy, Jack Holt, Jessie Ralph",False
-548,The Story of Louis Pasteur,7.3,1936,1h 26m,William Dieterle,"Biografia, Drama, História","Charles Brackett, John Huston, Walter Houston","Paul Muni, Joseph Schildkraut, Anne Baxter, Josephine Hutchinson, Gale Sondergaard",True
+548,The Story of Louis Pasteur,7.3,1936,1h 26m,William Dieterle,"Biografia, Drama, História","Charles Brackett, John Huston, Walter Houston","Paul Muni, Joseph Schildkraut, Anne Baxter, Josephine Hutchinson, Gale Sondergaard",False
 549,Three Smart Girls,6.6,1936,1h 24m,Henry Koster,"Comédia, Musical, Romance","Norman Krasna, Bruce Manning","Deanna Durbin, Nan Grey, Barbara Read, Robert Cummings, Eugene Pallette",False
 550,Mutiny on the Bounty,7.6,1935,2h 12m,Frank Lloyd,"Aventura, Biografia, Drama, História, Romance","Charles Lederer, Charles Nordhoff, James Norman Hall","Marlon Brando, Trevor Howard, Richard Harris, Hugh Griffith, Richard Haydn",True
 551,A Midsummer Night's Dream,6.8,1935,2h 13m,"William Dieterle, Max Reinhardt","Comédia, Fantasia, Romance",Robert Riskin,"Gary Cooper, Jean Arthur, Lionel Stander, Douglass Dumbrille, Ted Healy",False
