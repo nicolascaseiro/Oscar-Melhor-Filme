@@ -180,32 +180,32 @@
 178,The Hours,7.5,2002,1h 50m,Stephen Daldry,"Drama, Romance",David Hare,"Nicole Kidman, Meryl Streep, Julianne Moore, Ed Harris, John C. Reilly",False
 179,The Lord of the Rings: The Two Towers,8.8,2002,2h 59m,Peter Jackson,"Aventura, Drama, Fantasia","Fran Walsh, Philippa Boyens, Peter Jackson","Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Bernard Hill",False
 180,The Pianist,8.5,2002,2h 30m,Roman Polanski,"Biografia, Drama, Guerra, Musical","Ronald Harwood, Wladyslaw Szpilman","Adrien Brody, Thomas Kretschmann, Frank Finlay, Emilia Fox, Michal Zebrowski",False
+
 181,A Beautiful Mind,8.2,2001,2h 15m,Ron Howard,"Biografia, Drama, Mistério",Akiva Goldsman,"Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany, Christopher Plummer",True
-182,Moulin Rouge!,7.6,2001,2h 7m,Baz Luhrmann,"Drama, Musical, Romance",Akiva Goldsman,"Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany, Christopher Plummer",True
-183,The Lord of the Rings: The Fellowship of the Ring,8.9,2001,2h 58m,Peter Jackson,"Aventura, Drama, Fantasia","J.R.R. Tolkien, Fran Walsh, Philippa Boyens","Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean, Alan Howard",True
 184,Gosford Park,7.2,2001,2h 17m,Robert Altman,"Comédia, Drama, Mistério","Todd Field, Robert Festinger","Sissy Spacek, Tom Wilkinson, Marisa Tomei, Nick Stahl, William Mapother",False
 185,In the Bedroom,7.4,2001,2h 11m,Todd Field,"Drama, Policial",Julian Fellowes,"Maggie Smith, Michael Gambon, Kristin Scott Thomas, Helen Mirren, Clive Owen",False
-186,Traffic,7.5,2000,2h 27m,Steven Soderbergh,"Drama, Policial, Suspense",Stephen Gaghan,"Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones, Dennis Quaid, Don Cheadle",True
+182,Moulin Rouge!,7.6,2001,2h 7m,Baz Luhrmann,"Drama, Musical, Romance","Baz Luhrmann, Craig Pearce","Nicole Kidman, Ewan McGregor, John Leguizamo, Jim Broadbent, Richard Roxburgh",False
+183,The Lord of the Rings: The Fellowship of the Ring,8.9,2001,2h 58m,Peter Jackson,"Aventura, Drama, Fantasia","J.R.R. Tolkien, Fran Walsh, Philippa Boyens","Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean, Alan Howard",False
+190,Gladiator,8.5,2000,2h 35m,Ridley Scott,"Aventura, Ação, Drama","David Franzoni, John Logan, William Nicholson","Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris",True
 187,Chocolat,7.2,2000,2h 1m,Lasse Hallström,"Drama, Romance",Susannah Grant,"Julia Roberts, Albert Finney, Aaron Eckhart, Marg Helgenberger, Peter Coyote",False
 188,"Crouching Tiger, Hidden Dragon",7.9,2000,2h,Ang Lee,"Aventura, Ação, Drama, Fantasia, Romance","James Schamus, Hui-Ling Wang, Kuo Jung Tsai","Chow Yun-fat, Michelle Yeoh, Zhang Ziyi, Chang Chen, Sihung Lung",False
 189,Erin Brockovich,7.5,2000,2h 11m,Steven Soderbergh,"Biografia, Drama",Robert Nelson Jacobs,"Juliette Binoche, Johnny Depp, Judi Dench, Alfred Molina, Lena Olin",False
-190,Gladiator,8.5,2000,2h 35m,Ridley Scott,"Aventura, Ação, Drama","David Franzoni, John Logan, William Nicholson","Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris",False
-191,American Beauty,8.3,1999,2h 2m,Sam Mendes,Drama,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams, Donnie Wahlberg",False
+186,Traffic,7.5,2000,2h 27m,Steven Soderbergh,"Drama, Policial, Suspense",Stephen Gaghan,"Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones, Dennis Quaid, Don Cheadle",False
+191,American Beauty,8.3,1999,2h 2m,Sam Mendes,Drama,Alan Ball,"Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley, Mena Suvari",True
 192,The Cider House Rules,7.4,1999,2h 6m,Lasse Hallström,"Drama, Romance",John Irving,"Tobey Maguire, Charlize Theron, Michael Caine, Delroy Lindo, Paul Rudd",False
 193,The Green Mile,8.6,1999,3h 9m,Frank Darabont,"Drama, Fantasia, Mistério, Policial",Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse, Bonnie Hunt, James Cromwell",False
-194,The Insider,7.8,1999,2h 37m,Michael Mann,"Biografia, Drama, História, Suspense",John Irving,"Tobey Maguire, Charlize Theron, Michael Caine, Delroy Lindo, Paul Rudd",False
+194,The Insider,7.8,1999,2h 37m,Michael Mann,"Biografia, Drama, Suspense","Marie Brenner, Eric Roth, Michael Mann","Russell Crowe, Al Pacino, Christopher Plummer, Diane Venora, Philip Baker Hall",False
 195,The Sixth Sense,8.2,1999,1h 47m,M. Night Shyamalan,"Drama, Mistério, Suspense",M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette, Olivia Williams, Donnie Wahlberg",False
-196,Saving Private Ryan,8.6,1998,2h 49m,Steven Spielberg,"Drama, Guerra",Robert Rodat,"Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns, Barry Pepper",True
+188,Shakespeare in Love,7.1,1998,2h 3m,John Madden,"Comédia, Drama, História","Marc Norman, Tom Stoppard","Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush, Tom Wilkinson, Steven O'Donnell",True
 197,Elizabeth,7.4,1998,2h 4m,Shekhar Kapur,"Biografia, Drama, História",Michael Hirst,"Cate Blanchett, Liz Giles, Rod Culbertson, Paul Fox, Terence Rigby",False
-198,Life Is Beautiful,7.1,1998,2h 3m,John Madden,"Comédia, Drama, História, Romance","Roberto Benigni, Vincenzo Cerami","Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano, Marisa Paredes",False
+204,Life Is Beautiful,8.6,1997,1h 56m,Roberto Benigni,"Comédia, Drama, Guerra, Romance","Roberto Benigni, Vincenzo Cerami","Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano, Marisa Paredes",False
+196,Saving Private Ryan,8.6,1998,2h 49m,Steven Spielberg,"Drama, Guerra",Robert Rodat,"Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns, Barry Pepper",False
 199,The Thin Red Line,7.6,1998,2h 50m,Terrence Malick,"Drama, Guerra, História","James Jones, Terrence Malick","Jim Caviezel, Sean Penn, Nick Nolte, Kirk Acevedo, Penelope Allen",False
 200,Titanic,7.9,1997,3h 14m,James Cameron,"Drama, Romance",James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher",True
 201,As Good as It Gets,7.7,1997,2h 19m,James L. Brooks,"Comédia, Drama, Romance","Mark Andrus, James L. Brooks","Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr., Skeet Ulrich",False
 202,Good Will Hunting,8.3,1997,2h 6m,Gus Van Sant,"Drama, Romance","Matt Damon, Ben Affleck","Matt Damon, Robin Williams, Ben Affleck, Minnie Driver, Stellan Skarsgård",False
 203,L.A. Confidential,8.2,1997,2h 18m,Curtis Hanson,"Drama, Mistério, Policial, Suspense",Simon Beaufoy,"Robert Carlyle, Tom Wilkinson, Mark Addy, Steve Huison, William Snape",False
-204,Life Is Beautiful,8.6,1997,1h 56m,Roberto Benigni,"Comédia, Drama, Guerra, Romance","Mark Andrus, James L. Brooks","Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr., Skeet Ulrich",False
 205,The Full Monty,7.2,1997,1h 31m,Peter Cattaneo,"Comédia, Drama",Simon Beaufoy,"Robert Carlyle, Tom Wilkinson, Mark Addy, Steve Huison, William Snape",False
-
 210,The English Patient,7.4,1996,2h 42m,Anthony Minghella,"Drama, Romance, Guerra","Michael Ondaatje, Anthony Minghella","Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas, Naveen Andrews",True
 206,Fargo,8.1,1996,1h 38m,"Joel Coen, Ethan Coen","Crime, Suspense","Ethan Coen, Joel Coen","William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare, Kristin Rudrüd",False
 207,Jerry Maguire,7.3,1996,2h 19m,Cameron Crowe,"Comédia, Drama, Esportes, Romance",Cameron Crowe,"Tom Cruise, Renée Zellweger, Cuba Gooding Jr., Kelly Preston, Jerry O'Connell",False
