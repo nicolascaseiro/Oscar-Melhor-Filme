@@ -1,4 +1,4 @@
-#,título,avaliacao_imdb,ano,duração,direção,gêneros,roteiro,elenco_principal,vencedor
+#,título,nota_imdb,ano,duração,direção,gêneros,roteiro,elenco_principal,vencedor
 0,Anora,7.4,2024,2h 19m,Sean Baker,"Comédia, Drama, Romance",Sean Baker,"Mikey Madison, Mark Eydelshteyn, Yura Borisov, Paul Weissman, Karren Karagulian",True
 1,A Complete Unknown,7.3,2024,2h 21m,James Mangold,"Biografia, Drama, Musical","James Mangold, Jay Cocks, Elijah Wald","Timothée Chalamet, Edward Norton, Monica Barbaro, Elle Fanning, Joe Tippett",False
 2,Ainda Estou Aqui,8.2,2024,2h 17m,Walter Salles,"Biografia, Drama, História","Murilo Hauser, Heitor Lorega, Marcelo Rubens Paiva","Fernanda Torres, Fernanda Montenegro, Selton Mello, Valentina Herszage, Marjorie Estiano",False
@@ -380,7 +380,7 @@
 378,The Music Man,7.7,1962,2h 31m,Morton DaCosta,"Comédia, Família, Musical, Romance","Cornelius Ryan, Frank Davis, James Webb","John Wayne, Robert Mitchum, Sean Connery, Richard Burton, Henry Fonda",False
 379,To Kill a Mockingbird,8.3,1962,2h 9m,Robert Mulligan,"Drama, Policial","Harper Lee, Horton Foote","Gregory Peck, John Megna, Frank Overton, Rosemary Murphy, Ruth White",False
 380,The Hustler,7.9,1961,2h 14m,Robert Rossen,"Drama, Esportes","Sidney Carroll, Robert Rossen, Walter Tevis","Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott, Myron McCormick",True
-381,West Side Story,,1961,2h 33m,"Jerome Robbins, Robert Wise","Crime, Drama, Musical","Ernest Lehman, Arthur Laurents, Jerome Robbins","Natalie Wood, George Chakiris, Richard Beymer, Russ Tamblyn, Rita Moreno",True
+381,West Side Story,7.6,1961,2h 33m,"Jerome Robbins, Robert Wise","Crime, Drama, Musical","Ernest Lehman, Arthur Laurents, Jerome Robbins","Natalie Wood, George Chakiris, Richard Beymer, Russ Tamblyn, Rita Moreno",True
 382,Fanny,6.8,1961,2h 14m,Joshua Logan,"Drama, Romance","S.N. Behrman, Joshua Logan, Marcel Pagnol","Leslie Caron, Maurice Chevalier, Charles Boyer, Horst Buchholz, Georgette Anys",False
 383,Judgment at Nuremberg,8.3,1961,2h 59m,Stanley Kramer,"Drama, Guerra, História","Carl Foreman, Brian Garfield","Gregory Peck, David Niven, Anthony Quinn, Stanley Baker, James Darren",False
 384,The Guns of Navarone,7.5,1961,2h 38m,J. Lee Thompson,"Aventura, Ação, Drama, Guerra","Carl Foreman, Brian Garfield","Gregory Peck, David Niven, Anthony Quinn, Stanley Baker, James Darren",False
@@ -471,7 +471,7 @@
 469,The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France,7.0,1944,2h 17m,Laurence Olivier,"Biografia, Drama, Guerra, História",Laurence Olivier,"Laurence Olivier, Renée Asherson, Robert Newton, Leslie Banks, Felix Aylmer",False
 470,The Song of Bernadette,7.6,1943,2h 36m,Henry King,"Biografia, Drama, Mistério","George Seaton, Franz Werfel","Jennifer Jones, Charles Bickford, William Eythe, Vincent Price, Lee J. Cobb",True
 471,For Whom the Bell Tolls,6.8,1943,2h 50m,Sam Wood,"Aventura, Drama, Guerra, História, Romance",Dore Schary,"Bette Davis, Paul Lukas, Lucile Watson, Donald Crisp, Edmund Gwenn",False
-472,Heaven Can Wait,,1943,1h 52m,Ernst Lubitsch,"Comédia, Drama, Fantasia","Samson Raphaelson, Leslie Bush-Fekete","Gene Tierney, Don Ameche, Charles Coburn, Marjorie Main, Laird Cregar",False
+472,Heaven Can Wait,7.4,1943,1h 52m,Ernst Lubitsch,"Comédia, Drama, Fantasia","Samson Raphaelson, Leslie Bush-Fekete","Gene Tierney, Don Ameche, Charles Coburn, Marjorie Main, Laird Cregar",False
 473,Madame Curie,7.2,1943,2h 4m,"Mervyn LeRoy, Albert Lewin","Biografia, Drama, Romance","Paul Osborn, Hans Rameau, Ève Curie","Greer Garson, Walter Pidgeon, Henry Travers, Albert Bassermann, Robert Walker",False
 474,The Human Comedy,7.0,1943,1h 57m,Clarence Brown,"Comédia, Drama, Família, Guerra, Romance","Lamar Trotti, Harry Chandlee","Henry Fonda, Harry Morgan, Dana Andrews, Mary Beth Hughes, Frank Conroy",False
 475,The More the Merrier,7.6,1943,1h 44m,George Stevens,Comédia,"Garson Kanin, Richard L. Breen","Jean Arthur, Joel McCrea, Charles Coburn, Richard Gaines, Bruce Bennett",False
@@ -529,7 +529,7 @@
 527,The Adventures of Robin Hood,7.9,1938,1h 42m,"Michael Curtiz, William Keighley","Aventura, Ação, Romance","Ian Dalrymple, W.P. Lipscomb, Lewis Galantière","Robert Donat, Rosalind Russell, Ralph Richardson, Rex Harrison, Ben Webster",False
 528,The Citadel,7.0,1938,1h 50m,King Vidor,Drama,"Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
 529,You Can't Take It with You,7.8,1938,2h 6m,Frank Capra,"Comédia, Drama, Romance","Alan Scott, George O'Neil, Stephen Morehouse Avery","Tyrone Power, Alice Faye, Don Ameche, Ethel Merman, Jack Haley",False
-530,A Star Is Born,,1937,1h 51m,"William A. Wellman, Jack Conway, Victor Fleming","Drama, Romance","Dorothy Parker, Alan Campbell, Robert Carson","Janet Gaynor, Fredric March, Adolphe Menjou, May Robson, Andy Devine",False
+530,A Star Is Born,7.3,1937,1h 51m,"William A. Wellman, Jack Conway, Victor Fleming","Drama, Romance","Dorothy Parker, Alan Campbell, Robert Carson","Janet Gaynor, Fredric March, Adolphe Menjou, May Robson, Andy Devine",False
 531,Captains Courageous,7.9,1937,1h 57m,Victor Fleming,"Aventura, Drama, Família",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
 532,Dead End,7.2,1937,1h 33m,William Wyler,"Drama, Filme noir, Policial, Romance","Lillian Hellman, Sidney Kingsley","Sylvia Sidney, Joel McCrea, Humphrey Bogart, Wendy Barrie, Claire Trevor",False
 533,La grande illusion,8.1,1937,1h 53m,Jean Renoir,"Drama, Guerra","Morrie Ryskind, Anthony Veiller","Katharine Hepburn, Ginger Rogers, Adolphe Menjou, Gail Patrick, Andrea Leeds",False
@@ -544,7 +544,7 @@
 542,Anthony Adverse,6.3,1936,2h 21m,"Mervyn LeRoy, Michael Curtiz","Aventura, Drama, Romance",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
 543,Dodsworth,7.7,1936,1h 41m,William Wyler,"Drama, Romance","Norman Krasna, Bruce Manning","Deanna Durbin, Nan Grey, Barbara Read, Robert Cummings, Eugene Pallette",False
 544,Libeled Lady,7.8,1936,1h 38m,Jack Conway,"Comédia, Romance","W.P. Lipscomb, S.N. Behrman, James Hilton","Ronald Colman, Elizabeth Allan, Edna May Oliver, Donald Woods, Reginald Owen",False
-545,Romeo and Juliet,,1936,2h 5m,George Cukor,"Drama, Romance","William Shakespeare, Franco Brusati, Masolino D'Amico","Leonard Whiting, Olivia Hussey, John McEnery, Milo O'Shea, Pat Heywood",False
+545,Romeo and Juliet,6.5,1936,2h 5m,George Cukor,"Drama, Romance","William Shakespeare, Franco Brusati, Masolino D'Amico","Leonard Whiting, Olivia Hussey, John McEnery, Milo O'Shea, Pat Heywood",False
 546,San Francisco,7.1,1936,1h 55m,W.S. Van Dyke,"Drama, Musical, Romance","Robert E. Hopkins, Casey Robinson, William R. Lipman","Clark Gable, Jeanette MacDonald, Spencer Tracy, Jack Holt, Jessie Ralph",False
 547,The Great Ziegfeld,6.6,1936,2h 56m,Robert Z. Leonard,"Drama, Musical","Viña Delmar, Leo McCarey","Cary Grant, Irene Dunne, Ralph Bellamy, Alexander D'Arcy, Cecil Cunningham",False
 548,Three Smart Girls,6.6,1936,1h 24m,Henry Koster,"Comédia, Musical, Romance","Norman Krasna, Bruce Manning","Deanna Durbin, Nan Grey, Barbara Read, Robert Cummings, Eugene Pallette",False
@@ -554,14 +554,14 @@
 552,Alice Adams,6.8,1935,1h 39m,George Stevens,"Comédia, Drama, Romance","Dorothy Yost, Sarah Y. Mason","Katharine Hepburn, Fred MacMurray, Fred Stone, Frank Albertson, Fred Kohler Jr.",False
 553,Captain Blood,7.7,1935,1h 59m,Michael Curtiz,"Aventura, Ação, História, Romance","Allan Scott, Dwight Taylor","Fred Astaire, Ginger Rogers, Edward Everett Horton, Erik Rhodes, Helen Broderick",False
 554,David Copperfield,7.3,1935,2h 10m,George Cukor,"Aventura, Drama, Família, Romance","Walter DeLeon, Robert E. Hopkins","Charles Laughton, Mary Boland, Charlie Ruggles, Charles Coleman, John Qualen",False
-555,Les Misérables,,1935,1h 48m,Richard Boleslawski,"Drama, História, Romance","Victor Hugo, W.P. Lipscomb","Fredric March, Charles Laughton, Cedric Hardwicke, Rochelle Hudson, Frances Drake",False
-556,Mutiny on the Bounty,,1935,2h 12m,Frank Lloyd,"Aventura, Biografia, Drama, História, Romance","Charles Lederer, Charles Nordhoff, James Norman Hall","Marlon Brando, Trevor Howard, Richard Harris, Hugh Griffith, Richard Haydn",False
+555,Les Misérables,7.7,1935,1h 48m,Richard Boleslawski,"Drama, História, Romance","Victor Hugo, W.P. Lipscomb","Fredric March, Charles Laughton, Cedric Hardwicke, Rochelle Hudson, Frances Drake",False
+556,Mutiny on the Bounty,7.6,1935,2h 12m,Frank Lloyd,"Aventura, Biografia, Drama, História, Romance","Charles Lederer, Charles Nordhoff, James Norman Hall","Marlon Brando, Trevor Howard, Richard Harris, Hugh Griffith, Richard Haydn",False
 557,Naughty Marietta,6.5,1935,1h 45m,"Robert Z. Leonard, W.S. Van Dyke","Drama, Musical, Romance","Rida Johnson Young, W. P. Lipscomb","Jeanette MacDonald, Nelson Eddy, John Barrymore, Edward Everett Horton, Louise Fazenda",False
 558,Ruggles of Red Gap,7.6,1935,1h 30m,Leo McCarey,"Comédia, Faroeste, Mistério, Romance","Walter DeLeon, Robert E. Hopkins","Charles Laughton, Mary Boland, Charlie Ruggles, Charles Coleman, John Qualen",False
 559,The Informer,7.3,1935,1h 31m,John Ford,"Drama, Policial","Howard J. Green, Sidney Buchman","William Powell, Jean Harlow, Myrna Loy, Spencer Tracy, Walter Connolly",False
 560,The Lives of a Bengal Lancer,7.0,1935,1h 49m,Henry Hathaway,"Aventura, Drama, Guerra","Grover Jones, William Slavens McNutt","Gary Cooper, Franchot Tone, Richard Cromwell, Douglass Montgomery, Guy Kibbee",False
 561,Top Hat,7.7,1935,1h 41m,Mark Sandrich,"Comédia, Musical, Romance","Allan Scott, Dwight Taylor","Fred Astaire, Ginger Rogers, Edward Everett Horton, Erik Rhodes, Helen Broderick",False
-562,Cleopatra,,1934,1h 40m,Cecil B. DeMille,"Biografia, Drama, História","Waldemar Young, Vincent Lawrence, Bartlett Cormack","Claudette Colbert, Warren William, Henry Wilcoxon, Joseph Schildkraut, Ian Keith",True
+562,Cleopatra,6.8,1934,1h 40m,Cecil B. DeMille,"Biografia, Drama, História","Waldemar Young, Vincent Lawrence, Bartlett Cormack","Claudette Colbert, Warren William, Henry Wilcoxon, Joseph Schildkraut, Ian Keith",True
 563,It Happened One Night,8.1,1934,1h 45m,Frank Capra,"Comédia, Romance",Dudley Nichols,"Victor McLaglen, Heather Angel, Preston Foster, Margot Grahame, Wallace Ford",True
 564,David Copperfield,5.6,1934,1h 37m,Frank Borzage,Musical,"Lenore J. Coffee, Howard Estabrook, S.K. Lauren","Freddie Bartholomew, Edna May Oliver, Basil Rathbone, W.C. Fields, Maureen O'Sullivan",False
 565,Here Comes the Navy,6.2,1934,1h 27m,Lloyd Bacon,"Comédia, Drama, Guerra, Romance",Casey Robinson,"Errol Flynn, Olivia de Havilland, Basil Rathbone, Ross Alexander, Hobart Cavanaugh",False
@@ -576,7 +576,7 @@
 574,42nd Street,7.3,1933,1h 29m,Lloyd Bacon,"Comédia, Drama, Musical, Romance","Frank Wead, William Conselman","James Cagney, Pat O'Brien, Gloria Stuart, Frank McHugh, Guy Kibbee",False
 575,Cavalcade,5.8,1933,1h 52m,Frank Lloyd,"Drama, Guerra, Romance",Nunnally Johnson,"George Arliss, Loretta Young, Boris Karloff, Henry Travers, Louis Calhern",False
 576,Lady for a Day,7.4,1933,1h 36m,Frank Capra,"Comédia, Drama","Dwight Taylor, Guy Bolton","Fred Astaire, Ginger Rogers, Edward Everett Horton, Eric Blore, Eric Campbell",False
-577,Little Women,,1933,1h 55m,George Cukor,"Drama, Família, Guerra, Romance","Louisa May Alcott, Sarah Y. Mason, Victor Heerman","Katharine Hepburn, Joan Bennett, Paul Lukas, Edna May Oliver, Jean Parker",False
+577,Little Women,7.1,1933,1h 55m,George Cukor,"Drama, Família, Guerra, Romance","Louisa May Alcott, Sarah Y. Mason, Victor Heerman","Katharine Hepburn, Joan Bennett, Paul Lukas, Edna May Oliver, Jean Parker",False
 578,She Done Him Wrong,6.3,1933,1h 6m,Lowell Sherman,"Comédia, Drama, História, Musical, Romance",Lamar Trotti,"Dick Powell, Ruby Keeler, Pat O'Brien, Ross Alexander, John Arledge",False
 579,State Fair,6.7,1933,1h 39m,Henry King,"Comédia, Drama, Romance","Morrie Ryskind, Sonya Levien","Janet Gaynor, Will Rogers, Allan Jones, June Knight, Helen Westley",False
 580,The Private Life of Henry VIII,7.0,1933,1h 37m,Alexander Korda,"Biografia, Drama, História","Edith Fitzgerald, Ian McLellan Hunter","Norma Shearer, Fredric March, Charles Laughton, Maureen O'Sullivan, Glenn Anders",False
@@ -596,7 +596,7 @@
 594,The Front Page,6.7,1931,1h 41m,Lewis Milestone,"Comédia, Drama, Mistério, Policial, Romance","Samson Raphaelson, Robert Hopkins","Maurice Chevalier, Jeanette MacDonald, Genevieve Tobin, Charles Ruggles, Charles Butterworth",False
 595,The Smiling Lieutenant,7.1,1931,1h 33m,Ernst Lubitsch,"Comédia, Musical, Romance","Kathryn Scola, Adela Rogers St. Johns","Edward G. Robinson, Aline MacMahon, Boris Karloff, Marian Marsh, Alan Hale",False
 596,Trader Horn,6.1,1931,2h 2m,W.S. Van Dyke,"Aventura, Ação, Drama, Romance",Frances Marion,"Wallace Beery, Jackie Cooper, Irene Rich, Roscoe Ates, Donald Douglas",False
-597,All Quiet on the Western Front,,1930,2h 32m,Lewis Milestone,"Drama, Guerra","Erich Maria Remarque, Maxwell Anderson, George Abbott","Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy, Ben Alexander",True
+597,All Quiet on the Western Front,8.1,1930,2h 32m,Lewis Milestone,"Drama, Guerra","Erich Maria Remarque, Maxwell Anderson, George Abbott","Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy, Ben Alexander",True
 598,The Big House,7.1,1930,1h 27m,"George W. Hill, Ward Wing","Drama, Policial, Suspense",Edwin J. Burke,"Sally Eilers, James Dunn, Minna Gombell, John Arledge, Kay Johnson",False
 599,The Divorcee,6.7,1930,1h 24m,Robert Z. Leonard,"Drama, Romance","Robert Milton, Jane Murfin","Norma Shearer, Chester Morris, Robert Montgomery, Florence Eldridge, Geneva Mitchell",False
 600,Disraeli,6.1,1929,1h 30m,Alfred E. Green,"Biografia, Drama, História",William A. Drake,"Greta Garbo, John Barrymore, Joan Crawford, Wallace Beery, Lionel Barrymore",True
@@ -609,6 +609,4 @@
 607,The Crowd,8.0,1928,1h 38m,King Vidor,"Drama, Romance","King Vidor, John V.A. Weaver","James Murray, Eleanor Boardman, Raymond Hatton, Clarine Seymour, Malcolm Waite",False
 608,The Patriot,7.2,1928,1h 53m,Ernst Lubitsch,"Drama, História, Suspense","Robert Milton, Jane Murfin","Norma Shearer, Chester Morris, Robert Montgomery, Florence Eldridge, Geneva Mitchell",False
 609,7th Heaven,7.5,1927,1h 50m,Frank Borzage,"Drama, Romance","Benjamin Glazer, Kenneth Webb","Janet Gaynor, Charles Farrell, Ben Bard, Albert Gran, Olive Borden",False
-610,Chang: A Drama of the Wilderness,6.8,1927,1h 9m,"Merian C. Cooper, Ernest B. Schoedsack","Aventura, Documentário, Drama","Merian C. Cooper, Ernest B. Schoedsack",,False
-611,Sunrise: A Song of Two Humans,8.1,1927,1h 34m,F.W. Murnau,"Drama, Romance","Carl Mayer, Carl Theodor Dreyer","George O’Brien, Janet Gaynor, Margaret Livingston, J. Farrell MacDonald, Bodil Rosing",False
-612,Wings,7.5,1927,2h 24m,"William A. Wellman, Harry d'Abbadie d'Arrast","Ação, Drama, Guerra, Romance",John Monk Saunders,"Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston, El Brendel",True
+610,Wings,7.5,1927,2h 24m,"William A. Wellman, Harry d'Abbadie d'Arrast","Ação, Drama, Guerra, Romance",John Monk Saunders,"Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston, El Brendel",True
