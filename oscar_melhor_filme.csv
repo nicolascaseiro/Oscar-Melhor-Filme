@@ -1,44 +1,44 @@
-#,título,nota_imdb,ano,duração,direção,gêneros,roteiro,elenco_principal,vencedor
-0,Anora,7.4,2024,2h 19m,Sean Baker,"Comédia, Drama, Romance",Sean Baker,"Mikey Madison, Mark Eydelshteyn, Yura Borisov, Paul Weissman, Karren Karagulian",True
-1,A Complete Unknown,7.3,2024,2h 21m,James Mangold,"Biografia, Drama, Musical","James Mangold, Jay Cocks, Elijah Wald","Timothée Chalamet, Edward Norton, Monica Barbaro, Elle Fanning, Joe Tippett",False
-2,Ainda Estou Aqui,8.2,2024,2h 17m,Walter Salles,"Biografia, Drama, História","Murilo Hauser, Heitor Lorega, Marcelo Rubens Paiva","Fernanda Torres, Fernanda Montenegro, Selton Mello, Valentina Herszage, Marjorie Estiano",False
-3,Conclave,7.4,2024,2h,Edward Berger,"Drama, Suspense","Peter Straughan, Robert Harrisr","Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rossellini, Carlos Diehz",False
-4,Dune: Part Two,8.5,2024,2h 46m,Denis Villeneuve,"Aventura, Ação, Drama, Ficção científica","Denis Villeneuve, Jon Spaihts, Frank Herbert","Timothée Chalamet, Zendaya, Javier Bardem, Josh Brolin, Florence Pugh",False
-5,Emilia Pérez,5.4,2024,2h 12m,Jacques Audiard,"Drama, Musical, Policial, Suspense","Jacques Audiard, Thomas Bidegain, Léa Mysius","Zoe Saldaña, Karla Sofía Gascón, Selena Gomez, Adriana Paz, Edgar Ramírez",False
-6,Nickel Boys,6.9,2024,2h 20m,RaMell Ross,Drama,"RaMell Ross, Joslyn Barnes, Colson Whitehead","Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor, Sam Malone, Najah Bradley",False
-7,The Brutalist,7.3,2024,3h 36m,Brady Corbet,Drama,"Brady Corbet, Mona Fastvold","Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy",False
-8,The Substance,7.2,2024,2h 21m,Coralie Fargeat,"Drama, Ficção científica, Terror",Coralie Fargeat,"Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams",False
-9,Wicked: Part I,7.4,2024,2h 40m,Jon M. Chu,"Fantasia, Musical, Romance","Winnie Holzman, Dana Fox, Gregory Maguire","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey",False
-10,Oppenheimer,8.3,2023,3h,Christopher Nolan,"Biografia, Drama, História","Christopher Nolan, Kai Bird, Martin Sherwin","Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh",True
-11,American Fiction,7.5,2023,1h 57m,Cord Jefferson,"Comédia, Drama","Cord Jefferson, Percival Everett","Jeffrey Wright, Tracee Ellis Ross, Erika Alexander, Issa Rae, Sterling K. Brown",False
-12,Anatomy of a Fall,7.6,2023,2h 31m,Justine Triet,Drama,"Justine Triet, Arthur Harari","Sandra Hüller, Swann Arlaud, Milo Machado-Graner, Antoine Reinartz, Samuel Theis",False
-13,Barbie,6.8,2023,1h 54m,Greta Gerwig,"Aventura, Comédia, Fantasia","Greta Gerwig, Noah Baumbach","Margot Robbie, Ryan Gosling, America Ferrera, Will Ferrell, Kate McKinnon",False
-14,Killers of the Flower Moon,7.6,2023,3h 26m,Martin Scorsese,"Drama, Faroeste, História, Policial","Martin Scorsese, Eric Roth, David Grann","Leonardo DiCaprio, Robert De Niro, Lily Gladstone, Jesse Plemons, Brendan Fraser",False
-15,Maestro,6.5,2023,2h 9m,Bradley Cooper,"Biografia, Drama, História, Musical, Romance","Bradley Cooper, Josh Singer","Bradley Cooper, Carey Mulligan, Matt Bomer, Vincenzo Amato, Greg Hildreth",False
-16,Past Lives,7.8,2023,1h 45m,Celine Song,"Drama, Romance",Celine Song,"Greta Lee, Teo Yoo, John Magaro, Moon Seung-ah, Leem Seung-min",False
-17,Poor Things,7.8,2023,2h 21m,Yorgos Lanthimos,"Comédia, Drama, Ficção científica, Romance","Tony McNamara, Alasdair Gray","Emma Stone, Mark Ruffalo, Willem Dafoe, Margaret Qualley, Ramy Youssef",False
-18,The Holdovers,7.9,2023,2h 13m,Alexander Payne,"Comédia, Drama",David Hemingson,"Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa, Carrie Preston, Brady Hepner",False
-19,The Zone of Interest,7.3,2023,1h 45m,Jonathan Glazer,"Drama, Guerra, História","Jonathan Glazer, Martin Amis","Christian Friedel, Sandra Hüller, Johann Karthaus, Luis Noah Witte, Max Beck",False
-20,Everything Everywhere All at Once,7.8,2022,2h 19m,"Daniel Kwan, Daniel Scheinert","Aventura, Ação, Comédia, Drama, Fantasia, Ficção científica","Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis, Ke Huy Quan, James Hong",True
-21,All Quiet on the Western Front,7.8,2022,2h 28m,Edward Berger,"Ação, Drama, Guerra","Edward Berger, Lesley Paterson, Ian Stokell","Felix Kammerer, Albrecht Schuch, Aaron Hilmer, Moritz Klaus, Adrian Grünewald",False
-22,Avatar: The Way of Water,7.5,2022,3h 12m,James Cameron,"Aventura, Ação, Fantasia, Ficção científica","James Cameron, Rick Jaffa, Amanda Silver","Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Kate Winslet",False
-23,Elvis,7.3,2022,2h 39m,Baz Luhrmann,"Biografia, Drama, Musical","Baz Luhrmann, Sam Bromell, Craig Pearce","Tom Hanks, Austin Butler, Olivia DeJonge, Helen Thomson, Richard Roxburgh",False
-24,The Banshees of Inisherin,7.7,2022,1h 54m,Martin McDonagh,"Comédia, Drama",Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt, Gary Lydon",False
-25,The Fabelmans,7.5,2022,2h 31m,Steven Spielberg,Drama,"Steven Spielberg, Tony Kushner","Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch, Seth Rogen",False
-26,Top Gun: Maverick,8.2,2022,2h 10m,Joseph Kosinski,"Ação, Drama","Jim Cash, Jack Epps Jr., Peter Craig","Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer, Bashir Salahuddin",False
-27,Triangle of Sadness,7.2,2022,2h 27m,Ruben Östlund,"Comédia, Drama",Ruben Östlund,"Thobias Thorwid, Harris Dickinson, Charlbi Dean, Jiannis Moustos, Vicki Berlin",False
-28,Tár,7.4,2022,2h 38m,Todd Field,"Drama, Musical",Todd Field,"Cate Blanchett, Noémie Merlant, Nina Hoss, Sophie Kauer, Adam Gopnik",False
-29,Women Talking,6.9,2022,1h 44m,Sarah Polley,Drama,"Sarah Polley, Miriam Toews","Rooney Mara, Claire Foy, Jessie Buckley, Frances McDormand, Judith Ivey",False
-30,CODA,8.0,2021,1h 51m,Sian Heder,"Comédia, Drama, Musical","Sian Heder, Victoria Bedos, Stanislas Carré de Malberg","Emilia Jones, Marlee Matlin, Troy Kotsur, Daniel Durant, John Fiore",True
-31,Belfast,7.2,2021,1h 38m,Kenneth Branagh,"Biografia, Drama",Kenneth Branagh,"Jude Hill, Lewis McAskie, Caitríona Balfe, Jamie Dornan, Judi Dench",False
-32,Don't Look Up,7.2,2021,2h 18m,Adam McKay,"Comédia, Drama, Ficção científica","Adam McKay, David Sirota","Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep, Cate Blanchett, Rob Morgan",False
-33,Drive My Car,7.5,2021,2h 59m,Ryûsuke Hamaguchi,Drama,"Haruki Murakami, Ryûsuke Hamaguchi, Takamasa Ôe","Hidetoshi Nishijima, Tôko Miura, Reika Kirishima, Masaki Okada, Park Yu-rim",False
-34,Dune: Part One,8.0,2021,2h 35m,Denis Villeneuve,"Aventura, Ação, Drama, Ficção científica","Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert","Timothée Chalamet, Zendaya, Javier Bardem, Josh Brolin, Rebecca Ferguson",False
-35,King Richard,7.5,2021,2h 24m,Reinaldo Marcus Green,"Biografia, Drama, Esportes",Zach Baylin,"Will Smith, Aunjanue Ellis-Taylor, Jon Bernthal, Saniyya Sidney, Demi Singleton",False
-36,Licorice Pizza,7.1,2021,2h 13m,Paul Thomas Anderson,"Comédia, Drama, Romance",Paul Thomas Anderson,"Alana Haim, Cooper Hoffman, Sean Penn, Tom Waits, Will Angarola",False
-37,Nightmare Alley,7.0,2021,2h 30m,Guillermo del Toro,"Drama, Policial, Suspense","Guillermo del Toro, Kim Morgan, William Lindsay Gresham","Bradley Cooper, Cate Blanchett, Toni Collette, Willem Dafoe, Richard Jenkins",False
-38,The Power of the Dog,6.8,2021,2h 6m,Jane Campion,"Drama, Faroeste","Jane Campion, Thomas Savage","Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons, Kodi Smit-McPhee, Geneviève Lemon",False
-39,West Side Story,7.2,2021,2h 36m,Steven Spielberg,"Crime, Drama, Musical","Tony Kushner, Arthur Laurents","Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez, Rita Moreno",False
+#,título,nota_imdb,nota_letterboxd,ano,duração,direção,gêneros,roteiro,elenco_principal,vencedor
+0,Anora,7.4,3.8,2024,2h 19m,Sean Baker,"Comédia, Drama, Romance",Sean Baker,"Mikey Madison, Mark Eydelshteyn, Yura Borisov, Paul Weissman, Karren Karagulian",True
+1,A Complete Unknown,7.3,3.6,2024,2h 21m,James Mangold,"Biografia, Drama, Musical","James Mangold, Jay Cocks, Elijah Wald","Timothée Chalamet, Edward Norton, Monica Barbaro, Elle Fanning, Joe Tippett",False
+2,Ainda Estou Aqui,8.2,4.3,2024,2h 17m,Walter Salles,"Biografia, Drama, História","Murilo Hauser, Heitor Lorega, Marcelo Rubens Paiva","Fernanda Torres, Fernanda Montenegro, Selton Mello, Valentina Herszage, Marjorie Estiano",False
+3,Conclave,7.4,3.9,2024,2h,Edward Berger,"Drama, Suspense","Peter Straughan, Robert Harrisr","Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rossellini, Carlos Diehz",False
+4,Dune: Part Two,8.5,4.4,2024,2h 46m,Denis Villeneuve,"Aventura, Ação, Drama, Ficção científica","Denis Villeneuve, Jon Spaihts, Frank Herbert","Timothée Chalamet, Zendaya, Javier Bardem, Josh Brolin, Florence Pugh",False
+5,Emilia Pérez,5.4,2.0,2024,2h 12m,Jacques Audiard,"Drama, Musical, Policial, Suspense","Jacques Audiard, Thomas Bidegain, Léa Mysius","Zoe Saldaña, Karla Sofía Gascón, Selena Gomez, Adriana Paz, Edgar Ramírez",False
+6,Nickel Boys,6.9,4.0,2024,2h 20m,RaMell Ross,Drama,"RaMell Ross, Joslyn Barnes, Colson Whitehead","Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor, Sam Malone, Najah Bradley",False
+7,The Brutalist,7.3,3.9,2024,3h 36m,Brady Corbet,Drama,"Brady Corbet, Mona Fastvold","Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy",False
+8,The Substance,7.2,3.8,2024,2h 21m,Coralie Fargeat,"Drama, Ficção científica, Terror",Coralie Fargeat,"Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams",False
+9,Wicked: Part I,7.4,3.8,2024,2h 40m,Jon M. Chu,"Fantasia, Musical, Romance","Winnie Holzman, Dana Fox, Gregory Maguire","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey",False
+10,Oppenheimer,8.3,4.2,2023,3h,Christopher Nolan,"Biografia, Drama, História","Christopher Nolan, Kai Bird, Martin Sherwin","Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh",True
+11,American Fiction,7.5,3.7,2023,1h 57m,Cord Jefferson,"Comédia, Drama","Cord Jefferson, Percival Everett","Jeffrey Wright, Tracee Ellis Ross, Erika Alexander, Issa Rae, Sterling K. Brown",False
+12,Anatomy of a Fall,7.6,4.1,2023,2h 31m,Justine Triet,Drama,"Justine Triet, Arthur Harari","Sandra Hüller, Swann Arlaud, Milo Machado-Graner, Antoine Reinartz, Samuel Theis",False
+13,Barbie,6.8,3.7,2023,1h 54m,Greta Gerwig,"Aventura, Comédia, Fantasia","Greta Gerwig, Noah Baumbach","Margot Robbie, Ryan Gosling, America Ferrera, Will Ferrell, Kate McKinnon",False
+14,Killers of the Flower Moon,7.6,4.0,2023,3h 26m,Martin Scorsese,"Drama, Faroeste, História, Policial","Martin Scorsese, Eric Roth, David Grann","Leonardo DiCaprio, Robert De Niro, Lily Gladstone, Jesse Plemons, Brendan Fraser",False
+15,Maestro,6.5,3.1,2023,2h 9m,Bradley Cooper,"Biografia, Drama, História, Musical, Romance","Bradley Cooper, Josh Singer","Bradley Cooper, Carey Mulligan, Matt Bomer, Vincenzo Amato, Greg Hildreth",False
+16,Past Lives,7.8,4.2,2023,1h 45m,Celine Song,"Drama, Romance",Celine Song,"Greta Lee, Teo Yoo, John Magaro, Moon Seung-ah, Leem Seung-min",False
+17,Poor Things,7.8,4.0,2023,2h 21m,Yorgos Lanthimos,"Comédia, Drama, Ficção científica, Romance","Tony McNamara, Alasdair Gray","Emma Stone, Mark Ruffalo, Willem Dafoe, Margaret Qualley, Ramy Youssef",False
+18,The Holdovers,7.9,4.2,2023,2h 13m,Alexander Payne,"Comédia, Drama",David Hemingson,"Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa, Carrie Preston, Brady Hepner",False
+19,The Zone of Interest,7.3,3.9,2023,1h 45m,Jonathan Glazer,"Drama, Guerra, História","Jonathan Glazer, Martin Amis","Christian Friedel, Sandra Hüller, Johann Karthaus, Luis Noah Witte, Max Beck",False
+20,Everything Everywhere All at Once,7.8,4.3,2022,2h 19m,"Daniel Kwan, Daniel Scheinert","Aventura, Ação, Comédia, Drama, Fantasia, Ficção científica","Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis, Ke Huy Quan, James Hong",True
+21,All Quiet on the Western Front,7.8,4.0,2022,2h 28m,Edward Berger,"Ação, Drama, Guerra","Edward Berger, Lesley Paterson, Ian Stokell","Felix Kammerer, Albrecht Schuch, Aaron Hilmer, Moritz Klaus, Adrian Grünewald",False
+22,Avatar: The Way of Water,7.5,3.6,2022,3h 12m,James Cameron,"Aventura, Ação, Fantasia, Ficção científica","James Cameron, Rick Jaffa, Amanda Silver","Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Kate Winslet",False
+23,Elvis,7.3,3.4,2022,2h 39m,Baz Luhrmann,"Biografia, Drama, Musical","Baz Luhrmann, Sam Bromell, Craig Pearce","Tom Hanks, Austin Butler, Olivia DeJonge, Helen Thomson, Richard Roxburgh",False
+24,The Banshees of Inisherin,7.7,4.1,2022,1h 54m,Martin McDonagh,"Comédia, Drama",Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt, Gary Lydon",False
+25,The Fabelmans,7.5,4.0,2022,2h 31m,Steven Spielberg,Drama,"Steven Spielberg, Tony Kushner","Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch, Seth Rogen",False
+26,Top Gun: Maverick,8.2,4.0,2022,2h 10m,Joseph Kosinski,"Ação, Drama","Jim Cash, Jack Epps Jr., Peter Craig","Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer, Bashir Salahuddin",False
+27,Triangle of Sadness,7.2,3.7,2022,2h 27m,Ruben Östlund,"Comédia, Drama",Ruben Östlund,"Thobias Thorwid, Harris Dickinson, Charlbi Dean, Jiannis Moustos, Vicki Berlin",False
+28,Tár,7.4,3.9,2022,2h 38m,Todd Field,"Drama, Musical",Todd Field,"Cate Blanchett, Noémie Merlant, Nina Hoss, Sophie Kauer, Adam Gopnik",False
+29,Women Talking,6.9,3.8,2022,1h 44m,Sarah Polley,Drama,"Sarah Polley, Miriam Toews","Rooney Mara, Claire Foy, Jessie Buckley, Frances McDormand, Judith Ivey",False
+30,CODA,8.0,3.9,2021,1h 51m,Sian Heder,"Comédia, Drama, Musical","Sian Heder, Victoria Bedos, Stanislas Carré de Malberg","Emilia Jones, Marlee Matlin, Troy Kotsur, Daniel Durant, John Fiore",True
+31,Belfast,7.2,3.5,2021,1h 38m,Kenneth Branagh,"Biografia, Drama",Kenneth Branagh,"Jude Hill, Lewis McAskie, Caitríona Balfe, Jamie Dornan, Judi Dench",False
+32,Don't Look Up,7.2,3.0,2021,2h 18m,Adam McKay,"Comédia, Drama, Ficção científica","Adam McKay, David Sirota","Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep, Cate Blanchett, Rob Morgan",False
+33,Drive My Car,7.5,4.2,2021,2h 59m,Ryûsuke Hamaguchi,Drama,"Haruki Murakami, Ryûsuke Hamaguchi, Takamasa Ôe","Hidetoshi Nishijima, Tôko Miura, Reika Kirishima, Masaki Okada, Park Yu-rim",False
+34,Dune: Part One,8.0,3.9,2021,2h 35m,Denis Villeneuve,"Aventura, Ação, Drama, Ficção científica","Denis Villeneuve, Jon Spaihts, Eric Roth, Frank Herbert","Timothée Chalamet, Zendaya, Javier Bardem, Josh Brolin, Rebecca Ferguson",False
+35,King Richard,7.5,3.7,2021,2h 24m,Reinaldo Marcus Green,"Biografia, Drama, Esportes",Zach Baylin,"Will Smith, Aunjanue Ellis-Taylor, Jon Bernthal, Saniyya Sidney, Demi Singleton",False
+36,Licorice Pizza,7.1,3.0,2021,2h 13m,Paul Thomas Anderson,"Comédia, Drama, Romance",Paul Thomas Anderson,"Alana Haim, Cooper Hoffman, Sean Penn, Tom Waits, Will Angarola",False
+37,Nightmare Alley,7.0,3.4,2021,2h 30m,Guillermo del Toro,"Drama, Policial, Suspense","Guillermo del Toro, Kim Morgan, William Lindsay Gresham","Bradley Cooper, Cate Blanchett, Toni Collette, Willem Dafoe, Richard Jenkins",False
+38,The Power of the Dog,6.8,3.7,2021,2h 6m,Jane Campion,"Drama, Faroeste","Jane Campion, Thomas Savage","Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons, Kodi Smit-McPhee, Geneviève Lemon",False
+39,West Side Story,7.2,3.6,2021,2h 36m,Steven Spielberg,"Crime, Drama, Musical","Tony Kushner, Arthur Laurents","Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez, Rita Moreno",False
 40,Nomadland,7.3,2020,1h 47m,Chloé Zhao,Drama,"Chloé Zhao, Jessica Bruder","Frances McDormand, David Strathairn, Linda May, Gay DeForest, Patricia Grier",True
 41,Judas and the Black Messiah,7.4,2021,2h 6m,Shaka King,"Biografia, Drama, História","Will Berson, Shaka King, Kenneth Lucas","LaKeith Stanfield, Daniel Kaluuya, Jesse Plemons, Dominique Fishback, Ashton Sanders",False
 42,Mank,6.8,2020,2h 11m,David Fincher,"Biografia, Drama",Jack Fincher,"Gary Oldman, Amanda Seyfried, Lily Collins, Tom Pelphrey, Arliss Howard",False
