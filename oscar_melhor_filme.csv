@@ -145,22 +145,22 @@
 144,The Blind Side,7.6,3.3,2009,2h 9m,John Lee Hancock,"Biografia, Drama, Esportes","John Lee Hancock, Michael Lewis","Quinton Aaron, Sandra Bullock, Tim McGraw, Lily Collins, Kathy Bates",2,1,False
 145,Up,8.3,4.1,2009,1h 36m,"Pete Docter, Bob Peterson","Animação, Aventura, Comédia, Drama, Família","Pete Docter, Bob Peterson, Tom McCarthy","Edward Asner, Jordan Nagai, John Ratzenberger, Christopher Plummer, Bob Peterson",5,2,False
 146,Up in the Air,7.4,3.6,2009,1h 49m,Jason Reitman,"Comédia, Drama, Romance","Walter Kirn, Jason Reitman, Sheldon Turner","George Clooney, Vera Farmiga, Anna Kendrick, J.K. Simmons, Sam Elliott",6,0,False
-147,Slumdog Millionaire,8.0,3.9,2008,2h,"Danny Boyle, Loveleen Tandan","Drama, Policial, Romance","Simon Beaufoy, Vikas Swarup","Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor, Raj Zutshi",True
-148,Frost/Nixon,7.6,3.7,2008,2h 2m,Ron Howard,"Biografia, Drama, História",Peter Morgan,"Frank Langella, Michael Sheen, Kevin Bacon, Sam Rockwell, Matthew Macfadyen",False
-149,Milk,7.5,3.8,2008,2h 8m,Gus Van Sant,"Biografia, Drama, História",Dustin Lance Black,"Sean Penn, Josh Brolin, Emile Hirsch, Diego Luna, James Franco",False
-150,The Curious Case of Benjamin Button,7.8,3.7,2008,2h 46m,David Fincher,"Drama, Fantasia, Romance","Eric Roth, Robin Swicord, F. Scott Fitzgerald","Brad Pitt, Cate Blanchett, Tilda Swinton, Julia Ormond, Faune Chambers Watkins",False
-151,The Reader,7.6,3.6,2008,2h 4m,Stephen Daldry,"Drama, Mistério, Romance","David Hare, Bernhard Schlink","Kate Winslet, Ralph Fiennes, Bruno Ganz, Jeanette Hain, David Kross",False
-152,No Country for Old Men,8.2,4.3,2007,2h 2m,"Ethan Coen, Joel Coen","Drama, Policial, Suspense","Joel Coen, Ethan Coen, Cormac McCarthy","Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson, Kelly Macdonald",True
-153,Atonement,7.8,4.0,2007,2h 3m,Joe Wright,"Drama, Guerra, Mistério, Romance","Ian McEwan, Christopher Hampton","Keira Knightley, James McAvoy, Brenda Blethyn, Saoirse Ronan, Ailidh Mackay",False
-154,Juno,7.4,3.8,2007,1h 36m,Jason Reitman,"Comédia, Drama",Diablo Cody,"Elliot Page, Michael Cera, Jennifer Garner, Jason Bateman, Allison Janney",False
-155,Michael Clayton,7.2,3.8,2007,1h 59m,Tony Gilroy,"Drama, Mistério, Policial, Suspense",Tony Gilroy,"George Clooney, Tilda Swinton, Tom Wilkinson, Michael O'Keefe, Sydney Pollack",False
-156,There Will Be Blood,8.2,4.5,2007,2h 38m,Paul Thomas Anderson,Drama,"Paul Thomas Anderson, Upton Sinclair","Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer, Matthew Braden Stringer",False
-157,The Departed,8.5,4.3,2006,2h 31m,Martin Scorsese,"Drama, Policial, Suspense","William Monahan, Alan Mak, Felix Chong","Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg, Martin Sheen",True
-158,Babel,7.5,3.7,2006,2h 23m,Alejandro G. Iñárritu,Drama,"Guillermo Arriaga, Alejandro G. Iñárritu","Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam, Peter Wight",False
-159,Letters from Iwo Jima,7.8,3.9,2006,2h 21m,Clint Eastwood,"Aventura, Ação, Drama, Guerra, História","Iris Yamashita, Paul Haggis, Tadamichi Kuribayashi","Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara, Ryô Kase, Shidô Nakamura",False
-160,Little Miss Sunshine,7.8,4.2,2006,1h 41m,"Jonathan Dayton, Valerie Faris","Comédia, Drama",Michael Arndt,"Steve Carell, Toni Collette, Greg Kinnear, Abigail Breslin, Paul Dano",False
-161,The Queen,7.3,3.5,2006,1h 43m,Stephen Frears,"Biografia, Drama",Peter Morgan,"Helen Mirren, Michael Sheen, James Cromwell, Alex Jennings, Roger Allam",False
-162,Crash,7.7,3.0,2004,1h 52m,Paul Haggis,"Drama, Policial, Suspense","Paul Haggis, Bobby Moresco","Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave, Dato Bakhtadze",True
+147,Slumdog Millionaire,8.0,3.9,2008,2h,"Danny Boyle, Loveleen Tandan","Drama, Policial, Romance","Simon Beaufoy, Vikas Swarup","Dev Patel, Freida Pinto, Saurabh Shukla, Anil Kapoor, Raj Zutshi",10,8,True
+148,Frost/Nixon,7.6,3.7,2008,2h 2m,Ron Howard,"Biografia, Drama, História",Peter Morgan,"Frank Langella, Michael Sheen, Kevin Bacon, Sam Rockwell, Matthew Macfadyen",5,0,False
+149,Milk,7.5,3.8,2008,2h 8m,Gus Van Sant,"Biografia, Drama, História",Dustin Lance Black,"Sean Penn, Josh Brolin, Emile Hirsch, Diego Luna, James Franco",8,2,False
+150,The Curious Case of Benjamin Button,7.8,3.7,2008,2h 46m,David Fincher,"Drama, Fantasia, Romance","Eric Roth, Robin Swicord, F. Scott Fitzgerald","Brad Pitt, Cate Blanchett, Tilda Swinton, Taraji P. Henson, Mahershala Ali",13,3,False
+151,The Reader,7.6,3.6,2008,2h 4m,Stephen Daldry,"Drama, Mistério, Romance","David Hare, Bernhard Schlink","Kate Winslet, Ralph Fiennes, Bruno Ganz, Jeanette Hain, David Kross",5,1,False
+152,No Country for Old Men,8.2,4.3,2007,2h 2m,"Ethan Coen, Joel Coen","Drama, Policial, Suspense","Joel Coen, Ethan Coen, Cormac McCarthy","Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson, Kelly Macdonald",8,4,True
+153,Atonement,7.8,4.0,2007,2h 3m,Joe Wright,"Drama, Guerra, Mistério, Romance","Ian McEwan, Christopher Hampton","Keira Knightley, James McAvoy, Brenda Blethyn, Saoirse Ronan, Benedict Cumberbatch",7,1,False
+154,Juno,7.4,3.8,2007,1h 36m,Jason Reitman,"Comédia, Drama",Diablo Cody,"Elliot Page, Michael Cera, Jennifer Garner, Allison Janney, J.K. Simmons",4,1,False
+155,Michael Clayton,7.2,3.8,2007,1h 59m,Tony Gilroy,"Drama, Mistério, Policial, Suspense",Tony Gilroy,"George Clooney, Tilda Swinton, Tom Wilkinson, Michael O'Keefe, Sydney Pollack",7,1,False
+156,There Will Be Blood,8.2,4.5,2007,2h 38m,Paul Thomas Anderson,Drama,"Paul Thomas Anderson, Upton Sinclair","Daniel Day-Lewis, Paul Dano, Ciarán Hinds, Martin Stringer, Matthew Braden Stringer",8,2,False
+157,The Departed,8.5,4.3,2006,2h 31m,Martin Scorsese,"Drama, Policial, Suspense","William Monahan, Alan Mak, Felix Chong","Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg, Alec Baldwin",5,4,True
+158,Babel,7.5,3.7,2006,2h 23m,Alejandro G. Iñárritu,Drama,"Guillermo Arriaga, Alejandro G. Iñárritu","Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam, Peter Wight",7,1,False
+159,Letters from Iwo Jima,7.8,3.9,2006,2h 21m,Clint Eastwood,"Aventura, Ação, Drama, Guerra, História","Iris Yamashita, Paul Haggis, Tadamichi Kuribayashi","Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara, Ryô Kase, Shidô Nakamura",4,1,False
+160,Little Miss Sunshine,7.8,4.2,2006,1h 41m,"Jonathan Dayton, Valerie Faris","Comédia, Drama",Michael Arndt,"Steve Carell, Toni Collette, Abigail Breslin, Paul Dano, Alan Arkin",4,2,False
+161,The Queen,7.3,3.5,2006,1h 43m,Stephen Frears,"Biografia, Drama",Peter Morgan,"Helen Mirren, Michael Sheen, James Cromwell, Alex Jennings, Roger Allam",6,1,False
+162,Crash,7.7,3.0,2004,1h 52m,Paul Haggis,"Drama, Policial, Suspense","Paul Haggis, Bobby Moresco","Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave, Dato Bakhtadze",,,True
 163,Brokeback Mountain,7.7,4.1,2005,2h 14m,Ang Lee,"Drama, Romance","Annie Proulx, Larry McMurtry, Diana Ossana","Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid, Valerie Planche",False
 164,Capote,7.3,3.7,2005,1h 54m,Bennett Miller,"Biografia, Drama, História, Policial","Dan Futterman, Gerald Clarke","Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener, Allie Mickelson, Kelci Stephenson",False
 165,"Good Night, and Good Luck.",7.4,3.7,2005,1h 33m,George Clooney,"Biografia, Drama, História","George Clooney, Grant Heslov","David Strathairn, George Clooney, Patricia Clarkson, Jeff Daniels, Alex Borstein",False
