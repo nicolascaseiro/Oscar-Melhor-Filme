@@ -39,14 +39,14 @@
 38,Nightmare Alley,7.0,3.4,2021,2h 30m,Guillermo del Toro,"Drama, Policial, Suspense","Guillermo del Toro, Kim Morgan, William Lindsay Gresham","Bradley Cooper, Cate Blanchett, Toni Collette, Willem Dafoe, Rooney Mara",4,0,False
 39,The Power of the Dog,6.8,3.7,2021,2h 6m,Jane Campion,"Drama, Faroeste","Jane Campion, Thomas Savage","Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons, Kodi Smit-McPhee, Geneviève Lemon",12,1,False
 40,West Side Story,7.2,3.6,2021,2h 36m,Steven Spielberg,"Crime, Drama, Musical","Tony Kushner, Arthur Laurents","Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez, Rita Moreno",7,1,False
-41,Nomadland,7.3,3.8,2020,1h 47m,Chloé Zhao,Drama,"Chloé Zhao, Jessica Bruder","Frances McDormand, David Strathairn, Linda May, Gay DeForest, Patricia Grier",,,True
-42,Judas and the Black Messiah,7.4,4.0,2021,2h 6m,Shaka King,"Biografia, Drama, História","Will Berson, Shaka King, Kenneth Lucas","LaKeith Stanfield, Daniel Kaluuya, Jesse Plemons, Dominique Fishback, Ashton Sanders",False
-43,Mank,6.8,3.3,2020,2h 11m,David Fincher,"Biografia, Drama",Jack Fincher,"Gary Oldman, Amanda Seyfried, Lily Collins, Tom Pelphrey, Arliss Howard",False
-44,Minari,7.4,4.1,2020,1h 55m,Lee Isaac Chung,Drama,Lee Isaac Chung,"Steven Yeun, Yeri Han, Alan Kim, Noel Cho, Darryl Cox",False
-45,Promising Young Woman,7.5,3.7,2020,1h 53m,Emerald Fennell,"Drama, Mistério, Policial, Suspense",Emerald Fennell,"Carey Mulligan, Bo Burnham, Alison Brie, Clancy Brown, Adam Brody",False
-46,Sound of Metal,7.7,4.2,2019,2h,Darius Marder,"Drama, Musical","Darius Marder, Abraham Marder, Derek Cianfrance","Riz Ahmed, Olivia Cooke, Paul Raci, Lauren Ridloff, Mathieu Amalric",False
-47,The Father,8.2,4.3,2020,1h 37m,Florian Zeller,"Drama, Mistério","Christopher Hampton, Florian Zeller","Anthony Hopkins, Olivia Colman, Mark Gatiss, Olivia Williams, Imogen Poots",False
-48,The Trial of the Chicago 7,7.7,3.8,2020,2h 9m,Aaron Sorkin,"Drama, História, Suspense",Aaron Sorkin,"Eddie Redmayne, Alex Sharp, Sacha Baron Cohen, Jeremy Strong, John Carroll Lynch",False
+41,Nomadland,7.3,3.8,2020,1h 47m,Chloé Zhao,Drama,"Chloé Zhao, Jessica Bruder","Frances McDormand, David Strathairn, Linda May, Gay DeForest, Patricia Grier",6,3,True
+42,Judas and the Black Messiah,7.4,4.0,2021,2h 6m,Shaka King,"Biografia, Drama, História","Will Berson, Shaka King, Kenneth Lucas","LaKeith Stanfield, Daniel Kaluuya, Jesse Plemons, Dominique Fishback, Ashton Sanders",6,2,False
+43,Mank,6.8,3.3,2020,2h 11m,David Fincher,"Biografia, Drama",Jack Fincher,"Gary Oldman, Amanda Seyfried, Lily Collins, Tom Pelphrey, Arliss Howard",10,2,False
+44,Minari,7.4,4.1,2020,1h 55m,Lee Isaac Chung,Drama,Lee Isaac Chung,"Steven Yeun, Yeri Han, Alan Kim, Noel Cho, Darryl Cox",6,1,False
+45,Promising Young Woman,7.5,3.7,2020,1h 53m,Emerald Fennell,"Drama, Mistério, Policial, Suspense",Emerald Fennell,"Carey Mulligan, Bo Burnham, Alison Brie, Clancy Brown, Adam Brody",5,1,False
+46,Sound of Metal,7.7,4.2,2019,2h,Darius Marder,"Drama, Musical","Darius Marder, Abraham Marder, Derek Cianfrance","Riz Ahmed, Olivia Cooke, Paul Raci, Lauren Ridloff, Mathieu Amalric",6,2,False
+47,The Father,8.2,4.3,2020,1h 37m,Florian Zeller,"Drama, Mistério","Christopher Hampton, Florian Zeller","Anthony Hopkins, Olivia Colman, Mark Gatiss, Olivia Williams, Imogen Poots",6,2,False
+48,The Trial of the Chicago 7,7.7,3.8,2020,2h 9m,Aaron Sorkin,"Drama, História, Suspense",Aaron Sorkin,"Eddie Redmayne, Alex Sharp, Sacha Baron Cohen, Jeremy Strong, John Carroll Lynch",6,0,False
 49,Parasite,8.5,4.5,2019,2h 12m,Bong Joon Ho,"Drama, Suspense","Bong Joon Ho, Han Jin-won","Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-sik, Park So-dam",True
 50,1917,8.2,4.1,2019,1h 59m,Sam Mendes,"Ação, Drama, Guerra","Sam Mendes, Krysty Wilson-Cairns","Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth, Pip Carter",False
 51,Ford v Ferrari,8.1,4.0,2019,2h 32m,James Mangold,"Ação, Biografia, Drama, Esportes","Jez Butterworth, John-Henry Butterworth, Jason Keller","Matt Damon, Christian Bale, Jon Bernthal, Caitríona Balfe, Josh Lucas",False
