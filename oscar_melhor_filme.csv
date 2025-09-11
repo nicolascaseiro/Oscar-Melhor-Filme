@@ -160,17 +160,17 @@
 159,Letters from Iwo Jima,7.8,3.9,2006,2h 21m,Clint Eastwood,"Aventura, Ação, Drama, Guerra, História","Iris Yamashita, Paul Haggis, Tadamichi Kuribayashi","Ken Watanabe, Kazunari Ninomiya, Tsuyoshi Ihara, Ryô Kase, Shidô Nakamura",4,1,False
 160,Little Miss Sunshine,7.8,4.2,2006,1h 41m,"Jonathan Dayton, Valerie Faris","Comédia, Drama",Michael Arndt,"Steve Carell, Toni Collette, Abigail Breslin, Paul Dano, Alan Arkin",4,2,False
 161,The Queen,7.3,3.5,2006,1h 43m,Stephen Frears,"Biografia, Drama",Peter Morgan,"Helen Mirren, Michael Sheen, James Cromwell, Alex Jennings, Roger Allam",6,1,False
-162,Crash,7.7,3.0,2004,1h 52m,Paul Haggis,"Drama, Policial, Suspense","Paul Haggis, Bobby Moresco","Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave, Dato Bakhtadze",,,True
-163,Brokeback Mountain,7.7,4.1,2005,2h 14m,Ang Lee,"Drama, Romance","Annie Proulx, Larry McMurtry, Diana Ossana","Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid, Valerie Planche",False
-164,Capote,7.3,3.7,2005,1h 54m,Bennett Miller,"Biografia, Drama, História, Policial","Dan Futterman, Gerald Clarke","Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener, Allie Mickelson, Kelci Stephenson",False
-165,"Good Night, and Good Luck.",7.4,3.7,2005,1h 33m,George Clooney,"Biografia, Drama, História","George Clooney, Grant Heslov","David Strathairn, George Clooney, Patricia Clarkson, Jeff Daniels, Alex Borstein",False
-166,Munich,7.5,3.8,2005,2h 44m,Steven Spielberg,"Drama, História, Suspense","Tony Kushner, Eric Roth, George Jonas","Eric Bana, Daniel Craig, Marie-Josée Croze, Ciarán Hinds, Mathieu Kassovitz",False
-167,Million Dollar Baby,8.1,4.0,2004,2h 12m,Clint Eastwood,"Drama, Esportes","Paul Haggis, F.X. Toole","Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel, Mike Colter",True
-168,The Aviator,7.5,3.7,2004,2h 50m,Martin Scorsese,"Biografia, Drama",John Logan,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, John C. Reilly, Alec Baldwin",False
-169,Finding Neverland,7.6,3.5,2004,1h 46m,Marc Forster,"Biografia, Drama, Família","Allan Knee, David Magee","Johnny Depp, Kate Winslet, Julie Christie, Radha Mitchell, Dustin Hoffman",False
-170,Ray,7.7,3.8,2004,2h 32m,Taylor Hackford,"Biografia, Drama, Musical","Taylor Hackford, James L. White","Jamie Foxx, Regina King, Kerry Washington, Clifton Powell, Harry Lennix",False
-171,Sideways,7.5,3.8,2004,2h 7m,Alexander Payne,"Comédia, Drama, Romance","Rex Pickett, Alexander Payne, Jim Taylor","Paul Giamatti, Thomas Haden Church, Virginia Madsen, Sandra Oh, Marylouise Burke",False
-172,The Lord of the Rings: The Return of the King,9.0,4.5,2003,3h 21m,Peter Jackson,"Aventura, Drama, Fantasia","Fran Walsh, Philippa Boyens, Peter Jackson","Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Astin",True
+162,Crash,7.7,3.0,2004,1h 52m,Paul Haggis,"Drama, Policial, Suspense","Paul Haggis, Bobby Moresco","Don Cheadle, Sandra Bullock, Thandiwe Newton, Karina Arroyave, Dato Bakhtadze",6,3,True
+163,Brokeback Mountain,7.7,4.1,2005,2h 14m,Ang Lee,"Drama, Romance","Annie Proulx, Larry McMurtry, Diana Ossana","Jake Gyllenhaal, Heath Ledger, Michelle Williams, Randy Quaid, Valerie Planche",8,3,False
+164,Capote,7.3,3.7,2005,1h 54m,Bennett Miller,"Biografia, Drama, História, Policial","Dan Futterman, Gerald Clarke","Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener, Allie Mickelson, Kelci Stephenson",5,1,False
+165,"Good Night, and Good Luck.",7.4,3.7,2005,1h 33m,George Clooney,"Biografia, Drama, História","George Clooney, Grant Heslov","David Strathairn, George Clooney, Patricia Clarkson, Jeff Daniels, Alex Borstein",6,0,False
+166,Munich,7.5,3.8,2005,2h 44m,Steven Spielberg,"Drama, História, Suspense","Tony Kushner, Eric Roth, George Jonas","Eric Bana, Daniel Craig, Marie-Josée Croze, Ciarán Hinds, Geoffrey Rush",5,0,False
+167,Million Dollar Baby,8.1,4.0,2004,2h 12m,Clint Eastwood,"Drama, Esportes","Paul Haggis, F.X. Toole","Hilary Swank, Clint Eastwood, Morgan Freeman, Jay Baruchel, Anthony Mackie",7,4,True
+168,The Aviator,7.5,3.7,2004,2h 50m,Martin Scorsese,"Biografia, Drama",John Logan,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale, Alec Baldwin, Alan Alda",11,5,False
+169,Finding Neverland,7.6,3.5,2004,1h 46m,Marc Forster,"Biografia, Drama, Família","Allan Knee, David Magee","Johnny Depp, Kate Winslet, Julie Christie, Radha Mitchell, Dustin Hoffman",7,1,False
+170,Ray,7.7,3.8,2004,2h 32m,Taylor Hackford,"Biografia, Drama, Musical","Taylor Hackford, James L. White","Jamie Foxx, Regina King, Kerry Washington, Clifton Powell, Aunjanue Ellis-Taylor",6,2,False
+171,Sideways,7.5,3.8,2004,2h 7m,Alexander Payne,"Comédia, Drama, Romance","Rex Pickett, Alexander Payne, Jim Taylor","Paul Giamatti, Thomas Haden Church, Virginia Madsen, Sandra Oh, Marylouise Burke",5,1,False
+172,The Lord of the Rings: The Return of the King,9.0,4.5,2003,3h 21m,Peter Jackson,"Aventura, Drama, Fantasia","Fran Walsh, Philippa Boyens, Peter Jackson","Elijah Wood, Viggo Mortensen, Ian McKellen, Orlando Bloom, Sean Astin",,,True
 173,Master and Commander: The Far Side of the World,7.5,4.0,2003,2h 18m,Peter Weir,"Aventura, Ação, Drama, Guerra","Patrick O'Brian, Peter Weir, John Collee","Russell Crowe, Paul Bettany, Billy Boyd, James D'Arcy, Edward Woodall",False
 174,Mystic River,7.9,3.9,2003,2h 18m,Clint Eastwood,"Drama, Mistério, Policial, Suspense",Brian Helgeland,"Sean Penn, Tim Robbins, Kevin Bacon, Laurence Fishburne, Marcia Gay Harden",False
 175,Seabiscuit,7.3,3.3,2003,2h 20m,Gary Ross,"Drama, História, Esporte","Laura Hillenbrand, Gary Ross","Tobey Maguire, Jeff Bridges, Elizabeth Banks, Chris Cooper, David McCullough",False
