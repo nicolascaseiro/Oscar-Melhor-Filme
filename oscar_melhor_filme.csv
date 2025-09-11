@@ -9,16 +9,16 @@
 8,The Brutalist,7.3,3.9,2024,3h 36m,Brady Corbet,Drama,"Brady Corbet, Mona Fastvold","Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy",10,3,False
 9,The Substance,7.2,3.8,2024,2h 21m,Coralie Fargeat,"Drama, Ficção científica, Terror",Coralie Fargeat,"Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams",5,1,False
 10,Wicked: Part I,7.4,3.8,2024,2h 40m,Jon M. Chu,"Fantasia, Musical, Romance","Winnie Holzman, Dana Fox, Gregory Maguire","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey",10,2,False
-11,Oppenheimer,8.3,4.2,2023,3h,Christopher Nolan,"Biografia, Drama, História","Christopher Nolan, Kai Bird, Martin Sherwin","Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh",True
-12,American Fiction,7.5,3.7,2023,1h 57m,Cord Jefferson,"Comédia, Drama","Cord Jefferson, Percival Everett","Jeffrey Wright, Tracee Ellis Ross, Erika Alexander, Issa Rae, Sterling K. Brown",False
-13,Anatomy of a Fall,7.6,4.1,2023,2h 31m,Justine Triet,Drama,"Justine Triet, Arthur Harari","Sandra Hüller, Swann Arlaud, Milo Machado-Graner, Antoine Reinartz, Samuel Theis",False
-14,Barbie,6.8,3.7,2023,1h 54m,Greta Gerwig,"Aventura, Comédia, Fantasia","Greta Gerwig, Noah Baumbach","Margot Robbie, Ryan Gosling, America Ferrera, Will Ferrell, Kate McKinnon",False
-15,Killers of the Flower Moon,7.6,4.0,2023,3h 26m,Martin Scorsese,"Drama, Faroeste, História, Policial","Martin Scorsese, Eric Roth, David Grann","Leonardo DiCaprio, Robert De Niro, Lily Gladstone, Jesse Plemons, Brendan Fraser",False
-16,Maestro,6.5,3.1,2023,2h 9m,Bradley Cooper,"Biografia, Drama, História, Musical, Romance","Bradley Cooper, Josh Singer","Bradley Cooper, Carey Mulligan, Matt Bomer, Vincenzo Amato, Greg Hildreth",False
-17,Past Lives,7.8,4.2,2023,1h 45m,Celine Song,"Drama, Romance",Celine Song,"Greta Lee, Teo Yoo, John Magaro, Moon Seung-ah, Leem Seung-min",False
-18,Poor Things,7.8,4.0,2023,2h 21m,Yorgos Lanthimos,"Comédia, Drama, Ficção científica, Romance","Tony McNamara, Alasdair Gray","Emma Stone, Mark Ruffalo, Willem Dafoe, Margaret Qualley, Ramy Youssef",False
-19,The Holdovers,7.9,4.2,2023,2h 13m,Alexander Payne,"Comédia, Drama",David Hemingson,"Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa, Carrie Preston, Brady Hepner",False
-20,The Zone of Interest,7.3,3.9,2023,1h 45m,Jonathan Glazer,"Drama, Guerra, História","Jonathan Glazer, Martin Amis","Christian Friedel, Sandra Hüller, Johann Karthaus, Luis Noah Witte, Max Beck",False
+11,Oppenheimer,8.3,4.2,2023,3h,Christopher Nolan,"Biografia, Drama, História","Christopher Nolan, Kai Bird, Martin Sherwin","Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh",12,7,True
+12,American Fiction,7.5,3.7,2023,1h 57m,Cord Jefferson,"Comédia, Drama","Cord Jefferson, Percival Everett","Jeffrey Wright, Tracee Ellis Ross, Erika Alexander, Issa Rae, Sterling K. Brown",5,1,False
+13,Anatomy of a Fall,7.6,4.1,2023,2h 31m,Justine Triet,Drama,"Justine Triet, Arthur Harari","Sandra Hüller, Swann Arlaud, Milo Machado-Graner, Antoine Reinartz, Samuel Theis",5,1,False
+14,Barbie,6.8,3.7,2023,1h 54m,Greta Gerwig,"Aventura, Comédia, Fantasia","Greta Gerwig, Noah Baumbach","Margot Robbie, Ryan Gosling, America Ferrera, Will Ferrell, Kate McKinnon",8,1,False
+15,Killers of the Flower Moon,7.6,4.0,2023,3h 26m,Martin Scorsese,"Drama, Faroeste, História, Policial","Martin Scorsese, Eric Roth, David Grann","Leonardo DiCaprio, Robert De Niro, Lily Gladstone, Jesse Plemons, Brendan Fraser",10,0,False
+16,Maestro,6.5,3.1,2023,2h 9m,Bradley Cooper,"Biografia, Drama, História, Musical, Romance","Bradley Cooper, Josh Singer","Bradley Cooper, Carey Mulligan, Matt Bomer, Vincenzo Amato, Greg Hildreth",7,0,False
+17,Past Lives,7.8,4.2,2023,1h 45m,Celine Song,"Drama, Romance",Celine Song,"Greta Lee, Teo Yoo, John Magaro, Moon Seung-ah, Leem Seung-min",2,0,False
+18,Poor Things,7.8,4.0,2023,2h 21m,Yorgos Lanthimos,"Comédia, Drama, Ficção científica, Romance","Tony McNamara, Alasdair Gray","Emma Stone, Mark Ruffalo, Willem Dafoe, Margaret Qualley, Ramy Youssef",11,4,False
+19,The Holdovers,7.9,4.2,2023,2h 13m,Alexander Payne,"Comédia, Drama",David Hemingson,"Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa, Carrie Preston, Brady Hepner",5,1,False
+20,The Zone of Interest,7.3,3.9,2023,1h 45m,Jonathan Glazer,"Drama, Guerra, História","Jonathan Glazer, Martin Amis","Christian Friedel, Sandra Hüller, Johann Karthaus, Luis Noah Witte, Max Beck",5,2,False
 21,Everything Everywhere All at Once,7.8,4.3,2022,2h 19m,"Daniel Kwan, Daniel Scheinert","Aventura, Ação, Comédia, Drama, Fantasia, Ficção científica","Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis, Ke Huy Quan, James Hong",True
 22,All Quiet on the Western Front,7.8,4.0,2022,2h 28m,Edward Berger,"Ação, Drama, Guerra","Edward Berger, Lesley Paterson, Ian Stokell","Felix Kammerer, Albrecht Schuch, Aaron Hilmer, Moritz Klaus, Adrian Grünewald",False
 23,Avatar: The Way of Water,7.5,3.6,2022,3h 12m,James Cameron,"Aventura, Ação, Fantasia, Ficção científica","James Cameron, Rick Jaffa, Amanda Silver","Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Kate Winslet",False
