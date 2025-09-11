@@ -1,14 +1,14 @@
-#,título,nota_imdb,nota_letterboxd,ano,duração,direção,gêneros,roteiro,elenco_principal,venceu_melhor_filme
-1,Anora,7.4,3.8,2024,2h 19m,Sean Baker,"Comédia, Drama, Romance",Sean Baker,"Mikey Madison, Mark Eydelshteyn, Yura Borisov, Paul Weissman, Karren Karagulian",True
-2,A Complete Unknown,7.3,3.6,2024,2h 21m,James Mangold,"Biografia, Drama, Musical","James Mangold, Jay Cocks, Elijah Wald","Timothée Chalamet, Edward Norton, Monica Barbaro, Elle Fanning, Joe Tippett",False
-3,Ainda Estou Aqui,8.2,4.3,2024,2h 17m,Walter Salles,"Biografia, Drama, História","Murilo Hauser, Heitor Lorega, Marcelo Rubens Paiva","Fernanda Torres, Fernanda Montenegro, Selton Mello, Valentina Herszage, Marjorie Estiano",False
-4,Conclave,7.4,3.9,2024,2h,Edward Berger,"Drama, Suspense","Peter Straughan, Robert Harrisr","Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rossellini, Carlos Diehz",False
-5,Dune: Part Two,8.5,4.4,2024,2h 46m,Denis Villeneuve,"Aventura, Ação, Drama, Ficção científica","Denis Villeneuve, Jon Spaihts, Frank Herbert","Timothée Chalamet, Zendaya, Javier Bardem, Josh Brolin, Florence Pugh",False
-6,Emilia Pérez,5.4,2.0,2024,2h 12m,Jacques Audiard,"Drama, Musical, Policial, Suspense","Jacques Audiard, Thomas Bidegain, Léa Mysius","Zoe Saldaña, Karla Sofía Gascón, Selena Gomez, Adriana Paz, Edgar Ramírez",False
-7,Nickel Boys,6.9,4.0,2024,2h 20m,RaMell Ross,Drama,"RaMell Ross, Joslyn Barnes, Colson Whitehead","Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor, Sam Malone, Najah Bradley",False
-8,The Brutalist,7.3,3.9,2024,3h 36m,Brady Corbet,Drama,"Brady Corbet, Mona Fastvold","Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy",False
-9,The Substance,7.2,3.8,2024,2h 21m,Coralie Fargeat,"Drama, Ficção científica, Terror",Coralie Fargeat,"Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams",False
-10,Wicked: Part I,7.4,3.8,2024,2h 40m,Jon M. Chu,"Fantasia, Musical, Romance","Winnie Holzman, Dana Fox, Gregory Maguire","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey",False
+#,título,nota_imdb,nota_letterboxd,ano,duração,direção,gêneros,roteiro,elenco_principal,indicacoes,vitorias,venceu_melhor_filme
+1,Anora,7.4,3.8,2024,2h 19m,Sean Baker,"Comédia, Drama, Romance",Sean Baker,"Mikey Madison, Mark Eydelshteyn, Yura Borisov, Paul Weissman, Karren Karagulian",6,5,True
+2,A Complete Unknown,7.3,3.6,2024,2h 21m,James Mangold,"Biografia, Drama, Musical","James Mangold, Jay Cocks, Elijah Wald","Timothée Chalamet, Edward Norton, Monica Barbaro, Elle Fanning, Joe Tippett",8,0,False
+3,Ainda Estou Aqui,8.2,4.3,2024,2h 17m,Walter Salles,"Biografia, Drama, História","Murilo Hauser, Heitor Lorega, Marcelo Rubens Paiva","Fernanda Torres, Fernanda Montenegro, Selton Mello, Valentina Herszage, Marjorie Estiano",3,1,False
+4,Conclave,7.4,3.9,2024,2h,Edward Berger,"Drama, Suspense","Peter Straughan, Robert Harrisr","Ralph Fiennes, Stanley Tucci, John Lithgow, Isabella Rossellini, Carlos Diehz",8,1,False
+5,Dune: Part Two,8.5,4.4,2024,2h 46m,Denis Villeneuve,"Aventura, Ação, Drama, Ficção científica","Denis Villeneuve, Jon Spaihts, Frank Herbert","Timothée Chalamet, Zendaya, Javier Bardem, Florence Pugh, Austin Butler",5,1,False
+6,Emilia Pérez,5.4,2.0,2024,2h 12m,Jacques Audiard,"Drama, Musical, Policial, Suspense","Jacques Audiard, Thomas Bidegain, Léa Mysius","Zoe Saldaña, Karla Sofía Gascón, Selena Gomez, Adriana Paz, Edgar Ramírez",13,2,False
+7,Nickel Boys,6.9,4.0,2024,2h 20m,RaMell Ross,Drama,"RaMell Ross, Joslyn Barnes, Colson Whitehead","Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor, Sam Malone, Najah Bradley",2,0,False
+8,The Brutalist,7.3,3.9,2024,3h 36m,Brady Corbet,Drama,"Brady Corbet, Mona Fastvold","Adrien Brody, Felicity Jones, Guy Pearce, Joe Alwyn, Raffey Cassidy",10,3,False
+9,The Substance,7.2,3.8,2024,2h 21m,Coralie Fargeat,"Drama, Ficção científica, Terror",Coralie Fargeat,"Demi Moore, Margaret Qualley, Dennis Quaid, Edward Hamilton-Clark, Gore Abrams",5,1,False
+10,Wicked: Part I,7.4,3.8,2024,2h 40m,Jon M. Chu,"Fantasia, Musical, Romance","Winnie Holzman, Dana Fox, Gregory Maguire","Cynthia Erivo, Ariana Grande, Jeff Goldblum, Michelle Yeoh, Jonathan Bailey",10,2,False
 11,Oppenheimer,8.3,4.2,2023,3h,Christopher Nolan,"Biografia, Drama, História","Christopher Nolan, Kai Bird, Martin Sherwin","Cillian Murphy, Emily Blunt, Matt Damon, Robert Downey Jr., Florence Pugh",True
 12,American Fiction,7.5,3.7,2023,1h 57m,Cord Jefferson,"Comédia, Drama","Cord Jefferson, Percival Everett","Jeffrey Wright, Tracee Ellis Ross, Erika Alexander, Issa Rae, Sterling K. Brown",False
 13,Anatomy of a Fall,7.6,4.1,2023,2h 31m,Justine Triet,Drama,"Justine Triet, Arthur Harari","Sandra Hüller, Swann Arlaud, Milo Machado-Graner, Antoine Reinartz, Samuel Theis",False
