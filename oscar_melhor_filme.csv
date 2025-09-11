@@ -185,7 +185,7 @@
 183,In the Bedroom,7.4,3.9,2001,2h 11m,Todd Field,"Drama, Policial",Julian Fellowes,"Maggie Smith, Michael Gambon, Kristin Scott Thomas, Helen Mirren, Clive Owen",False
 184,Moulin Rouge!,7.6,3.8,2001,2h 7m,Baz Luhrmann,"Drama, Musical, Romance","Baz Luhrmann, Craig Pearce","Nicole Kidman, Ewan McGregor, John Leguizamo, Jim Broadbent, Richard Roxburgh",False
 185,The Lord of the Rings: The Fellowship of the Ring,8.9,4.4,2001,2h 58m,Peter Jackson,"Aventura, Drama, Fantasia","J.R.R. Tolkien, Fran Walsh, Philippa Boyens","Elijah Wood, Ian McKellen, Orlando Bloom, Sean Bean, Alan Howard",False
-196,Gladiator,8.5,4.2,2000,2h 35m,Ridley Scott,"Aventura, Ação, Drama","David Franzoni, John Logan, William Nicholson","Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris",True
+186,Gladiator,8.5,4.2,2000,2h 35m,Ridley Scott,"Aventura, Ação, Drama","David Franzoni, John Logan, William Nicholson","Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Richard Harris",True
 187,Chocolat,7.2,3.4,2000,2h 1m,Lasse Hallström,"Drama, Romance",Susannah Grant,"Julia Roberts, Albert Finney, Aaron Eckhart, Marg Helgenberger, Peter Coyote",False
 188,"Crouching Tiger, Hidden Dragon",7.9,4.1,2000,2h,Ang Lee,"Aventura, Ação, Drama, Fantasia, Romance","James Schamus, Hui-Ling Wang, Kuo Jung Tsai","Chow Yun-fat, Michelle Yeoh, Zhang Ziyi, Chang Chen, Sihung Lung",False
 189,Erin Brockovich,7.5,3.9,2000,2h 11m,Steven Soderbergh,"Biografia, Drama",Robert Nelson Jacobs,"Juliette Binoche, Johnny Depp, Judi Dench, Alfred Molina, Lena Olin",False
@@ -200,107 +200,106 @@
 198,Life Is Beautiful,8.6,4.4,1997,1h 56m,Roberto Benigni,"Comédia, Drama, Guerra, Romance","Roberto Benigni, Vincenzo Cerami","Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano, Marisa Paredes",False
 199,Saving Private Ryan,8.6,4.2,1998,2h 49m,Steven Spielberg,"Drama, Guerra",Robert Rodat,"Tom Hanks, Matt Damon, Tom Sizemore, Edward Burns, Barry Pepper",False
 200,The Thin Red Line,7.6,4.1,1998,2h 50m,Terrence Malick,"Drama, Guerra, História","James Jones, Terrence Malick","Jim Caviezel, Sean Penn, Nick Nolte, Kirk Acevedo, Penelope Allen",False
-201,Titanic,7.9,1997,3h 14m,James Cameron,"Drama, Romance",James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher",True
-202,As Good as It Gets,7.7,1997,2h 19m,James L. Brooks,"Comédia, Drama, Romance","Mark Andrus, James L. Brooks","Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr., Skeet Ulrich",False
-203,Good Will Hunting,8.3,1997,2h 6m,Gus Van Sant,"Drama, Romance","Matt Damon, Ben Affleck","Matt Damon, Robin Williams, Ben Affleck, Minnie Driver, Stellan Skarsgård",False
-204,L.A. Confidential,8.2,1997,2h 18m,Curtis Hanson,"Drama, Mistério, Policial, Suspense",Simon Beaufoy,"Robert Carlyle, Tom Wilkinson, Mark Addy, Steve Huison, William Snape",False
-205,The Full Monty,7.2,1997,1h 31m,Peter Cattaneo,"Comédia, Drama",Simon Beaufoy,"Robert Carlyle, Tom Wilkinson, Mark Addy, Steve Huison, William Snape",False
-206,The English Patient,7.4,1996,2h 42m,Anthony Minghella,"Drama, Romance, Guerra","Michael Ondaatje, Anthony Minghella","Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas, Naveen Andrews",True
-207,Fargo,8.1,1996,1h 38m,"Joel Coen, Ethan Coen","Crime, Suspense","Ethan Coen, Joel Coen","William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare, Kristin Rudrüd",False
-208,Jerry Maguire,7.3,1996,2h 19m,Cameron Crowe,"Comédia, Drama, Esportes, Romance",Cameron Crowe,"Tom Cruise, Renée Zellweger, Cuba Gooding Jr., Kelly Preston, Jerry O'Connell",False
-209,Secrets & Lies,8.0,1996,2h 16m,Mike Leigh,"Comédia, Drama",Mike Leigh,"Brenda Blethyn, Marianne Jean-Baptiste, Timothy Spall, Claire Rushbrook, Philip Glenister",False
-210,Shine,7.6,1996,1h 45m,Scott Hicks,"Biografia, Drama, Musical, Romance",Jan Sardi,"Geoffrey Rush, Alex Rafalowicz, Lynn Redgrave, Armin Mueller-Stahl, John Gaden",False
-211,Braveheart,8.3,1995,2h 58m,Mel Gibson,"Biografia, Drama, Guerra",Randall Wallace,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen, James Robinson",True
-212,Apollo 13,7.7,1995,2h 20m,Ron Howard,"Aventura, Drama, História","William Broyler Jr., Al Reinert","Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise, Ed Harris",False
-213,Babe,6.9,1995,1h 31m,Chris Noonan,"Comédia, Drama, Família","George Miller, Chris Noonan","James Cromwell, Magda Szubanski, Christine Cavanaugh, Miriam Margolyes, Danny Mann",False
-214,Sense and Sensibility,7.7,1995,2h 16m,Ang Lee,"Drama, Romance","William Broyles Jr., Al Reinert","Tom Hanks, Kevin Bacon, Bill Paxton, Gary Sinise, Ed Harris",False
-215,The Postman,7.7,1995,2h 20m,Ron Howard,"Aventura, Drama, História",Eric Roth,"Kevin Costner, Will Patton, Larenz Tate, Olivia Williams, Phil Prescott",False
-216,Forrest Gump,8.8,1994,2h 22m,Robert Zemeckis,"Drama, Romance","Winston Groom, Eric Roth","Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Rebecca Williams",True
-217,Four Weddings and a Funeral,7.1,1994,1h 57m,Mike Newell,"Comédia, Drama, Romance",Richard Curtis,"Hugh Grant, Andie MacDowell, Kristin Scott Thomas, Simon Callow, John Hannah",False
-218,Pulp Fiction,8.8,1994,2h 34m,Quentin Tarantino,"Drama, Policial","Paul Attanasio, Richard N. Goodwin","Ralph Fiennes, John Turturro, Rob Morrow, David Paymer, Paul Scofield",False
-219,Quiz Show,7.5,1994,2h 13m,Robert Redford,"Biografia, Drama, História","Quentin Tarantino, Roger Avary","John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Harvey Keitel",False
-220,The Postman,7.8,1994,1h 48m,Michael Radford,"Biografia, Comédia, Drama, Romance",Richard Curtis,"Hugh Grant, Andie MacDowell, Kristin Scott Thomas, Simon Callow, John Hannah",False
-221,The Shawshank Redemption,9.3,1994,2h 22m,Frank Darabont,Drama,"Stephen King, Frank Darabont","Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown",False
-222,Schindler's List,9.0,1993,3h 15m,Steven Spielberg,"Biografia, Drama, História","Thomas Keneally, Steven Zaillian","Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall, Jonathan Sagall",True
-223,In the Name of the Father,8.1,1993,2h 13m,Jim Sheridan,"Biografia, Drama, Policial",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
-224,The Fugitive,7.8,1993,2h 10m,Andrew Davis,"Ação, Drama, Mistério, Policial, Suspense",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
-225,The Piano,7.5,1993,2h 1m,Jane Campion,"Drama, Musical, Romance",Jane Campion,"Holly Hunter, Harvey Keitel, Sam Neill, Anna Paquin, Kerry Walker",False
-226,The Remains of the Day,7.8,1993,2h 14m,James Ivory,"Drama, Romance",Ruth Prawer Jhabvala,"Anthony Hopkins, Emma Thompson, James Fox, Christopher Reeve, Hugh Grant",False
-227,Unforgiven,8.2,1992,2h 10m,Clint Eastwood,"Drama, Faroeste",David Webb Peoples,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris, Jaimz Woolvett",True
-228,A Few Good Men,7.7,1992,2h 18m,Rob Reiner,"Drama, Suspense",Aaron Sorkin,"Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon, Kiefer Sutherland",False
-229,Howards End,7.4,1992,2h 22m,James Ivory,"Drama, Romance","E.M. Forster, Ruth Prawer Jhabvala","Anthony Hopkins, Emma Thompson, Vanessa Redgrave, Helena Bonham Carter, Joseph Bennett",False
-230,Scent of a Woman,8.0,1992,2h 36m,Martin Brest,Drama,Bo Goldman,"Al Pacino, Chris O'Donnell, Philip Seymour Hoffman, Gabrielle Anwar, James Rebhorn",False
-231,The Crying Game,7.2,1992,1h 52m,Neil Jordan,"Drama, Policial, Romance, Suspense",Neil Jordan,"Stephen Rea, Forest Whitaker, Miranda Richardson, Jaye Davidson, Adrian Dunbar",False
-232,The Silence of the Lambs,8.6,1991,1h 58m,Jonathan Demme,"Drama, Policial, Suspense, Terror",Ted Tally,"Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald",True
-233,Beauty and the Beast,8.0,1991,1h 24m,"Gary Trousdale, Kirk Wise","Animação, Família, Fantasia, Musical, Romance",Linda Woolverton,"Paige O’Hara, Robby Benson, Richard White, Jerry Orbach, Angela Lansbury",False
-234,Bugsy,6.8,1991,2h 16m,Barry Levinson,"Biografia, Drama, Policial",Linda Woolverton,"Paige O’Hara, Robby Benson, Richard White, Jerry Orbach, Angela Lansbury",False
-235,JFK,8.0,1991,3h 9m,Oliver Stone,"Drama, História, Suspense","Jim Garrison, Jim Marrs, Oliver Stone","Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau, Sally Kirkland",False
-236,The Prince of Tides,6.8,1991,2h 12m,Barbra Streisand,"Drama, Romance","Pat Conroy, Becky Johnston","Barbra Streisand, Nick Nolte, Blythe Danner, Kate Nelligan, Jeroen Krabbé",False
-237,Dances with Wolves,8.0,1990,3h 1m,Kevin Costner,"Aventura, Drama, Faroeste",Michael Blake,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant, Floyd 'Red Crow' Westerman",True
-238,Awakenings,7.8,1990,2h 1m,Penny Marshall,"Biografia, Drama",Steven Zaillian,"Robin Williams, Robert De Niro, Julie Kavner, Ruth Nelson, John Heard",False
-239,Ghost,7.1,1990,2h 6m,Jerry Zucker,"Drama, Fantasia, Romance, Suspense",Bruce Joel Rubin,"Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn, Rick Aviles",False
-240,GoodFellas,8.7,1990,2h 25m,Martin Scorsese,"Biografia, Drama, Policial","Nicholas Pileggi, Martin Scorsese","Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino",False
-241,The Godfather Part III,7.6,1990,2h 42m,Francis Ford Coppola,"Drama, Policial","Mario Puzo, Francis Ford Coppola","Al Pacino, Diane Keaton, Andy Garcia, Talia Shire, Eli Wallach",False
-242,Driving Miss Daisy,7.3,1989,1h 39m,Bruce Beresford,"Comédia, Drama",Alfred Uhry,"Jessica Tandy, Morgan Freeman, Dan Aykroyd, Patti LuPone, Joann Havrilla",True
-242,Born on the Fourth of July,7.2,1989,2h 25m,Oliver Stone,"Biografia, Drama, Guerra",Phil Alden Robinson,"Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta, Burt Lancaster",False
-243,Dead Poets Society,8.1,1989,2h 8m,Peter Weir,"Comédia, Drama",Tom Schulman,"Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles, Gale Hansen",False
-245,Field of Dreams,7.5,1989,1h 47m,Phil Alden Robinson,"Drama, Esportes, Família, Fantasia",Phil Alden Robinson,"Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta, Burt Lancaster",False
-241,My Left Foot: The Story of Christy Brown,7.8,1989,1h 43m,Jim Sheridan,"Biografia, Drama","Shane Connaughton, Jim Sheridan","Daniel Day-Lewis, Brenda Fricker, Ray McAnally, Fiona Shaw, Hugh O’Conor",False
-248,Rain Man,8.0,1988,2h 13m,Barry Levinson,Drama,"Barry Morrow, Ron Bass","Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen, Jack Murdock",True
-246,Dangerous Liaisons,7.5,1988,1h 59m,Stephen Frears,"Drama, Romance",Christopher Hampton,"Glenn Close, John Malkovich, Michelle Pfeiffer, Swoosie Kurtz, Keanu Reeves",False
-247,Mississippi Burning,7.8,1988,2h 8m,Alan Parker,"Drama, Mistério, Policial, Suspense","Kevin Wade, Mike Nichols","Melanie Griffith, Harrison Ford, Sigourney Weaver, Alec Baldwin, Joan Cusack",False
-249,The Accidental Tourist,6.7,1988,2h 1m,Lawrence Kasdan,"Comédia, Drama, Romance",Frank Galati,"William Hurt, Geena Davis, Kathleen Turner, Jeff Daniels, George Plimpton",False
-250,Working Girl,6.8,1988,1h 53m,Mike Nichols,"Comédia, Drama, Romance","Kevin Wade, Mike Nichols","Melanie Griffith, Harrison Ford, Sigourney Weaver, Alec Baldwin, Joan Cusack",False
-255,The Last Emperor,7.7,1987,2h 43m,Bernardo Bertolucci,"Biografia, Drama, História","Enzo Ungari, Mark Peploe, Bernardo Bertolucci","John Lone, Joan Chen, Peter O'Toole, Ruocheng Ying, Victor Wong",True
-251,Broadcast News,7.3,1987,2h 13m,James L. Brooks,"Comédia, Drama, Romance",James L. Brooks,"William Hurt, Albert Brooks, Holly Hunter, Robert Prosky, Lois Chiles",False
-252,Fatal Attraction,6.9,1987,1h 59m,Adrian Lyne,"Drama, Suspense",James Dearden,"Michael Douglas, Glenn Close, Anne Archer, Ellen Latzen, Stuart Pankin",False
-253,Hope and Glory,7.3,1987,1h 53m,John Boorman,"Comédia, Drama, Romance",John Boorman,"Sarah Miles, David Hayman, Sebastian Rice-Edwards, Geraldine Muir, Sammi Davis",False
-254,Moonstruck,7.2,1987,1h 42m,Norman Jewison,"Comédia, Drama, Romance",John Patrick Shanley,"Cher, Nicolas Cage, Olympia Dukakis, Vincent Gardenia, Danny Aiello",False
-259,Platoon,8.1,1986,2h,Oliver Stone,"Drama, Guerra",Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David, Forest Whitaker",True
-261,A Room with a View,7.2,1985,1h 57m,James Ivory,"Drama, Romance","E.M. Forster, Ruth Prawer Jhabvala","Maggie Smith, Helena Bonham Carter, Denholm Elliott, Julian Sands, Simon Callow",False
-257,Children of a Lesser God,7.2,1986,1h 59m,Randa Haines,"Drama, Romance","Hesper Anderson, Mark Medoff","Marlee Matlin, William Hurt, Piper Laurie, Philip Bosco, John Rubinstein",False
-258,Hannah and Her Sisters,7.8,1986,1h 47m,Woody Allen,"Comédia, Drama",Woody Allen,"Woody Allen, Mia Farrow, Michael Caine, Dianne Wiest, Barbara Hershey",False
-256,The Mission,7.4,1986,2h 5m,Roland Joffé,"Aventura, Drama, História",Robert Bolt,"Robert De Niro, Jeremy Irons, Ray McAnally, Aidan Quinn, Cherie Lunghi",True
-260,Out of Africa,7.1,1985,2h 41m,Sydney Pollack,"Biografia, Drama, Romance","Karen Blixen, Judith Thurman, Errol Trzebinski","Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen, Malick Bowens",True
-262,Kiss of the Spider Woman,7.3,1985,2h,Hector Babenco,Drama,"Richard Condon, Janet Roach","Jack Nicholson, Kathleen Turner, Anjelica Huston, Robert Loggia, William Hickey",False
-263,Prizzi's Honor,6.7,1985,2h 10m,John Huston,"Comédia, Drama, Policial, Romance",Leonard Schrader,"William Hurt, Raul Julia, Sônia Braga, José Lewgoy, Milton Gonçalves",False
-264,The Color Purple,7.7,1985,2h 34m,Steven Spielberg,Drama,"Menno Meyjes, Alice Walker","Danny Glover, Whoopi Goldberg, Oprah Winfrey, Margaret Avery, Willard E. Pugh",False
-265,Witness,7.3,1985,1h 52m,Peter Weir,"Drama, Policial, Romance, Suspense","William Kelley, Pamela Wallace, Earl W. Wallace","Harrison Ford, Kelly McGillis, Lukas Haas, Josef Sommer, Jan Rubes",False
-269,Amadeus,8.4,1984,2h 40m,Milos Forman,"Biografia, Drama, Musical","Peter Shaffer, Zdenek Mahler","F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice, Simon Callow",True
-267,A Passage to India,7.3,1984,2h 44m,David Lean,"Aventura, Drama, História","E.M. Forster, Santha Rama Rau, David Lean","Judy Davis, Victor Banerjee, Peggy Ashcroft, James Fox, Alec Guinness",False
-268,A Soldier's Story,7.2,1984,1h 41m,Norman Jewison,"Drama, Guerra, Mistério, Policial",Charles Fuller,"Howard E. Rollins Jr., Adolph Caesar, David Alan Grier, Art Evans, Denzel Washington",False
-270,Places in the Heart,7.4,1984,1h 51m,Robert Benton,Drama,Charles Fuller,"Howard E. Rollins Jr., Adolph Caesar, David Alan Grier, Art Evans, Denzel Washington",False
-266,The Killing Fields,7.8,1984,2h 21m,Roland Joffé,"Biografia, Drama, Guerra, História",John Crowley,"Sally Field, Robert Drivas, John Malkovich, Ed Harris, Lindsay Crouse",False
-272,Terms of Endearment,7.4,1983,2h 12m,James L. Brooks,"Comédia, Drama",James L. Brooks,"Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito, Jeff Daniels",True
-271,Tender Mercies,7.3,1983,1h 32m,Bruce Beresford,"Drama, Musical",Horton Foote,"Robert Duvall, Tess Harper, Betty Buckley, Michael Pataki, Ellen Barkin",False
-274,The Big Chill,7.1,1983,1h 45m,Lawrence Kasdan,"Comédia, Drama",Ronald Harwood,"Albert Finney, Tom Courtenay, Zena Walker, Eileen Atkins, Michael Bryant",False
-275,The Dresser,7.4,1983,1h 58m,Peter Yates,Drama,Lawrence Kasdan,"Tom Berenger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline",False
-273,The Right Stuff,7.8,1983,3h 13m,Philip Kaufman,"Aventura, Biografia, Drama","Philip Kaufman, Tom Wolfe","Sam Shepard, Scott Glenn, Ed Harris, Dennis Quaid, Fred Ward",False
-277,Gandhi,8.0,1982,3h 11m,Richard Attenborough,"Biografia, Drama, História",John Briley,"Ben Kingsley, John Gielgud, Rohini Hattangadi, Roshan Seth, Candice Bergen",True
-276,E.T. the Extra-Terrestrial,7.9,1982,1h 55m,Steven Spielberg,"Aventura, Família, Ficção científica",Melissa Mathison,"Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace, Robert MacNaughton",False
-278,Missing,7.7,1982,2h 2m,Costa-Gavras,"Biografia, Drama, História, Mistério, Suspense","Costa-Gavras, Donald E. Stewart","Jack Lemmon, Sissy Spacek, Charles Cioffi, Melvyn Douglas, John Shea",False
-280,Tootsie,7.4,1982,1h 56m,Sydney Pollack,"Comédia, Drama, Romance","Don McGuire, Larry Gelbart, Murray Schisgal","Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman, Charles Durning",False
-279,The Verdict,7.7,1982,2h 9m,Sidney Lumet,Drama,David Mamet,"Paul Newman, Charlotte Rampling, Jack Warden, James Mason, Milo O'Shea",False
-281,Chariots of Fire,7.1,1981,2h 5m,Hugh Hudson,"Biografia, Drama, Esportes",Colin Welland,"Ben Cross, Ian Charleson, Nigel Havers, Alice Krige, Ian Holm",True
-286,Atlantic City,7.3,1980,1h 44m,Louis Malle,"Drama, Policial, Romance","Louis Malle, John Guare","Burt Lancaster, Susan Sarandon, Kate Reid, Al Waxman, Robert Joy",False
-283,On Golden Pond,7.6,1981,1h 49m,Mark Rydell,Drama,Ernest Thompson,"Katharine Hepburn, Henry Fonda, Jane Fonda, Doug McKeon, Dabney Coleman",False
-282,Reds,7.3,1981,3h 15m,Warren Beatty,"Biografia, Drama, História, Romance","Warren Beatty, Trevor Griffiths","Warren Beatty, Diane Keaton, Edward Herrmann, Jerzy Kosinski, Jack Nicholson",False
-284,Raiders of the Lost Ark,8.4,1981,1h 55m,Steven Spielberg,"Ação, Aventura","Lawrence Kasdan, George Lucas, Philip Kaufman","Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies, Ronald Lacey",False
-285,Ordinary People,7.7,1980,2h 4m,Robert Redford,Drama,Colin Welland,"Ben Cross, Ian Charleson, Nigel Havers, Alice Krige, Ian Holm",True
-287,Coal Miner's Daughter,7.5,1980,2h 4m,Michael Apted,"Biografia, Drama, Musical","Thomas Rickman, Loretta Lynn, George Vecsey","Sissy Spacek, Tommy Lee Jones, Levon Helm, Phyllis Boyens, Bill Anderson Jr.",False
-288,Raging Bull,8.1,1980,2h 9m,Martin Scorsese,"Biografia, Drama, Esportes","Christopher De Vore, Eric Bergren, David Lynch","John Hurt, Anthony Hopkins, Anne Bancroft, John Gielgud, Wendy Hiller",False
-291,Tess,7.3,1979,3h 6m,Roman Polanski,"Drama, Romance",Steve Tesich,"Dennis Christopher, Dennis Quaid, Daniel Stern, Jackie Earle Haley, Paul Dooley",False
-289,The Elephant Man,8.2,1980,2h 4m,David Lynch,"Biografia, Drama","Christopher De Vore, Eric Bergren, David Lynch","John Hurt, Anthony Hopkins, Anne Bancroft, John Gielgud, Wendy Hiller",False
-294,Kramer vs. Kramer,7.8,1979,1h 45m,Robert Benton,Drama,"Avery Corman, Robert Benton","Dustin Hoffman, Meryl Streep, Jane Alexander, Justin Henry, Howard Duff",True
-292,All That Jazz,7.8,1979,2h 3m,Bob Fosse,"Drama, Musical, Musical","Robert Alan Aurthur, Bob Fosse","Roy Scheider, Jessica Lange, Ann Reinking, Leland Palmer, Cliff Gorman",False
-290,Apocalypse Now,8.4,1979,2h 27m,Francis Ford Coppola,"Drama, Guerra, Mistério",Alvin Sargent,"Donald Sutherland, Timothy Hutton, Mary Tyler Moore, Judd Hirsch, Elizabeth McGovern",False
-293,Breaking Away,7.7,1979,1h 41m,Peter Yates,"Comédia, Drama, Esportes","Irving Ravetch, Harriet Frank Jr.","Sally Field, Beau Bridges, Ron Leibman, Pat Hingle, Barbara Baxley",False
-295,Norma Rae,7.3,1979,1h 54m,Martin Ritt,Drama,"Irving Ravetch, Harriet Frank Jr.","Sally Field, Beau Bridges, Ron Leibman, Pat Hingle, Barbara Baxley",False
-300,The Deer Hunter,8.1,1978,3h 3m,Michael Cimino,"Drama, Guerra","Michael Cimino, Deric Washburn, Louis Garfinkle","Robert De Niro, Christopher Walken, John Cazale, John Savage, Meryl Streep",True
-296,An Unmarried Woman,7.2,1978,2h 4m,Paul Mazursky,"Comédia, Drama, Romance",Paul Mazursky,"Jill Clayburgh, Alan Bates, Michael Murphy, Lynne Thigpen, Cliff Gorman",False
-297,Coming Home,7.3,1978,2h 7m,Hal Ashby,"Drama, Guerra, Romance","Oliver Stone, Gerald Di Pego","Brad Davis, Irene Miracle, John Hurt, Paul L. Smith, Randy Quaid",False
-298,Heaven Can Wait,6.9,1978,1h 41m,"Warren Beatty, Buck Henry","Comédia, Fantasia, Romance","Elaine May, Warren Beatty, Harry Segall","Warren Beatty, James Mason, Julie Christie, Jack Warden, Charles Grodin",False
-299,Midnight Express,7.5,1978,2h 1m,Alan Parker,"Biografia, Drama, Policial, Suspense","Robert C. Jones, Waldo Salt","Jon Voight, Jane Fonda, Bruce Dern, Penelope Milford, Robert Carradine",False
+201,Titanic,7.9,3.8,1997,3h 14m,James Cameron,"Drama, Romance",James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher",True
+202,As Good as It Gets,7.7,3.6,1997,2h 19m,James L. Brooks,"Comédia, Drama, Romance","Mark Andrus, James L. Brooks","Jack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr., Skeet Ulrich",False
+203,Good Will Hunting,8.3,4.4,1997,2h 6m,Gus Van Sant,"Drama, Romance","Matt Damon, Ben Affleck","Matt Damon, Robin Williams, Ben Affleck, Minnie Driver, Stellan Skarsgård",False
+204,L.A. Confidential,8.2,4.1,1997,2h 18m,Curtis Hanson,"Drama, Mistério, Policial, Suspense",Simon Beaufoy,"Robert Carlyle, Tom Wilkinson, Mark Addy, Steve Huison, William Snape",False
+205,The Full Monty,7.2,3.7,1997,1h 31m,Peter Cattaneo,"Comédia, Drama",Simon Beaufoy,"Robert Carlyle, Tom Wilkinson, Mark Addy, Steve Huison, William Snape",False
+206,The English Patient,7.4,3.6,1996,2h 42m,Anthony Minghella,"Drama, Romance, Guerra","Michael Ondaatje, Anthony Minghella","Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas, Naveen Andrews",True
+207,Fargo,8.1,4.2,1996,1h 38m,"Joel Coen, Ethan Coen","Crime, Suspense","Ethan Coen, Joel Coen","William H. Macy, Frances McDormand, Steve Buscemi, Peter Stormare, Kristin Rudrüd",False
+208,Jerry Maguire,7.3,3.6,1996,2h 19m,Cameron Crowe,"Comédia, Drama, Esportes, Romance",Cameron Crowe,"Tom Cruise, Renée Zellweger, Cuba Gooding Jr., Kelly Preston, Jerry O'Connell",False
+209,Secrets & Lies,8.0,4.3,1996,2h 16m,Mike Leigh,"Comédia, Drama",Mike Leigh,"Brenda Blethyn, Marianne Jean-Baptiste, Timothy Spall, Claire Rushbrook, Philip Glenister",False
+210,Shine,7.6,3.7,1996,1h 45m,Scott Hicks,"Biografia, Drama, Musical, Romance",Jan Sardi,"Geoffrey Rush, Alex Rafalowicz, Lynn Redgrave, Armin Mueller-Stahl, John Gaden",False
+211,Braveheart,8.3,3.9,1995,2h 58m,Mel Gibson,"Biografia, Drama, Guerra",Randall Wallace,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen, James Robinson",True
+212,Apollo 13,7.7,3.8,1995,2h 20m,Ron Howard,"Aventura, Drama, História","William Broyler Jr., Al Reinert","Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise, Ed Harris",False
+213,Babe,6.9,3.4,1995,1h 31m,Chris Noonan,"Comédia, Drama, Família","George Miller, Chris Noonan","James Cromwell, Magda Szubanski, Christine Cavanaugh, Miriam Margolyes, Danny Mann",False
+214,Sense and Sensibility,7.7,3.8,1995,2h 16m,Ang Lee,"Drama, Romance","William Broyles Jr., Al Reinert","Tom Hanks, Kevin Bacon, Bill Paxton, Gary Sinise, Ed Harris",False
+215,The Postman,7.8,4.0,1994,1h 48m,Michael Radford,"Comédia, Drama, Romance",Massimo Troisi, Michael Radford,"Massimo Troisi, Philippe Noiret, Maria Grazia Cucinotta, Renato Scarpa, Linda Moretti",False
+216,Forrest Gump,8.8,4.2,1994,2h 22m,Robert Zemeckis,"Drama, Romance","Winston Groom, Eric Roth","Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Rebecca Williams",True
+217,Four Weddings and a Funeral,7.1,3.4,1994,1h 57m,Mike Newell,"Comédia, Drama, Romance",Richard Curtis,"Hugh Grant, Andie MacDowell, Kristin Scott Thomas, Simon Callow, John Hannah",False
+218,Pulp Fiction,8.8,4.3,1994,2h 34m,Quentin Tarantino,"Drama, Policial","Paul Attanasio, Richard N. Goodwin","Ralph Fiennes, John Turturro, Rob Morrow, David Paymer, Paul Scofield",False
+219,Quiz Show,7.5,3.8,1994,2h 13m,Robert Redford,"Biografia, Drama, História","Quentin Tarantino, Roger Avary","John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Harvey Keitel",False
+220,The Shawshank Redemption,9.3,4.6,1994,2h 22m,Frank Darabont,Drama,"Stephen King, Frank Darabont","Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown",False
+221,Schindler's List,9.0,4.5,1993,3h 15m,Steven Spielberg,"Biografia, Drama, História","Thomas Keneally, Steven Zaillian","Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall, Jonathan Sagall",True
+222,In the Name of the Father,8.1,4.2,1993,2h 13m,Jim Sheridan,"Biografia, Drama, Policial",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
+223,The Fugitive,7.8,3.9,1993,2h 10m,Andrew Davis,"Ação, Drama, Mistério, Policial, Suspense",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
+224,The Piano,7.5,3.9,1993,2h 1m,Jane Campion,"Drama, Musical, Romance",Jane Campion,"Holly Hunter, Harvey Keitel, Sam Neill, Anna Paquin, Kerry Walker",False
+225,The Remains of the Day,7.8,4.0,1993,2h 14m,James Ivory,"Drama, Romance",Ruth Prawer Jhabvala,"Anthony Hopkins, Emma Thompson, James Fox, Christopher Reeve, Hugh Grant",False
+226,Unforgiven,8.2,4.2,1992,2h 10m,Clint Eastwood,"Drama, Faroeste",David Webb Peoples,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris, Jaimz Woolvett",True
+227,A Few Good Men,7.7,4.0,1992,2h 18m,Rob Reiner,"Drama, Suspense",Aaron Sorkin,"Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon, Kiefer Sutherland",False
+228,Howards End,7.4,3.7,1992,2h 22m,James Ivory,"Drama, Romance","E.M. Forster, Ruth Prawer Jhabvala","Anthony Hopkins, Emma Thompson, Vanessa Redgrave, Helena Bonham Carter, Joseph Bennett",False
+229,Scent of a Woman,8.0,3.9,1992,2h 36m,Martin Brest,Drama,Bo Goldman,"Al Pacino, Chris O'Donnell, Philip Seymour Hoffman, Gabrielle Anwar, James Rebhorn",False
+230,The Crying Game,7.2,3.6,1992,1h 52m,Neil Jordan,"Drama, Policial, Romance, Suspense",Neil Jordan,"Stephen Rea, Forest Whitaker, Miranda Richardson, Jaye Davidson, Adrian Dunbar",False
+231,The Silence of the Lambs,8.6,4.3,1991,1h 58m,Jonathan Demme,"Drama, Policial, Suspense, Terror",Ted Tally,"Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald",True
+232,Beauty and the Beast,8.0,3.9,1991,1h 24m,"Gary Trousdale, Kirk Wise","Animação, Família, Fantasia, Musical, Romance",Linda Woolverton,"Paige O’Hara, Robby Benson, Richard White, Jerry Orbach, Angela Lansbury",False
+233,Bugsy,6.8,3.3,1991,2h 16m,Barry Levinson,"Biografia, Drama, Policial",Linda Woolverton,"Paige O’Hara, Robby Benson, Richard White, Jerry Orbach, Angela Lansbury",False
+234,JFK,8.0,4.1,1991,3h 9m,Oliver Stone,"Drama, História, Suspense","Jim Garrison, Jim Marrs, Oliver Stone","Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau, Sally Kirkland",False
+235,The Prince of Tides,6.8,3.4,1991,2h 12m,Barbra Streisand,"Drama, Romance","Pat Conroy, Becky Johnston","Barbra Streisand, Nick Nolte, Blythe Danner, Kate Nelligan, Jeroen Krabbé",False
+236,Dances with Wolves,8.0,3.9,1990,3h 1m,Kevin Costner,"Aventura, Drama, Faroeste",Michael Blake,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant, Floyd 'Red Crow' Westerman",True
+237,Awakenings,7.8,3.9,1990,2h 1m,Penny Marshall,"Biografia, Drama",Steven Zaillian,"Robin Williams, Robert De Niro, Julie Kavner, Ruth Nelson, John Heard",False
+238,Ghost,7.1,3.6,1990,2h 6m,Jerry Zucker,"Drama, Fantasia, Romance, Suspense",Bruce Joel Rubin,"Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn, Rick Aviles",False
+239,GoodFellas,8.7,4.5,1990,2h 25m,Martin Scorsese,"Biografia, Drama, Policial","Nicholas Pileggi, Martin Scorsese","Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino",False
+240,The Godfather Part III,7.6,3.5,1990,2h 42m,Francis Ford Coppola,"Drama, Policial","Mario Puzo, Francis Ford Coppola","Al Pacino, Diane Keaton, Andy Garcia, Talia Shire, Eli Wallach",False
+241,Driving Miss Daisy,7.3,3.3,1989,1h 39m,Bruce Beresford,"Comédia, Drama",Alfred Uhry,"Jessica Tandy, Morgan Freeman, Dan Aykroyd, Patti LuPone, Joann Havrilla",True
+242,Born on the Fourth of July,7.2,3.7,1989,2h 25m,Oliver Stone,"Biografia, Drama, Guerra",Phil Alden Robinson,"Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta, Burt Lancaster",False
+243,Dead Poets Society,8.1,4.3,1989,2h 8m,Peter Weir,"Comédia, Drama",Tom Schulman,"Robin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles, Gale Hansen",False
+244,Field of Dreams,7.5,3.6,1989,1h 47m,Phil Alden Robinson,"Drama, Esportes, Família, Fantasia",Phil Alden Robinson,"Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta, Burt Lancaster",False
+245,My Left Foot: The Story of Christy Brown,7.8,3.9,1989,1h 43m,Jim Sheridan,"Biografia, Drama","Shane Connaughton, Jim Sheridan","Daniel Day-Lewis, Brenda Fricker, Ray McAnally, Fiona Shaw, Hugh O’Conor",False
+246,Rain Man,8.0,3.9,1988,2h 13m,Barry Levinson,Drama,"Barry Morrow, Ron Bass","Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen, Jack Murdock",True
+247,Dangerous Liaisons,7.5,3.8,1988,1h 59m,Stephen Frears,"Drama, Romance",Christopher Hampton,"Glenn Close, John Malkovich, Michelle Pfeiffer, Swoosie Kurtz, Keanu Reeves",False
+248,Mississippi Burning,7.8,3.9,1988,2h 8m,Alan Parker,"Drama, Mistério, Policial, Suspense","Kevin Wade, Mike Nichols","Melanie Griffith, Harrison Ford, Sigourney Weaver, Alec Baldwin, Joan Cusack",False
+249,The Accidental Tourist,6.7,3.3,1988,2h 1m,Lawrence Kasdan,"Comédia, Drama, Romance",Frank Galati,"William Hurt, Geena Davis, Kathleen Turner, Jeff Daniels, George Plimpton",False
+250,Working Girl,6.8,3.4,1988,1h 53m,Mike Nichols,"Comédia, Drama, Romance","Kevin Wade, Mike Nichols","Melanie Griffith, Harrison Ford, Sigourney Weaver, Alec Baldwin, Joan Cusack",False
+251,The Last Emperor,7.7,3.9,1987,2h 43m,Bernardo Bertolucci,"Biografia, Drama, História","Enzo Ungari, Mark Peploe, Bernardo Bertolucci","John Lone, Joan Chen, Peter O'Toole, Ruocheng Ying, Victor Wong",True
+252,Broadcast News,7.3,4.0,1987,2h 13m,James L. Brooks,"Comédia, Drama, Romance",James L. Brooks,"William Hurt, Albert Brooks, Holly Hunter, Robert Prosky, Lois Chiles",False
+253,Fatal Attraction,6.9,3.5,1987,1h 59m,Adrian Lyne,"Drama, Suspense",James Dearden,"Michael Douglas, Glenn Close, Anne Archer, Ellen Latzen, Stuart Pankin",False
+254,Hope and Glory,7.3,3.7,1987,1h 53m,John Boorman,"Comédia, Drama, Romance",John Boorman,"Sarah Miles, David Hayman, Sebastian Rice-Edwards, Geraldine Muir, Sammi Davis",False
+255,Moonstruck,7.2,3.8,1987,1h 42m,Norman Jewison,"Comédia, Drama, Romance",John Patrick Shanley,"Cher, Nicolas Cage, Olympia Dukakis, Vincent Gardenia, Danny Aiello",False
+256,Platoon,8.1,4.0,1986,2h,Oliver Stone,"Drama, Guerra",Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe, Keith David, Forest Whitaker",True
+257,A Room with a View,7.2,3.7,1985,1h 57m,James Ivory,"Drama, Romance","E.M. Forster, Ruth Prawer Jhabvala","Maggie Smith, Helena Bonham Carter, Denholm Elliott, Julian Sands, Simon Callow",False
+258,Children of a Lesser God,7.2,3.5,1986,1h 59m,Randa Haines,"Drama, Romance","Hesper Anderson, Mark Medoff","Marlee Matlin, William Hurt, Piper Laurie, Philip Bosco, John Rubinstein",False
+259,Hannah and Her Sisters,7.8,4.0,1986,1h 47m,Woody Allen,"Comédia, Drama",Woody Allen,"Woody Allen, Mia Farrow, Michael Caine, Dianne Wiest, Barbara Hershey",False
+260,The Mission,7.4,3.7,1986,2h 5m,Roland Joffé,"Aventura, Drama, História",Robert Bolt,"Robert De Niro, Jeremy Irons, Ray McAnally, Aidan Quinn, Cherie Lunghi",True
+261,Out of Africa,7.1,3.4,1985,2h 41m,Sydney Pollack,"Biografia, Drama, Romance","Karen Blixen, Judith Thurman, Errol Trzebinski","Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen, Malick Bowens",True
+262,Kiss of the Spider Woman,7.3,3.7,1985,2h,Hector Babenco,Drama,"Richard Condon, Janet Roach","Jack Nicholson, Kathleen Turner, Anjelica Huston, Robert Loggia, William Hickey",False
+263,Prizzi's Honor,6.7,3.3,1985,2h 10m,John Huston,"Comédia, Drama, Policial, Romance",Leonard Schrader,"William Hurt, Raul Julia, Sônia Braga, José Lewgoy, Milton Gonçalves",False
+264,The Color Purple,7.7,3.9,1985,2h 34m,Steven Spielberg,Drama,"Menno Meyjes, Alice Walker","Danny Glover, Whoopi Goldberg, Oprah Winfrey, Margaret Avery, Willard E. Pugh",False
+265,Witness,7.3,3.7,1985,1h 52m,Peter Weir,"Drama, Policial, Romance, Suspense","William Kelley, Pamela Wallace, Earl W. Wallace","Harrison Ford, Kelly McGillis, Lukas Haas, Josef Sommer, Jan Rubes",False
+266,Amadeus,8.4,4.3,1984,2h 40m,Milos Forman,"Biografia, Drama, Musical","Peter Shaffer, Zdenek Mahler","F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice, Simon Callow",True
+267,A Passage to India,7.3,3.6,1984,2h 44m,David Lean,"Aventura, Drama, História","E.M. Forster, Santha Rama Rau, David Lean","Judy Davis, Victor Banerjee, Peggy Ashcroft, James Fox, Alec Guinness",False
+268,A Soldier's Story,7.2,3.6,1984,1h 41m,Norman Jewison,"Drama, Guerra, Mistério, Policial",Charles Fuller,"Howard E. Rollins Jr., Adolph Caesar, David Alan Grier, Art Evans, Denzel Washington",False
+269,Places in the Heart,7.4,3.5,1984,1h 51m,Robert Benton,Drama,Charles Fuller,"Howard E. Rollins Jr., Adolph Caesar, David Alan Grier, Art Evans, Denzel Washington",False
+270,The Killing Fields,7.8,3.9,1984,2h 21m,Roland Joffé,"Biografia, Drama, Guerra, História",John Crowley,"Sally Field, Robert Drivas, John Malkovich, Ed Harris, Lindsay Crouse",False
+271,Terms of Endearment,7.4,3.8,1983,2h 12m,James L. Brooks,"Comédia, Drama",James L. Brooks,"Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito, Jeff Daniels",True
+272,Tender Mercies,7.3,3.7,1983,1h 32m,Bruce Beresford,"Drama, Musical",Horton Foote,"Robert Duvall, Tess Harper, Betty Buckley, Michael Pataki, Ellen Barkin",False
+273,The Big Chill,7.1,3.5,1983,1h 45m,Lawrence Kasdan,"Comédia, Drama",Ronald Harwood,"Albert Finney, Tom Courtenay, Zena Walker, Eileen Atkins, Michael Bryant",False
+274,The Dresser,7.4,3.6,1983,1h 58m,Peter Yates,Drama,Lawrence Kasdan,"Tom Berenger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline",False
+275,The Right Stuff,7.8,4.0,1983,3h 13m,Philip Kaufman,"Aventura, Biografia, Drama","Philip Kaufman, Tom Wolfe","Sam Shepard, Scott Glenn, Ed Harris, Dennis Quaid, Fred Ward",False
+276,Gandhi,8.0,3.7,1982,3h 11m,Richard Attenborough,"Biografia, Drama, História",John Briley,"Ben Kingsley, John Gielgud, Rohini Hattangadi, Roshan Seth, Candice Bergen",True
+277,E.T. the Extra-Terrestrial,7.9,3.8,1982,1h 55m,Steven Spielberg,"Aventura, Família, Ficção científica",Melissa Mathison,"Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace, Robert MacNaughton",False
+278,Missing,7.7,3.9,1982,2h 2m,Costa-Gavras,"Biografia, Drama, História, Mistério, Suspense","Costa-Gavras, Donald E. Stewart","Jack Lemmon, Sissy Spacek, Charles Cioffi, Melvyn Douglas, John Shea",False
+279,Tootsie,7.4,3.7,1982,1h 56m,Sydney Pollack,"Comédia, Drama, Romance","Don McGuire, Larry Gelbart, Murray Schisgal","Dustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman, Charles Durning",False
+280,The Verdict,7.7,4.0,1982,2h 9m,Sidney Lumet,Drama,David Mamet,"Paul Newman, Charlotte Rampling, Jack Warden, James Mason, Milo O'Shea",False
+281,Chariots of Fire,7.1,3.4,1981,2h 5m,Hugh Hudson,"Biografia, Drama, Esportes",Colin Welland,"Ben Cross, Ian Charleson, Nigel Havers, Alice Krige, Ian Holm",True
+282,Atlantic City,7.3,3.7,1980,1h 44m,Louis Malle,"Drama, Policial, Romance","Louis Malle, John Guare","Burt Lancaster, Susan Sarandon, Kate Reid, Al Waxman, Robert Joy",False
+283,On Golden Pond,7.6,3.7,1981,1h 49m,Mark Rydell,Drama,Ernest Thompson,"Katharine Hepburn, Henry Fonda, Jane Fonda, Doug McKeon, Dabney Coleman",False
+284,Reds,7.3,3.9,1981,3h 15m,Warren Beatty,"Biografia, Drama, História, Romance","Warren Beatty, Trevor Griffiths","Warren Beatty, Diane Keaton, Edward Herrmann, Jerzy Kosinski, Jack Nicholson",False
+285,Raiders of the Lost Ark,8.4,4.2,1981,1h 55m,Steven Spielberg,"Ação, Aventura","Lawrence Kasdan, George Lucas, Philip Kaufman","Harrison Ford, Karen Allen, Paul Freeman, John Rhys-Davies, Ronald Lacey",False
+286,Ordinary People,7.7,4.0,1980,2h 4m,Robert Redford,Drama,Colin Welland,"Ben Cross, Ian Charleson, Nigel Havers, Alice Krige, Ian Holm",True
+287,Coal Miner's Daughter,7.5,3.7,1980,2h 4m,Michael Apted,"Biografia, Drama, Musical","Thomas Rickman, Loretta Lynn, George Vecsey","Sissy Spacek, Tommy Lee Jones, Levon Helm, Phyllis Boyens, Bill Anderson Jr.",False
+288,Raging Bull,8.1,4.2,1980,2h 9m,Martin Scorsese,"Biografia, Drama, Esportes","Christopher De Vore, Eric Bergren, David Lynch","John Hurt, Anthony Hopkins, Anne Bancroft, John Gielgud, Wendy Hiller",False
+289,Tess,7.3,3.8,1979,3h 6m,Roman Polanski,"Drama, Romance",Steve Tesich,"Dennis Christopher, Dennis Quaid, Daniel Stern, Jackie Earle Haley, Paul Dooley",False
+290,The Elephant Man,8.2,4.3,1980,2h 4m,David Lynch,"Biografia, Drama","Christopher De Vore, Eric Bergren, David Lynch","John Hurt, Anthony Hopkins, Anne Bancroft, John Gielgud, Wendy Hiller",False
+291,Kramer vs. Kramer,7.8,4.1,1979,1h 45m,Robert Benton,Drama,"Avery Corman, Robert Benton","Dustin Hoffman, Meryl Streep, Jane Alexander, Justin Henry, Howard Duff",True
+292,All That Jazz,7.8,4.3,1979,2h 3m,Bob Fosse,"Drama, Musical, Musical","Robert Alan Aurthur, Bob Fosse","Roy Scheider, Jessica Lange, Ann Reinking, Leland Palmer, Cliff Gorman",False
+293,Apocalypse Now,8.4,4.4,1979,2h 27m,Francis Ford Coppola,"Drama, Guerra, Mistério",Alvin Sargent,"Donald Sutherland, Timothy Hutton, Mary Tyler Moore, Judd Hirsch, Elizabeth McGovern",False
+294,Breaking Away,7.7,4.0,1979,1h 41m,Peter Yates,"Comédia, Drama, Esportes","Irving Ravetch, Harriet Frank Jr.","Sally Field, Beau Bridges, Ron Leibman, Pat Hingle, Barbara Baxley",False
+295,Norma Rae,7.3,3.8,1979,1h 54m,Martin Ritt,Drama,"Irving Ravetch, Harriet Frank Jr.","Sally Field, Beau Bridges, Ron Leibman, Pat Hingle, Barbara Baxley",False
+300,The Deer Hunter,8.1,4.2,1978,3h 3m,Michael Cimino,"Drama, Guerra","Michael Cimino, Deric Washburn, Louis Garfinkle","Robert De Niro, Christopher Walken, John Cazale, John Savage, Meryl Streep",True
+296,An Unmarried Woman,7.2,3.9,1978,2h 4m,Paul Mazursky,"Comédia, Drama, Romance",Paul Mazursky,"Jill Clayburgh, Alan Bates, Michael Murphy, Lynne Thigpen, Cliff Gorman",False
+297,Coming Home,7.3,3.8,1978,2h 7m,Hal Ashby,"Drama, Guerra, Romance","Oliver Stone, Gerald Di Pego","Brad Davis, Irene Miracle, John Hurt, Paul L. Smith, Randy Quaid",False
+298,Heaven Can Wait,6.9,3.4,1978,1h 41m,"Warren Beatty, Buck Henry","Comédia, Fantasia, Romance","Elaine May, Warren Beatty, Harry Segall","Warren Beatty, James Mason, Julie Christie, Jack Warden, Charles Grodin",False
+299,Midnight Express,7.5,3.7,1978,2h 1m,Alan Parker,"Biografia, Drama, Policial, Suspense","Robert C. Jones, Waldo Salt","Jon Voight, Jane Fonda, Bruce Dern, Penelope Milford, Robert Carradine",False
 301,Annie Hall,7.9,1977,1h 33m,Woody Allen,"Comédia, Romance","Woody Allen, Marshall Brickman","Woody Allen, Diane Keaton, Tony Roberts, Paul Simon, Carol Kane",True
 303,Julia,7.0,1977,1h 57m,Fred Zinnemann,Drama,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Peter Cushing",False
 304,Star Wars,8.6,1977,2h 1m,George Lucas,"Aventura, Ação, Fantasia, Ficção científica",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Peter Cushing",False
