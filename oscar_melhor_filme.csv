@@ -19,17 +19,17 @@
 18,Poor Things,7.8,4.0,2023,2h 21m,Yorgos Lanthimos,"Comédia, Drama, Ficção científica, Romance","Tony McNamara, Alasdair Gray","Emma Stone, Mark Ruffalo, Willem Dafoe, Margaret Qualley, Ramy Youssef",11,4,False
 19,The Holdovers,7.9,4.2,2023,2h 13m,Alexander Payne,"Comédia, Drama",David Hemingson,"Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa, Carrie Preston, Brady Hepner",5,1,False
 20,The Zone of Interest,7.3,3.9,2023,1h 45m,Jonathan Glazer,"Drama, Guerra, História","Jonathan Glazer, Martin Amis","Christian Friedel, Sandra Hüller, Johann Karthaus, Luis Noah Witte, Max Beck",5,2,False
-21,Everything Everywhere All at Once,7.8,4.3,2022,2h 19m,"Daniel Kwan, Daniel Scheinert","Aventura, Ação, Comédia, Drama, Fantasia, Ficção científica","Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis, Ke Huy Quan, James Hong",True
-22,All Quiet on the Western Front,7.8,4.0,2022,2h 28m,Edward Berger,"Ação, Drama, Guerra","Edward Berger, Lesley Paterson, Ian Stokell","Felix Kammerer, Albrecht Schuch, Aaron Hilmer, Moritz Klaus, Adrian Grünewald",False
-23,Avatar: The Way of Water,7.5,3.6,2022,3h 12m,James Cameron,"Aventura, Ação, Fantasia, Ficção científica","James Cameron, Rick Jaffa, Amanda Silver","Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Kate Winslet",False
-24,Elvis,7.3,3.4,2022,2h 39m,Baz Luhrmann,"Biografia, Drama, Musical","Baz Luhrmann, Sam Bromell, Craig Pearce","Tom Hanks, Austin Butler, Olivia DeJonge, Helen Thomson, Richard Roxburgh",False
-25,The Banshees of Inisherin,7.7,4.1,2022,1h 54m,Martin McDonagh,"Comédia, Drama",Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt, Gary Lydon",False
-26,The Fabelmans,7.5,4.0,2022,2h 31m,Steven Spielberg,Drama,"Steven Spielberg, Tony Kushner","Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch, Seth Rogen",False
-27,Top Gun: Maverick,8.2,4.0,2022,2h 10m,Joseph Kosinski,"Ação, Drama","Jim Cash, Jack Epps Jr., Peter Craig","Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer, Bashir Salahuddin",False
-28,Triangle of Sadness,7.2,3.7,2022,2h 27m,Ruben Östlund,"Comédia, Drama",Ruben Östlund,"Thobias Thorwid, Harris Dickinson, Charlbi Dean, Jiannis Moustos, Vicki Berlin",False
-29,Tár,7.4,3.9,2022,2h 38m,Todd Field,"Drama, Musical",Todd Field,"Cate Blanchett, Noémie Merlant, Nina Hoss, Sophie Kauer, Adam Gopnik",False
-30,Women Talking,6.9,3.8,2022,1h 44m,Sarah Polley,Drama,"Sarah Polley, Miriam Toews","Rooney Mara, Claire Foy, Jessie Buckley, Frances McDormand, Judith Ivey",False
-31,CODA,8.0,3.9,2021,1h 51m,Sian Heder,"Comédia, Drama, Musical","Sian Heder, Victoria Bedos, Stanislas Carré de Malberg","Emilia Jones, Marlee Matlin, Troy Kotsur, Daniel Durant, John Fiore",True
+21,Everything Everywhere All at Once,7.8,4.3,2022,2h 19m,"Daniel Kwan, Daniel Scheinert","Aventura, Ação, Comédia, Drama, Fantasia, Ficção científica","Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis, Ke Huy Quan, James Hong",11,7,True
+22,All Quiet on the Western Front,7.8,4.0,2022,2h 28m,Edward Berger,"Ação, Drama, Guerra","Edward Berger, Lesley Paterson, Ian Stokell","Felix Kammerer, Albrecht Schuch, Aaron Hilmer, Moritz Klaus, Adrian Grünewald",9,4,False
+23,Avatar: The Way of Water,7.5,3.6,2022,3h 12m,James Cameron,"Aventura, Ação, Fantasia, Ficção científica","James Cameron, Rick Jaffa, Amanda Silver","Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang, Kate Winslet",4,1,False
+24,Elvis,7.3,3.4,2022,2h 39m,Baz Luhrmann,"Biografia, Drama, Musical","Baz Luhrmann, Sam Bromell, Craig Pearce","Tom Hanks, Austin Butler, Olivia DeJonge, Helen Thomson, Richard Roxburgh",8,0,False
+25,The Banshees of Inisherin,7.7,4.1,2022,1h 54m,Martin McDonagh,"Comédia, Drama",Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon, Pat Shortt, Gary Lydon",9,0,False
+26,The Fabelmans,7.5,4.0,2022,2h 31m,Steven Spielberg,Drama,"Steven Spielberg, Tony Kushner","Michelle Williams, Gabriel LaBelle, Paul Dano, Judd Hirsch, Seth Rogen",7,0,False
+27,Top Gun: Maverick,8.2,4.0,2022,2h 10m,Joseph Kosinski,"Ação, Drama","Jim Cash, Jack Epps Jr., Peter Craig","Tom Cruise, Jennifer Connelly, Miles Teller, Val Kilmer, Bashir Salahuddin",6,1,False
+28,Triangle of Sadness,7.2,3.7,2022,2h 27m,Ruben Östlund,"Comédia, Drama",Ruben Östlund,"Thobias Thorwid, Harris Dickinson, Charlbi Dean, Jiannis Moustos, Vicki Berlin",3,0,False
+29,Tár,7.4,3.9,2022,2h 38m,Todd Field,"Drama, Musical",Todd Field,"Cate Blanchett, Noémie Merlant, Nina Hoss, Sophie Kauer, Adam Gopnik",6,0,False
+30,Women Talking,6.9,3.8,2022,1h 44m,Sarah Polley,Drama,"Sarah Polley, Miriam Toews","Rooney Mara, Claire Foy, Jessie Buckley, Frances McDormand, Judith Ivey",2,1,False
+31,CODA,8.0,3.9,2021,1h 51m,Sian Heder,"Comédia, Drama, Musical","Sian Heder, Victoria Bedos, Stanislas Carré de Malberg","Emilia Jones, Marlee Matlin, Troy Kotsur, Daniel Durant, John Fiore",,,True
 32,Belfast,7.2,3.5,2021,1h 38m,Kenneth Branagh,"Biografia, Drama",Kenneth Branagh,"Jude Hill, Lewis McAskie, Caitríona Balfe, Jamie Dornan, Judi Dench",False
 33,Don't Look Up,7.2,3.0,2021,2h 18m,Adam McKay,"Comédia, Drama, Ficção científica","Adam McKay, David Sirota","Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep, Cate Blanchett, Rob Morgan",False
 34,Drive My Car,7.5,4.2,2021,2h 59m,Ryûsuke Hamaguchi,Drama,"Haruki Murakami, Ryûsuke Hamaguchi, Takamasa Ôe","Hidetoshi Nishijima, Tôko Miura, Reika Kirishima, Masaki Okada, Park Yu-rim",False
