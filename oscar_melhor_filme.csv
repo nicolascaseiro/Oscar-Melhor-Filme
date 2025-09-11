@@ -90,23 +90,23 @@
 89,The Big Short,7.8,3.8,2015,2h 10m,Adam McKay,"Biografia, Comédia, Drama, História","Charles Randolph, Adam McKay, Michael Lewis","Christian Bale, Steve Carell, Ryan Gosling, Brad Pitt, Margot Robbie",5,1,False
 90,The Martian,8.0,3.8,2015,2h 24m,Ridley Scott,"Aventura, Drama, Ficção científica","Drew Goddard, Andy Weir","Matt Damon, Jessica Chastain, Kristen Wiig, Kate Mara, Jeff Daniels",7,0,False
 91,The Revenant,8.0,3.9,2015,2h 36m,Alejandro G. Iñárritu,"Aventura, Drama, Faroeste","Mark L. Smith, Alejandro G. Iñárritu, Michael Punke","Leonardo DiCaprio, Tom Hardy, Will Poulter, Domhnall Gleeson, Forrest Goodluck",12,3,False
-92,Birdman or (The Unexpected Virtue of Ignorance),7.7,4.0,2014,1h 59m,Alejandro G. Iñárritu,"Comédia, Drama","Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris","Michael Keaton, Zach Galifianakis, Edward Norton, Andrea Riseborough, Emma Stone",,,True
-93,American Sniper,7.3,3.4,2014,2h 13m,Clint Eastwood,"Ação, Biografia, Drama, Guerra","Jason Hall, Chris Kyle, Scott McEwen","Bradley Cooper, Sienna Miller, Kyle Gallner, Cole Konis, Ben Reed",False
-94,Boyhood,7.9,3.8,2014,2h 45m,Richard Linklater,Drama,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke, Elijah Smith, Lorelei Linklater",False
-95,Selma,7.5,3.8,2014,2h 8m,Ava DuVernay,"Biografia, Drama, História",Paul Webb,"David Oyelowo, Carmen Ejogo, Oprah Winfrey, Tom Wilkinson, Jim France",False
-96,The Grand Budapest Hotel,8.1,4.2,2014,1h 39m,Wes Anderson,"Comédia, Drama","Stefan Zweig, Wes Anderson, Hugo Guinness","Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody, Willem Dafoe",False
-97,The Imitation Game,8.0,3.8,2014,1h 54m,Morten Tyldum,"Biografia, Drama, Guerra, Suspense","Graham Moore, Andrew Hodges","Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech, Rory Kinnear",False
-98,The Theory of Everything,7.7,3.6,2014,2h 3m,James Marsh,"Biografia, Drama, Romance","Anthony McCarten, Jane Hawking","Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry, Finlay Wright-Stephens",False
-99,Whiplash,8.5,4.4,2014,1h 46m,Damien Chazelle,"Drama, Musical",Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser, Austin Stowell",False
-100,12 Years a Slave,8.1,4.2,2013,2h 14m,Steve McQueen,"Biografia, Drama, História","John Ridley, Solomon Northup","Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt, Dwight Henry",True
-101,American Hustle,7.2,3.3,2013,2h 18m,David O. Russell,"Drama, Policial","Eric Warren Singer, David O. Russell","Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, Jeremy Renner",False
-102,Captain Phillips,7.8,3.8,2013,2h 14m,Paul Greengrass,"Ação, Biografia, Drama, Policial, Suspense","Billy Ray, Richard Phillips, Stephan Talty","Tom Hanks, Barkhad Abdi, Barkhad Abdirahman, Catherine Keener, Faysal Ahmed",False
-103,Dallas Buyers Club,7.9,4.0,2013,1h 57m,Jean-Marc Vallée,"Biografia, Drama","Craig Borten, Melisa Wallack","Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn, Denis O'Hare",False
-104,Gravity,7.7,3.5,2013,1h 31m,Alfonso Cuarón,"Drama, Ficção científica, Suspense","Alfonso Cuarón, Jonás Cuarón","Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen, Phaldut Sharma",False
-105,Her,8.0,4.0,2013,2h 6m,Spike Jonze,"Drama, Ficção científica, Romance",Spike Jonze,"Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara, Lynn Adrianna Freedman",False
-106,Nebraska,7.7,4.0,2013,1h 55m,Alexander Payne,Drama,Bob Nelson,"Bruce Dern, Will Forte, June Squibb, Bob Odenkirk, Stacy Keach",False
-107,Philomena,7.6,3.7,2013,1h 38m,Stephen Frears,"Biografia, Comédia, Drama","Steve Coogan, Jeff Pope, Martin Sixsmith","Judi Dench, Steve Coogan, Sophie Kennedy Clark, Mare Winningham, Barbara Jefford",False
-108,The Wolf of Wall Street,8.2,4.0,2013,3h,Martin Scorsese,"Biografia, Comédia, Drama, Policial","Terence Winter, Jordan Belfort","Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler",False
+92,Birdman or (The Unexpected Virtue of Ignorance),7.7,4.0,2014,1h 59m,Alejandro G. Iñárritu,"Comédia, Drama","Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris","Michael Keaton, Edward Norton, Andrea Riseborough, Emma Stone, Naomi Watts",9,4,True
+93,American Sniper,7.3,3.4,2014,2h 13m,Clint Eastwood,"Ação, Biografia, Drama, Guerra","Jason Hall, Chris Kyle, Scott McEwen","Bradley Cooper, Sienna Miller, Kyle Gallner, Cole Konis, Ben Reed",6,1,False
+94,Boyhood,7.9,3.8,2014,2h 45m,Richard Linklater,Drama,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke, Elijah Smith, Lorelei Linklater",6,1,False
+95,Selma,7.5,3.8,2014,2h 8m,Ava DuVernay,"Biografia, Drama, História",Paul Webb,"David Oyelowo, Carmen Ejogo, Oprah Winfrey, Tom Wilkinson, Colman Domingo",2,1,False
+96,The Grand Budapest Hotel,8.1,4.2,2014,1h 39m,Wes Anderson,"Comédia, Drama","Stefan Zweig, Wes Anderson, Hugo Guinness","Ralph Fiennes, Bill Murray, Edward Norton, Adrien Brody, Willem Dafoe",9,4,False
+97,The Imitation Game,8.0,3.8,2014,1h 54m,Morten Tyldum,"Biografia, Drama, Guerra, Suspense","Graham Moore, Andrew Hodges","Benedict Cumberbatch, Keira Knightley, Matthew Goode, Allen Leech, Mark Strong",8,1,False
+98,The Theory of Everything,7.7,3.6,2014,2h 3m,James Marsh,"Biografia, Drama, Romance","Anthony McCarten, Jane Hawking","Eddie Redmayne, Felicity Jones, Tom Prior, Sophie Perry, Emily Watson",5,1,False
+99,Whiplash,8.5,4.4,2014,1h 46m,Damien Chazelle,"Drama, Musical",Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist, Paul Reiser, Austin Stowell",5,3,False
+100,12 Years a Slave,8.1,4.2,2013,2h 14m,Steve McQueen,"Biografia, Drama, História","John Ridley, Solomon Northup","Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender, Brad Pitt, Lupita Nyong'o",9,3,True
+101,American Hustle,7.2,3.3,2013,2h 18m,David O. Russell,"Drama, Policial","Eric Warren Singer, David O. Russell","Christian Bale, Amy Adams, Bradley Cooper, Jennifer Lawrence, Jeremy Renner",10,0,False
+102,Captain Phillips,7.8,3.8,2013,2h 14m,Paul Greengrass,"Ação, Biografia, Drama, Policial, Suspense","Billy Ray, Richard Phillips, Stephan Talty","Tom Hanks, Barkhad Abdi, Barkhad Abdirahman, Catherine Keener, Faysal Ahmed",6,0,False
+103,Dallas Buyers Club,7.9,4.0,2013,1h 57m,Jean-Marc Vallée,"Biografia, Drama","Craig Borten, Melisa Wallack","Matthew McConaughey, Jennifer Garner, Jared Leto, Steve Zahn, Denis O'Hare",6,3,False
+104,Gravity,7.7,3.5,2013,1h 31m,Alfonso Cuarón,"Drama, Ficção científica, Suspense","Alfonso Cuarón, Jonás Cuarón","Sandra Bullock, George Clooney, Ed Harris, Orto Ignatiussen, Phaldut Sharma",10,7,False
+105,Her,8.0,4.0,2013,2h 6m,Spike Jonze,"Drama, Ficção científica, Romance",Spike Jonze,"Joaquin Phoenix, Amy Adams, Scarlett Johansson, Rooney Mara, Chris Pratt",5,1,False
+106,Nebraska,7.7,4.0,2013,1h 55m,Alexander Payne,Drama,Bob Nelson,"Bruce Dern, Will Forte, June Squibb, Bob Odenkirk, Stacy Keach",6,0,False
+107,Philomena,7.6,3.7,2013,1h 38m,Stephen Frears,"Biografia, Comédia, Drama","Steve Coogan, Jeff Pope, Martin Sixsmith","Judi Dench, Steve Coogan, Sophie Kennedy Clark, Mare Winningham, Barbara Jefford",4,0,False
+108,The Wolf of Wall Street,8.2,4.0,2013,3h,Martin Scorsese,"Biografia, Comédia, Drama, Policial","Terence Winter, Jordan Belfort","Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler",5,0,False
 109,Argo,7.7,3.7,2012,2h,Ben Affleck,"Biografia, Drama, História, Suspense","Chris Terrio, Tony Mendez, Joshuah Bearman","Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin, Victor Garber",True
 110,Amour,7.9,4.2,2012,2h 7m,Michael Haneke,Drama,Michael Haneke,"Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert, Alexandre Tharaud, William Shimell",False
 111,Beasts of the Southern Wild,7.2,3.8,2012,1h 33m,Benh Zeitlin,"Aventura, Drama, Fantasia","Lucy Alibar, Benh Zeitlin","Quvenzhané Wallis, Dwight Henry, Levy Easterly, Lowell Landes, Pamela Harper",False
