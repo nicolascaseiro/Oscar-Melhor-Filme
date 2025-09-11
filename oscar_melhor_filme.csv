@@ -107,17 +107,17 @@
 106,Nebraska,7.7,4.0,2013,1h 55m,Alexander Payne,Drama,Bob Nelson,"Bruce Dern, Will Forte, June Squibb, Bob Odenkirk, Stacy Keach",6,0,False
 107,Philomena,7.6,3.7,2013,1h 38m,Stephen Frears,"Biografia, Comédia, Drama","Steve Coogan, Jeff Pope, Martin Sixsmith","Judi Dench, Steve Coogan, Sophie Kennedy Clark, Mare Winningham, Barbara Jefford",4,0,False
 108,The Wolf of Wall Street,8.2,4.0,2013,3h,Martin Scorsese,"Biografia, Comédia, Drama, Policial","Terence Winter, Jordan Belfort","Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler",5,0,False
-109,Argo,7.7,3.7,2012,2h,Ben Affleck,"Biografia, Drama, História, Suspense","Chris Terrio, Tony Mendez, Joshuah Bearman","Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin, Victor Garber",True
-110,Amour,7.9,4.2,2012,2h 7m,Michael Haneke,Drama,Michael Haneke,"Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert, Alexandre Tharaud, William Shimell",False
-111,Beasts of the Southern Wild,7.2,3.8,2012,1h 33m,Benh Zeitlin,"Aventura, Drama, Fantasia","Lucy Alibar, Benh Zeitlin","Quvenzhané Wallis, Dwight Henry, Levy Easterly, Lowell Landes, Pamela Harper",False
-112,Django Unchained,8.5,4.3,2012,2h 45m,Quentin Tarantino,"Drama, Faroeste",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson",False
-113,Les Misérables,7.5,3.6,2012,2h 38m,Tom Hooper,"Drama, Musical, Romance","William Nicholson, Alain Boublil, Claude-Michel Schönberg","Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried, Sacha Baron Cohen",False
-114,Life of Pi,7.9,3.7,2012,2h 7m,Ang Lee,"Aventura, Drama, Fantasia","Yann Martel, David Magee","Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu, Ayush Tandon",False
-115,Lincoln,7.3,3.6,2012,2h 30m,Steven Spielberg,"Biografia, Drama, Guerra, História","Tony Kushner, Doris Kearns Goodwin","Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt, James Spader",False
-116,Silver Linings Playbook,7.7,3.7,2012,2h 2m,David O. Russell,"Comédia, Drama, Romance","David O. Russell, Matthew Quick","Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker",False
-117,Zero Dark Thirty,7.4,3.7,2012,2h 37m,Kathryn Bigelow,"Drama, História, Suspense",Mark Boal,"Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong, Jason Clarke",False
-118,The Artist,7.8,3.8,2011,1h 40m,Michel Hazanavicius,"Comédia, Drama, Romance",Michel Hazanavicius,"Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Penelope Ann Miller",True
-119,Extremely Loud & Incredibly Close,6.9,3.1,2011,2h 9m,Stephen Daldry,"Aventura, Drama, Mistério","Eric Roth, Jonathan Safran Foer","Thomas Horn, Tom Hanks, Sandra Bullock, Max von Sydow, Zoe Caldwell",False
+109,Argo,7.7,3.7,2012,2h,Ben Affleck,"Biografia, Drama, História, Suspense","Chris Terrio, Tony Mendez, Joshuah Bearman","Ben Affleck, Bryan Cranston, John Goodman, Alan Arkin, Victor Garber",7,3,True
+110,Amour,7.9,4.2,2012,2h 7m,Michael Haneke,Drama,Michael Haneke,"Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert, Alexandre Tharaud, William Shimell",5,1,False
+111,Beasts of the Southern Wild,7.2,3.8,2012,1h 33m,Benh Zeitlin,"Aventura, Drama, Fantasia","Lucy Alibar, Benh Zeitlin","Quvenzhané Wallis, Dwight Henry, Levy Easterly, Lowell Landes, Pamela Harper",4,0,False
+112,Django Unchained,8.5,4.3,2012,2h 45m,Quentin Tarantino,"Drama, Faroeste",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington, Samuel L. Jackson",5,2,False
+113,Les Misérables,7.5,3.6,2012,2h 38m,Tom Hooper,"Drama, Musical, Romance","William Nicholson, Alain Boublil, Claude-Michel Schönberg","Hugh Jackman, Russell Crowe, Anne Hathaway, Amanda Seyfried, Sacha Baron Cohen",8,3,False
+114,Life of Pi,7.9,3.7,2012,2h 7m,Ang Lee,"Aventura, Drama, Fantasia","Yann Martel, David Magee","Suraj Sharma, Irrfan Khan, Adil Hussain, Tabu, Ayush Tandon",11,4,False
+115,Lincoln,7.3,3.6,2012,2h 30m,Steven Spielberg,"Biografia, Drama, Guerra, História","Tony Kushner, Doris Kearns Goodwin","Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt, Tommy Lee Jones",12,2,False
+116,Silver Linings Playbook,7.7,3.7,2012,2h 2m,David O. Russell,"Comédia, Drama, Romance","David O. Russell, Matthew Quick","Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker",8,1,False
+117,Zero Dark Thirty,7.4,3.7,2012,2h 37m,Kathryn Bigelow,"Drama, História, Suspense",Mark Boal,"Jessica Chastain, Joel Edgerton, Chris Pratt, Mark Strong, Jason Clarke",5,1,False
+118,The Artist,7.8,3.8,2011,1h 40m,Michel Hazanavicius,"Comédia, Drama, Romance",Michel Hazanavicius,"Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell, Penelope Ann Miller",10,5,True
+119,Extremely Loud & Incredibly Close,6.9,3.1,2011,2h 9m,Stephen Daldry,"Aventura, Drama, Mistério","Eric Roth, Jonathan Safran Foer","Thomas Horn, Tom Hanks, Sandra Bullock, Max von Sydow, Zoe Caldwell",,,False
 120,Hugo,7.5,3.5,2011,2h 6m,Martin Scorsese,"Aventura, Drama, Família, Fantasia, Mistério","John Logan, Brian Selznick","Asa Butterfield, Chloë Grace Moretz, Christopher Lee, Ben Kingsley, Sacha Baron Cohen",False
 121,Midnight in Paris,7.6,3.7,2011,1h 34m,Woody Allen,"Comédia, Fantasia, Romance",Woody Allen,"Owen Wilson, Rachel McAdams, Kathy Bates, Kurt Fuller, Mimi Kennedy",False
 122,Moneyball,7.6,3.9,2011,2h 13m,Bennett Miller,"Biografia, Drama, Esportes","Steven Zaillian, Aaron Sorkin, Stan Chervin","Brad Pitt, Robin Wright, Jonah Hill, Philip Seymour Hoffman, Chris Pratt",False
