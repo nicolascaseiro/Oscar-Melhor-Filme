@@ -210,16 +210,16 @@
 209,Jerry Maguire,7.3,3.6,1996,2h 19m,Cameron Crowe,"Comédia, Drama, Esportes, Romance",Cameron Crowe,"Tom Cruise, Renée Zellweger, Cuba Gooding Jr., Bonnie Hunt, Jerry O'Connell",5,1,False
 210,Secrets & Lies,8.0,4.3,1996,2h 16m,Mike Leigh,"Comédia, Drama",Mike Leigh,"Brenda Blethyn, Marianne Jean-Baptiste, Timothy Spall, Claire Rushbrook, Philip Glenister",5,0,False
 211,Shine,7.6,3.7,1996,1h 45m,Scott Hicks,"Biografia, Drama, Musical, Romance",Jan Sardi,"Geoffrey Rush, Alex Rafalowicz, Lynn Redgrave, Armin Mueller-Stahl, John Gaden",7,1,False
-212,Braveheart,8.3,3.9,1995,2h 58m,Mel Gibson,"Biografia, Drama, Guerra",Randall Wallace,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen, James Robinson",True
-213,Apollo 13,7.7,3.8,1995,2h 20m,Ron Howard,"Aventura, Drama, História","William Broyler Jr., Al Reinert","Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise, Ed Harris",False
-214,Babe,6.9,3.4,1995,1h 31m,Chris Noonan,"Comédia, Drama, Família","George Miller, Chris Noonan","James Cromwell, Magda Szubanski, Christine Cavanaugh, Miriam Margolyes, Danny Mann",False
-215,Sense and Sensibility,7.7,3.8,1995,2h 16m,Ang Lee,"Drama, Romance","William Broyles Jr., Al Reinert","Tom Hanks, Kevin Bacon, Bill Paxton, Gary Sinise, Ed Harris",False
-216,The Postman,7.8,4.0,1994,1h 48m,Michael Radford,"Comédia, Drama, Romance","Massimo Troisi, Michael Radford","Massimo Troisi, Philippe Noiret, Maria Grazia Cucinotta, Renato Scarpa, Linda Moretti",False
-217,Forrest Gump,8.8,4.2,1994,2h 22m,Robert Zemeckis,"Drama, Romance","Winston Groom, Eric Roth","Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Rebecca Williams",True
-218,Four Weddings and a Funeral,7.1,3.4,1994,1h 57m,Mike Newell,"Comédia, Drama, Romance",Richard Curtis,"Hugh Grant, Andie MacDowell, Kristin Scott Thomas, Simon Callow, John Hannah",False
-219,Pulp Fiction,8.8,4.3,1994,2h 34m,Quentin Tarantino,"Drama, Policial","Paul Attanasio, Richard N. Goodwin","Ralph Fiennes, John Turturro, Rob Morrow, David Paymer, Paul Scofield",False
-220,Quiz Show,7.5,3.8,1994,2h 13m,Robert Redford,"Biografia, Drama, História","Quentin Tarantino, Roger Avary","John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Harvey Keitel",False
-221,The Shawshank Redemption,9.3,4.6,1994,2h 22m,Frank Darabont,Drama,"Stephen King, Frank Darabont","Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown",False
+212,Braveheart,8.3,3.9,1995,2h 58m,Mel Gibson,"Biografia, Drama, Guerra",Randall Wallace,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Angus Macfadyen, James Robinson",10,5,True
+213,Apollo 13,7.7,3.8,1995,2h 20m,Ron Howard,"Aventura, Drama, História","William Broyler Jr., Al Reinert","Tom Hanks, Bill Paxton, Kevin Bacon, Ed Harris, Kathleen Quinlan",9,2,False
+214,Babe,6.9,3.4,1995,1h 31m,Chris Noonan,"Comédia, Drama, Família","George Miller, Chris Noonan","James Cromwell, Magda Szubanski, Christine Cavanaugh, Miriam Margolyes, Hugo Weaving",7,1,False
+215,Sense and Sensibility,7.7,3.8,1995,2h 16m,Ang Lee,"Drama, Romance","Jane Austen, Emma Thompson","Emma Thompson, Kate Winslet, James Fleet, Tom Wilkinson, Hugh Grant",7,1,False
+216,The Postman,7.8,4.0,1994,1h 48m,Michael Radford,"Comédia, Drama, Romance","Massimo Troisi, Michael Radford","Massimo Troisi, Philippe Noiret, Maria Grazia Cucinotta, Renato Scarpa, Linda Moretti",5,1,False
+217,Forrest Gump,8.8,4.2,1994,2h 22m,Robert Zemeckis,"Drama, Romance","Winston Groom, Eric Roth","Tom Hanks, Robin Wright, Gary Sinise, Sally Field, Rebecca Williams",13,6,True
+218,Four Weddings and a Funeral,7.1,3.4,1994,1h 57m,Mike Newell,"Comédia, Drama, Romance",Richard Curtis,"Hugh Grant, Andie MacDowell, Kristin Scott Thomas, Simon Callow, John Hannah",2,0,False
+219,Pulp Fiction,8.8,4.3,1994,2h 34m,Quentin Tarantino,"Drama, Policial","Quentin Tarantino, Roger Avary","John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Harvey Keitel",7,1,False
+220,Quiz Show,7.5,3.8,1994,2h 13m,Robert Redford,"Biografia, Drama, História","Paul Attanasio, Richard N. Goodwin","Ralph Fiennes, John Turturro, Rob Morrow, Paul Scofield, Christopher McDonald",4,0,False
+221,The Shawshank Redemption,9.3,4.6,1994,2h 22m,Frank Darabont,Drama,"Stephen King, Frank Darabont","Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown",7,0,False
 222,Schindler's List,9.0,4.5,1993,3h 15m,Steven Spielberg,"Biografia, Drama, História","Thomas Keneally, Steven Zaillian","Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall, Jonathan Sagall",True
 223,In the Name of the Father,8.1,4.2,1993,2h 13m,Jim Sheridan,"Biografia, Drama, Policial",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
 224,The Fugitive,7.8,3.9,1993,2h 10m,Andrew Davis,"Ação, Drama, Mistério, Policial, Suspense",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
