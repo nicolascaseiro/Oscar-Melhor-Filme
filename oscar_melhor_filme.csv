@@ -220,11 +220,11 @@
 219,Pulp Fiction,8.8,4.3,1994,2h 34m,Quentin Tarantino,"Drama, Policial","Quentin Tarantino, Roger Avary","John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Harvey Keitel",7,1,False
 220,Quiz Show,7.5,3.8,1994,2h 13m,Robert Redford,"Biografia, Drama, História","Paul Attanasio, Richard N. Goodwin","Ralph Fiennes, John Turturro, Rob Morrow, Paul Scofield, Christopher McDonald",4,0,False
 221,The Shawshank Redemption,9.3,4.6,1994,2h 22m,Frank Darabont,Drama,"Stephen King, Frank Darabont","Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler, Clancy Brown",7,0,False
-222,Schindler's List,9.0,4.5,1993,3h 15m,Steven Spielberg,"Biografia, Drama, História","Thomas Keneally, Steven Zaillian","Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall, Jonathan Sagall",True
-223,In the Name of the Father,8.1,4.2,1993,2h 13m,Jim Sheridan,"Biografia, Drama, Policial",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
-224,The Fugitive,7.8,3.9,1993,2h 10m,Andrew Davis,"Ação, Drama, Mistério, Policial, Suspense",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",False
-225,The Piano,7.5,3.9,1993,2h 1m,Jane Campion,"Drama, Musical, Romance",Jane Campion,"Holly Hunter, Harvey Keitel, Sam Neill, Anna Paquin, Kerry Walker",False
-226,The Remains of the Day,7.8,4.0,1993,2h 14m,James Ivory,"Drama, Romance",Ruth Prawer Jhabvala,"Anthony Hopkins, Emma Thompson, James Fox, Christopher Reeve, Hugh Grant",False
+222,Schindler's List,9.0,4.5,1993,3h 15m,Steven Spielberg,"Biografia, Drama, História","Thomas Keneally, Steven Zaillian","Liam Neeson, Ralph Fiennes, Ben Kingsley, Caroline Goodall, Jonathan Sagall",12,7,True
+223,In the Name of the Father,8.1,4.2,1993,2h 13m,Jim Sheridan,"Biografia, Drama, Policial",Terry George,"Daniel Day-Lewis, Pete Postlethwaite, Emma Thompson, Corin Redgrave, Beatie Edney",7,0,False
+224,The Fugitive,7.8,3.9,1993,2h 10m,Andrew Davis,"Ação, Drama, Mistério, Policial, Suspense","Jeb Stuart, David Twohy, Roy Huggins","Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore, Beatie Edney",7,1,False
+225,The Piano,7.5,3.9,1993,2h 1m,Jane Campion,"Drama, Musical, Romance",Jane Campion,"Holly Hunter, Harvey Keitel, Sam Neill, Anna Paquin, Kerry Walker",8,3,False
+226,The Remains of the Day,7.8,4.0,1993,2h 14m,James Ivory,"Drama, Romance",Ruth Prawer Jhabvala,"Anthony Hopkins, Emma Thompson, James Fox, Christopher Reeve, Hugh Grant",8,0,False
 227,Unforgiven,8.2,4.2,1992,2h 10m,Clint Eastwood,"Drama, Faroeste",David Webb Peoples,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris, Jaimz Woolvett",True
 228,A Few Good Men,7.7,4.0,1992,2h 18m,Rob Reiner,"Drama, Suspense",Aaron Sorkin,"Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon, Kiefer Sutherland",False
 229,Howards End,7.4,3.7,1992,2h 22m,James Ivory,"Drama, Romance","E.M. Forster, Ruth Prawer Jhabvala","Anthony Hopkins, Emma Thompson, Vanessa Redgrave, Helena Bonham Carter, Joseph Bennett",False
