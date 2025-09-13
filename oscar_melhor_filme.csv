@@ -265,16 +265,16 @@
 264,Prizzi's Honor,6.7,3.3,1985,2h 10m,John Huston,"Comédia, Drama, Policial, Romance","Richard Condon, Janet Roach","Jack Nicholson, Kathleen Turner, Anjelica Huston, Robert Loggia, William Hickey",8,1,False
 265,The Color Purple,7.7,3.9,1985,2h 34m,Steven Spielberg,Drama,"Menno Meyjes, Alice Walker","Danny Glover, Whoopi Goldberg, Oprah Winfrey, Margaret Avery, Willard E. Pugh",11,0,False
 266,Witness,7.3,3.7,1985,1h 52m,Peter Weir,"Drama, Policial, Romance, Suspense","William Kelley, Pamela Wallace, Earl W. Wallace","Harrison Ford, Kelly McGillis, Lukas Haas, Josef Sommer, Danny Glover",8,2,False
-267,Amadeus,8.4,4.3,1984,2h 40m,Milos Forman,"Biografia, Drama, Musical","Peter Shaffer, Zdenek Mahler","F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice, Simon Callow",,,True
-268,A Passage to India,7.3,3.6,1984,2h 44m,David Lean,"Aventura, Drama, História","E.M. Forster, Santha Rama Rau, David Lean","Judy Davis, Victor Banerjee, Peggy Ashcroft, James Fox, Alec Guinness",False
-269,A Soldier's Story,7.2,3.6,1984,1h 41m,Norman Jewison,"Drama, Guerra, Mistério, Policial",Charles Fuller,"Howard E. Rollins Jr., Adolph Caesar, David Alan Grier, Art Evans, Denzel Washington",False
-270,Places in the Heart,7.4,3.5,1984,1h 51m,Robert Benton,Drama,Charles Fuller,"Howard E. Rollins Jr., Adolph Caesar, David Alan Grier, Art Evans, Denzel Washington",False
-271,The Killing Fields,7.8,3.9,1984,2h 21m,Roland Joffé,"Biografia, Drama, Guerra, História",John Crowley,"Sally Field, Robert Drivas, John Malkovich, Ed Harris, Lindsay Crouse",False
-272,Terms of Endearment,7.4,3.8,1983,2h 12m,James L. Brooks,"Comédia, Drama",James L. Brooks,"Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito, Jeff Daniels",True
-273,Tender Mercies,7.3,3.7,1983,1h 32m,Bruce Beresford,"Drama, Musical",Horton Foote,"Robert Duvall, Tess Harper, Betty Buckley, Michael Pataki, Ellen Barkin",False
-274,The Big Chill,7.1,3.5,1983,1h 45m,Lawrence Kasdan,"Comédia, Drama",Ronald Harwood,"Albert Finney, Tom Courtenay, Zena Walker, Eileen Atkins, Michael Bryant",False
-275,The Dresser,7.4,3.6,1983,1h 58m,Peter Yates,Drama,Lawrence Kasdan,"Tom Berenger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline",False
-276,The Right Stuff,7.8,4.0,1983,3h 13m,Philip Kaufman,"Aventura, Biografia, Drama","Philip Kaufman, Tom Wolfe","Sam Shepard, Scott Glenn, Ed Harris, Dennis Quaid, Fred Ward",False
+267,Amadeus,8.4,4.3,1984,2h 40m,Milos Forman,"Biografia, Drama, Musical","Peter Shaffer, Zdenek Mahler","F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice, Simon Callow",11,8,True
+268,A Passage to India,7.3,3.6,1984,2h 44m,David Lean,"Aventura, Drama, História","E.M. Forster, Santha Rama Rau, David Lean","Judy Davis, Victor Banerjee, Peggy Ashcroft, James Fox, Alec Guinness",11,2,False
+269,A Soldier's Story,7.2,3.6,1984,1h 41m,Norman Jewison,"Drama, Guerra, Mistério, Policial",Charles Fuller,"Howard E. Rollins Jr., Adolph Caesar, David Alan Grier, Art Evans, Denzel Washington",3,0,False
+270,Places in the Heart,7.4,3.5,1984,1h 51m,Robert Benton,Drama,Robert Benton,"Sally Field, Lindsay Crouse, Ed Harris, John Malkovich, Danny Glover",7,2,False
+271,The Killing Fields,7.8,3.9,1984,2h 21m,Roland Joffé,"Biografia, Drama, Guerra, História",Bruce Robinson,"Sam Waterston, Haing S. Ngor, John Malkovich, Julian Sands, Craig T. Nelson",7,3,False
+272,Terms of Endearment,7.4,3.8,1983,2h 12m,James L. Brooks,"Comédia, Drama",James L. Brooks,"Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito, John Lithgow",11,5,True
+273,Tender Mercies,7.3,3.7,1983,1h 32m,Bruce Beresford,"Drama, Musical",Horton Foote,"Robert Duvall, Tess Harper, Betty Buckley, Michael Pataki, Ellen Barkin",5,2,False
+274,The Big Chill,7.1,3.5,1983,1h 45m,Lawrence Kasdan,"Comédia, Drama",Lawrence Kasdan,"Tom Berenger, Glenn Close, Jeff Goldblum, William Hurt, Kevin Kline",3,0,False
+275,The Dresser,7.4,3.6,1983,1h 58m,Peter Yates,Drama,Ronald Harwood,"Albert Finney, Tom Courtenay, Zena Walker, Eileen Atkins, Edward Fox",5,0,False
+276,The Right Stuff,7.8,4.0,1983,3h 13m,Philip Kaufman,"Aventura, Biografia, Drama","Philip Kaufman, Tom Wolfe","Sam Shepard, Scott Glenn, Ed Harris, Dennis Quaid, Barbara Hershey",8,4,False
 277,Gandhi,8.0,3.7,1982,3h 11m,Richard Attenborough,"Biografia, Drama, História",John Briley,"Ben Kingsley, John Gielgud, Rohini Hattangadi, Roshan Seth, Candice Bergen",True
 278,E.T. the Extra-Terrestrial,7.9,3.8,1982,1h 55m,Steven Spielberg,"Aventura, Família, Ficção científica",Melissa Mathison,"Henry Thomas, Drew Barrymore, Peter Coyote, Dee Wallace, Robert MacNaughton",False
 279,Missing,7.7,3.9,1982,2h 2m,Costa-Gavras,"Biografia, Drama, História, Mistério, Suspense","Costa-Gavras, Donald E. Stewart","Jack Lemmon, Sissy Spacek, Charles Cioffi, Melvyn Douglas, John Shea",False
