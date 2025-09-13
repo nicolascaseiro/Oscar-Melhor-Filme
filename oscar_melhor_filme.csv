@@ -225,17 +225,17 @@
 224,The Fugitive,7.8,3.9,1993,2h 10m,Andrew Davis,"Ação, Drama, Mistério, Policial, Suspense","Jeb Stuart, David Twohy, Roy Huggins","Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore, Beatie Edney",7,1,False
 225,The Piano,7.5,3.9,1993,2h 1m,Jane Campion,"Drama, Musical, Romance",Jane Campion,"Holly Hunter, Harvey Keitel, Sam Neill, Anna Paquin, Kerry Walker",8,3,False
 226,The Remains of the Day,7.8,4.0,1993,2h 14m,James Ivory,"Drama, Romance",Ruth Prawer Jhabvala,"Anthony Hopkins, Emma Thompson, James Fox, Christopher Reeve, Hugh Grant",8,0,False
-227,Unforgiven,8.2,4.2,1992,2h 10m,Clint Eastwood,"Drama, Faroeste",David Webb Peoples,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris, Jaimz Woolvett",True
-228,A Few Good Men,7.7,4.0,1992,2h 18m,Rob Reiner,"Drama, Suspense",Aaron Sorkin,"Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon, Kiefer Sutherland",False
-229,Howards End,7.4,3.7,1992,2h 22m,James Ivory,"Drama, Romance","E.M. Forster, Ruth Prawer Jhabvala","Anthony Hopkins, Emma Thompson, Vanessa Redgrave, Helena Bonham Carter, Joseph Bennett",False
-230,Scent of a Woman,8.0,3.9,1992,2h 36m,Martin Brest,Drama,Bo Goldman,"Al Pacino, Chris O'Donnell, Philip Seymour Hoffman, Gabrielle Anwar, James Rebhorn",False
-231,The Crying Game,7.2,3.6,1992,1h 52m,Neil Jordan,"Drama, Policial, Romance, Suspense",Neil Jordan,"Stephen Rea, Forest Whitaker, Miranda Richardson, Jaye Davidson, Adrian Dunbar",False
-232,The Silence of the Lambs,8.6,4.3,1991,1h 58m,Jonathan Demme,"Drama, Policial, Suspense, Terror",Ted Tally,"Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald",True
-233,Beauty and the Beast,8.0,3.9,1991,1h 24m,"Gary Trousdale, Kirk Wise","Animação, Família, Fantasia, Musical, Romance",Linda Woolverton,"Paige O’Hara, Robby Benson, Richard White, Jerry Orbach, Angela Lansbury",False
-234,Bugsy,6.8,3.3,1991,2h 16m,Barry Levinson,"Biografia, Drama, Policial",Linda Woolverton,"Paige O’Hara, Robby Benson, Richard White, Jerry Orbach, Angela Lansbury",False
-235,JFK,8.0,4.1,1991,3h 9m,Oliver Stone,"Drama, História, Suspense","Jim Garrison, Jim Marrs, Oliver Stone","Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau, Sally Kirkland",False
-236,The Prince of Tides,6.8,3.4,1991,2h 12m,Barbra Streisand,"Drama, Romance","Pat Conroy, Becky Johnston","Barbra Streisand, Nick Nolte, Blythe Danner, Kate Nelligan, Jeroen Krabbé",False
-237,Dances with Wolves,8.0,3.9,1990,3h 1m,Kevin Costner,"Aventura, Drama, Faroeste",Michael Blake,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant, Floyd 'Red Crow' Westerman",True
+227,Unforgiven,8.2,4.2,1992,2h 10m,Clint Eastwood,"Drama, Faroeste",David Webb Peoples,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris, Jaimz Woolvett",9,4,True
+228,A Few Good Men,7.7,4.0,1992,2h 18m,Rob Reiner,"Drama, Suspense",Aaron Sorkin,"Tom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon, Kiefer Sutherland",4,0,False
+229,Howards End,7.4,3.7,1992,2h 22m,James Ivory,"Drama, Romance","E.M. Forster, Ruth Prawer Jhabvala","Anthony Hopkins, Emma Thompson, Vanessa Redgrave, Helena Bonham Carter, Joseph Bennett",9,3,False
+230,Scent of a Woman,8.0,3.9,1992,2h 36m,Martin Brest,Drama,Bo Goldman,"Al Pacino, Chris O'Donnell, Philip Seymour Hoffman, Gabrielle Anwar, James Rebhorn",4,1,False
+231,The Crying Game,7.2,3.6,1992,1h 52m,Neil Jordan,"Drama, Policial, Romance, Suspense",Neil Jordan,"Stephen Rea, Forest Whitaker, Miranda Richardson, Jaye Davidson, Adrian Dunbar",6,1,False
+232,The Silence of the Lambs,8.6,4.3,1991,1h 58m,Jonathan Demme,"Drama, Policial, Suspense, Terror",Ted Tally,"Jodie Foster, Anthony Hopkins, Scott Glenn, Ted Levine, Anthony Heald",7,5,True
+233,Beauty and the Beast,8.0,3.9,1991,1h 24m,"Gary Trousdale, Kirk Wise","Animação, Família, Fantasia, Musical, Romance",Linda Woolverton,"Paige O’Hara, Robby Benson, Richard White, Jerry Orbach, Angela Lansbury",6,2,False
+234,Bugsy,6.8,3.3,1991,2h 16m,Barry Levinson,"Biografia, Drama, Policial","James Toback, Dean Jennings","Warren Beatty, Annette Bening, Harvey Keitel, Ben Kingsley, Elliott Gould",10,2,False
+235,JFK,8.0,4.1,1991,3h 9m,Oliver Stone,"Drama, História, Suspense","Jim Garrison, Jim Marrs, Oliver Stone","Kevin Costner, Gary Oldman, Jack Lemmon, Walter Matthau, Sally Kirkland",8,2,False
+236,The Prince of Tides,6.8,3.4,1991,2h 12m,Barbra Streisand,"Drama, Romance","Pat Conroy, Becky Johnston","Barbra Streisand, Nick Nolte, Blythe Danner, Kate Nelligan, Jeroen Krabbé",7,0,False
+237,Dances with Wolves,8.0,3.9,1990,3h 1m,Kevin Costner,"Aventura, Drama, Faroeste",Michael Blake,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant, Floyd 'Red Crow' Westerman",,,True
 238,Awakenings,7.8,3.9,1990,2h 1m,Penny Marshall,"Biografia, Drama",Steven Zaillian,"Robin Williams, Robert De Niro, Julie Kavner, Ruth Nelson, John Heard",False
 239,Ghost,7.1,3.6,1990,2h 6m,Jerry Zucker,"Drama, Fantasia, Romance, Suspense",Bruce Joel Rubin,"Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn, Rick Aviles",False
 240,GoodFellas,8.7,4.5,1990,2h 25m,Martin Scorsese,"Biografia, Drama, Policial","Nicholas Pileggi, Martin Scorsese","Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco, Paul Sorvino",False
