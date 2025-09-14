@@ -300,26 +300,26 @@
 299,Coming Home,7.3,3.8,1978,2h 7m,Hal Ashby,"Drama, Guerra, Romance","Waldo Salt, Robert C. Jones, Nancy Dowd","Jane Fonda, Jon Voight, Bruce Dern, Penelope Milford, Robert Carradine",8,3,False
 300,Heaven Can Wait,6.9,3.4,1978,1h 41m,"Warren Beatty, Buck Henry","Comédia, Fantasia, Romance","Elaine May, Warren Beatty, Harry Segall","Warren Beatty, James Mason, Julie Christie, Jack Warden, Dyan Cannon",9,1,False
 301,Midnight Express,7.5,3.7,1978,2h 1m,Alan Parker,"Biografia, Drama, Policial, Suspense","Oliver Stone, Gerald Di Pego","Brad Davis, Irene Miracle, John Hurt, Paul L. Smith, Randy Quaid",6,2,False
-302,Annie Hall,7.9,4.0,1977,1h 33m,Woody Allen,"Comédia, Romance","Woody Allen, Marshall Brickman","Woody Allen, Diane Keaton, Tony Roberts, Paul Simon, Carol Kane",True
-303,Julia,7.0,3.4,1977,1h 57m,Fred Zinnemann,Drama,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Peter Cushing",False
-304,Star Wars,8.6,4.2,1977,2h 1m,George Lucas,"Aventura, Ação, Fantasia, Ficção científica",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Peter Cushing",False
-305,The Goodbye Girl,7.4,3.7,1977,1h 51m,Herbert Ross,"Comédia, Drama, Romance",Neil Simon,"Richard Dreyfuss, Marsha Mason, Paul Benedict, Austin Pendleton, John Beal",False
-306,The Turning Point,6.8,3.3,1977,1h 59m,Herbert Ross,"Drama, Música, Romance",Arthur Laurents,"Anne Bancroft, Shirley MacLaine, Mikhail Baryshnikov, Tom Skerritt, Leslie Browne",False
-307,Rocky,8.1,4.1,1976,2h,John G. Avildsen,"Drama, Esportes",Sylvester Stallone,"Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith",True
-308,All the President's Men,7.9,4.2,1976,2h 18m,Alan J. Pakula,"Drama, História, Suspense",William Goldman,"Robert Redford, Dustin Hoffman, Jason Robards, Martin Balsam, Jack Warden",False
-309,Bound for Glory,7.2,3.6,1976,2h 27m,Hal Ashby,"Biografia, Drama, Musical",Paul Schrader,"Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle",False
-310,Network,8.1,4.3,1976,2h 1m,Sidney Lumet,Drama,William Goldman,"Robert Redford, Dustin Hoffman, Jason Robards, Martin Balsam, Jack Warden",False
-311,Taxi Driver,8.2,4.1,1976,1h 54m,Martin Scorsese,"Drama, Policial",Paul Schrader,"Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle",False
-312,One Flew Over the Cuckoo's Nest,8.7,4.4,1975,2h 13m,Milos Forman,Drama,"Lawrence Hauben, Bo Goldman, Ken Kesey","Jack Nicholson, Louise Fletcher, Michael Berryman, Peter Brocco, Dean R. Brooks",True
-313,Barry Lyndon,8.1,4.4,1975,3h 5m,Stanley Kubrick,"Aventura, Drama, Guerra","Robert Altman, Joan Tewkesbury","Ronee Blakley, Keith Carradine, Lily Tomlin, Karen Black, Ned Beatty",False
-314,Dog Day Afternoon,8.0,4.3,1975,2h 5m,Sidney Lumet,"Biografia, Drama, Policial, Suspense","Peter Benchley, Carl Gottlieb","Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton",False
-315,Jaws,8.1,3.9,1975,2h 4m,Steven Spielberg,"Aventura, Suspense, Terror",Frank Pierson,"Al Pacino, John Cazale, Charles Durning, Chris Sarandon, Penelope Allen",False
-316,Nashville,7.6,4.2,1975,2h 40m,Robert Altman,"Comédia, Drama, Musical","Robert Altman, Joan Tewkesbury","Ronee Blakley, Keith Carradine, Lily Tomlin, Karen Black, Ned Beatty",False
-317,The Godfather Part II,9.0,4.6,1974,3h 22m,Francis Ford Coppola,"Drama, Policial","Francis Ford Coppola, Mario Puzo","Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton, Talia Shire",True
-318,Chinatown,8.1,4.3,1974,2h 10m,Roman Polanski,"Drama, Mistério, Suspense",Francis Ford Coppola,"Gene Hackman, John Cazale, Allen Garfield, Cindy Williams, Frederic Forrest",False
-319,Lenny,7.5,3.9,1974,1h 51m,Bob Fosse,"Biografia, Drama",Julian Barry,"Dustin Hoffman, Valerie Perrine, Jan Miner, Stanley Beck, Frankie Man",False
-320,The Conversation,7.7,4.2,1974,1h 53m,Francis Ford Coppola,"Drama, Mistério, Suspense","Francis Ford Coppola","Gene Hackman, John Cazale, Allen Garfield, Robert Duvall, Harrison Ford",False
-321,The Towering Inferno,7.0,3.5,1974,2h 45m,John Guillermin,"Ação, Drama, Suspense","Richard Martin Stern, Thomas N. Scortia, Frank M. Robinson","Paul Newman, Steve McQueen, William Holden, Faye Dunaway, Fred Astaire",False
+302,Annie Hall,7.9,4.0,1977,1h 33m,Woody Allen,"Comédia, Romance","Woody Allen, Marshall Brickman","Woody Allen, Diane Keaton, Tony Roberts, Paul Simon, Carol Kane",5,4,True
+303,Julia,7.0,3.4,1977,1h 57m,Fred Zinnemann,Drama,"Lillian Hellman, Alvin Sargent","Jane Fonda, Vanessa Redgrave, Jason Robards, Maximilian Schell, Meryl Streep",11,3,False
+304,Star Wars,8.6,4.2,1977,2h 1m,George Lucas,"Aventura, Ação, Fantasia, Ficção científica",George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Peter Cushing",11,6,False
+305,The Goodbye Girl,7.4,3.7,1977,1h 51m,Herbert Ross,"Comédia, Drama, Romance",Neil Simon,"Richard Dreyfuss, Marsha Mason, Paul Benedict, Austin Pendleton, Quinn Cummings",5,1,False
+306,The Turning Point,6.8,3.3,1977,1h 59m,Herbert Ross,"Drama, Música, Romance",Arthur Laurents,"Anne Bancroft, Shirley MacLaine, Mikhail Baryshnikov, Tom Skerritt, Leslie Browne",11,0,False
+307,Rocky,8.1,4.1,1976,2h,John G. Avildsen,"Drama, Esportes",Sylvester Stallone,"Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers, Burgess Meredith",10,3,True
+308,All the President's Men,7.9,4.2,1976,2h 18m,Alan J. Pakula,"Drama, História, Suspense",William Goldman,"Robert Redford, Dustin Hoffman, Jason Robards, Jane Alexander, Jack Warden",8,4,False
+309,Bound for Glory,7.2,3.6,1976,2h 27m,Hal Ashby,"Biografia, Drama, Musical",Robert Getchell,"David Carradine, Ronny Cox, Melinda Dillon, Gail Strickland, Randy Quaid",6,2,False
+310,Network,8.1,4.3,1976,2h 1m,Sidney Lumet,Drama,Paddy Chayefsky,"Faye Dunaway, William Holden, Peter Finch, Ned Beatty, Beatrice Straight",10,4,False
+311,Taxi Driver,8.2,4.1,1976,1h 54m,Martin Scorsese,"Drama, Policial",Paul Schrader,"Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle",4,0,False
+312,One Flew Over the Cuckoo's Nest,8.7,4.4,1975,2h 13m,Milos Forman,Drama,"Lawrence Hauben, Bo Goldman, Ken Kesey","Jack Nicholson, Louise Fletcher, Brad Dourif, Danny DeVito, Christopher Lloyd",9,5,True
+313,Barry Lyndon,8.1,4.4,1975,3h 5m,Stanley Kubrick,"Aventura, Drama, Guerra",Stanley Kubrick,"Ryan O'Neal, Marisa Berenson, Patrick Magee, Hardy Kruger, Steven Berkoff",7,4,False
+314,Dog Day Afternoon,8.0,4.3,1975,2h 5m,Sidney Lumet,"Biografia, Drama, Policial, Suspense",Frank Pierson,"Al Pacino, John Cazale, Penelope Allen, Sully Boyar, Chris Sarandon",6,1,False
+315,Jaws,8.1,3.9,1975,2h 4m,Steven Spielberg,"Aventura, Suspense, Terror","Peter Benchley, Carl Gottlieb","Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary, Murray Hamilton",4,3,False
+316,Nashville,7.6,4.2,1975,2h 40m,Robert Altman,"Comédia, Drama, Musical","Robert Altman, Joan Tewkesbury","Ronee Blakley, Keith Carradine, Lily Tomlin, Karen Black, Ned Beatty",5,1,False
+317,The Godfather Part II,9.0,4.6,1974,3h 22m,Francis Ford Coppola,"Drama, Policial","Francis Ford Coppola, Mario Puzo","Al Pacino, Robert De Niro, Robert Duvall, Diane Keaton, Takua Shire",11,6,True
+318,Chinatown,8.1,4.3,1974,2h 10m,Roman Polanski,"Drama, Mistério, Suspense","Robert Towne, Roman Polanski","Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez, John Hillerman",11,1,False
+319,Lenny,7.5,3.9,1974,1h 51m,Bob Fosse,"Biografia, Drama",Julian Barry,"Dustin Hoffman, Valerie Perrine, Jan Miner, Stanley Beck, Frankie Man",6,0,False
+320,The Conversation,7.7,4.2,1974,1h 53m,Francis Ford Coppola,"Drama, Mistério, Suspense","Francis Ford Coppola","Gene Hackman, John Cazale, Allen Garfield, Robert Duvall, Harrison Ford",3,0,False
+321,The Towering Inferno,7.0,3.5,1974,2h 45m,John Guillermin,"Ação, Drama, Suspense","Richard Martin Stern, Thomas N. Scortia, Frank M. Robinson","Paul Newman, Steve McQueen, William Holden, Faye Dunaway, Fred Astaire",8,3,False
 322,The Sting,8.2,4.2,1973,2h 9m,George Roy Hill,"Comédia, Drama, Policial",George Lucas,"Richard Dreyfuss, Ron Howard, Paul Le Mat, Cindy Williams, Charles Martin Smith",True
 323,A Touch of Class,6.5,3.3,1973,1h 46m,Melvin Frank,"Comédia, Romance",Melvin Frank,"George Segal, Glenda Jackson, Paul Sorvino, K Callan, John Randolph",False
 324,American Graffiti,7.4,3.7,1973,1h 50m,George Lucas,"Comédia, Drama",George Lucas,"Richard Dreyfuss, Ron Howard, Paul Le Mat, Cindy Williams, Charles Martin Smith",False
