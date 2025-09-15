@@ -355,17 +355,17 @@
 354,Doctor Dolittle,6.2,2.9,1967,2h 32m,Richard Fleischer,"Aventura, Comédia, Família, Fantasia, Musical, Romance","Hugh Lofting, Leslie Bricusse","Rex Harrison, Samantha Eggar, Anthony Newley, Richard Attenborough, Peter Bull",9,2,False
 355,Guess Who's Coming to Dinner,7.8,3.8,1967,1h 48m,Stanley Kramer,"Comédia, Drama",William Rose,"Spencer Tracy, Sidney Poitier, Katharine Hepburn, Beah Richards, Cecil Kellaway",10,2,False
 356,The Graduate,8.0,4.1,1967,1h 46m,Mike Nichols,"Comédia, Drama, Romance","Calder Willingham, Buck Henry","Anne Bancroft, Dustin Hoffman, Katharine Ross, William Daniels, Murray Hamilton",7,1,False
-357,A Man for All Seasons,7.7,3.8,1966,2h,Fred Zinnemann,"Biografia, Drama, História",Robert Bolt,"Paul Scofield, Wendy Hiller, Robert Shaw, Leo McKern, Orson Welles",,,True
-358,Alfie,7.0,3.5,1966,1h 54m,Lewis Gilbert,"Comédia, Drama",Bill Naughton,"Michael Caine, Shelley Winters, Millicent Martin, Julia Foster, Jane Aster",False
-359,The Russians Are Coming! The Russians Are Coming!,7.0,3.4,1966,1h 54m,Norman Jewison,"Comédia, Drama",William Rose,"Carl Reiner, Eva Marie Saint, Alan Arkin, Brian Keith, Jonathan Winters",False
-360,The Sand Pebbles,7.5,3.6,1966,3h 2m,Robert Wise,"Aventura, Drama, Guerra, Romance","Richard McKenna, Robert Anderson","Steve McQueen, Richard Attenborough, Richard Crenna, Candice Bergen, Emmanuelle Arsan",False
-361,Who's Afraid of Virginia Woolf?,8.0,4.3,1966,2h 11m,Mike Nichols,Drama,"Ernest Lehman, Edward Albee","Elizabeth Taylor, Richard Burton, George Segal, Sandy Dennis, Agnes Flanagan",True
-362,The Sound of Music,8.1,4.2,1965,2h 52m,Robert Wise,"Biografia, Drama, Família, Musical, Romance","Georg Hurdalek, Howard Lindsay, Russel Crouse","Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood",True
-363,A Thousand Clowns,7.3,3.6,1965,1h 58m,Fred Coe,"Comédia, Drama, Romance",Herb Gardner,"Jason Robards, Martin Balsam, Barbara Harris, Barry Gordon, Sandy Dennis",False
-364,Darling,7.0,3.6,1965,2h 8m,John Schlesinger,"Drama, Romance",Frederic Raphael,"Julie Christie, Dirk Bogarde, Laurence Harvey, José Luis de Villalonga, Roland Culver",False
-365,Doctor Zhivago,7.9,4.0,1965,3h 17m,David Lean,"Drama, Guerra, Romance",Herb Gardner,"Jason Robards, Martin Balsam, Barbara Harris, Barry Gordon, Sandy Dennis",False
-366,Ship of Fools,7.1,3.4,1965,2h 29m,Stanley Kramer,"Drama, Guerra, Romance","Katherine Anne Porter, Abby Mann","Vivien Leigh, Simone Signoret, José Ferrer, Lee Marvin, Oskar Werner",False
-367,My Fair Lady,7.7,3.6,1964,2h 50m,George Cukor,"Drama, Família, Musical, Romance",Michael Cacoyannis,"Anthony Quinn, Alan Bates, Irene Papas, Lila Kedrova, Sotiris Moustakas",True
+357,A Man for All Seasons,7.7,3.8,1966,2h,Fred Zinnemann,"Biografia, Drama, História",Robert Bolt,"Paul Scofield, Wendy Hiller, Robert Shaw, Leo McKern, Orson Welles",8,6,True
+358,Alfie,7.0,3.5,1966,1h 54m,Lewis Gilbert,"Comédia, Drama",Bill Naughton,"Michael Caine, Shelley Winters, Millicent Martin, Julia Foster, Jane Aster",5,0,False
+359,The Russians Are Coming! The Russians Are Coming!,7.0,3.4,1966,1h 54m,Norman Jewison,"Comédia, Drama",William Rose,"Carl Reiner, Eva Marie Saint, Alan Arkin, Brian Keith, Jonathan Winters",4,0,False
+360,The Sand Pebbles,7.5,3.6,1966,3h 2m,Robert Wise,"Aventura, Drama, Guerra, Romance","Richard McKenna, Robert Anderson","Steve McQueen, Richard Attenborough, Richard Crenna, Candice Bergen, Emmanuelle Arsan",8,0,False
+361,Who's Afraid of Virginia Woolf?,8.0,4.3,1966,2h 11m,Mike Nichols,Drama,"Ernest Lehman, Edward Albee","Elizabeth Taylor, Richard Burton, George Segal, Sandy Dennis, Agnes Flanagan",13,5,False
+362,The Sound of Music,8.1,4.2,1965,2h 52m,Robert Wise,"Biografia, Drama, Família, Musical, Romance","Georg Hurdalek, Howard Lindsay, Russel Crouse","Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn, Peggy Wood",10,5,True
+363,A Thousand Clowns,7.3,3.6,1965,1h 58m,Fred Coe,"Comédia, Drama, Romance",Herb Gardner,"Jason Robards, Martin Balsam, Barbara Harris, Barry Gordon, Sandy Dennis",4,1,False
+364,Darling,7.0,3.6,1965,2h 8m,John Schlesinger,"Drama, Romance",Frederic Raphael,"Julie Christie, Dirk Bogarde, Laurence Harvey, José Luis de Villalonga, Roland Culver",5,3,False
+365,Doctor Zhivago,7.9,4.0,1965,3h 17m,David Lean,"Drama, Guerra, Romance",Robert Bolt,"Omar Sharif, Julie Christie, Geraldine Chaplin, Tom Courtenay, Alec Guinness",10,5,False
+366,Ship of Fools,7.1,3.4,1965,2h 29m,Stanley Kramer,"Drama, Guerra, Romance","Katherine Anne Porter, Abby Mann","Vivien Leigh, Simone Signoret, José Ferrer, Michael Dunn, Oskar Werner",8,2,False
+367,My Fair Lady,7.7,3.6,1964,2h 50m,George Cukor,"Drama, Família, Musical, Romance",Michael Cacoyannis,"Anthony Quinn, Alan Bates, Irene Papas, Lila Kedrova, Sotiris Moustakas",,,True
 368,Becket,7.7,3.8,1964,2h 28m,Peter Glenville,"Biografia, Drama, História","Stanley Kubrick, Peter George, Terry Southern","Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens",False
 369,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,4.3,1964,1h 35m,Stanley Kubrick,"Comédia, Guerra","Stanley Kubrick, Peter George, Terry Southern","Peter Sellers, George C. Scott, Sterling Hayden, Keenan Wynn, Slim Pickens",False
 370,Mary Poppins,7.8,3.9,1964,2h 19m,Robert Stevenson,"Comédia, Família, Fantasia, Musical","Bill Walsh, Don DaGradi, P.L. Travers","Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns, Hermione Baddeley",False
