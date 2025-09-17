@@ -380,17 +380,17 @@
 379,The Longest Day,7.7,3.8,1962,2h 58m,"Ken Annakin, Andrew Marton, Gerd Oswald, Bernhard Wicki, Darryl F. Zanuck","Ação, Drama, Guerra, História",Cornelius Ryan,"John Wayne, Robert Ryan, Richard Burton, Henry Fonda, Eddie Albert",5,2,False
 380,The Music Man,7.7,3.6,1962,2h 31m,Morton DaCosta,"Comédia, Família, Musical, Romance",Marlon Hargrove,"Robert Preston, Shirley Jones, Buddy Hackett, Hermione Gingold, Paul Ford",6,1,False
 381,To Kill a Mockingbird,8.3,4.1,1962,2h 9m,Robert Mulligan,"Drama, Policial","Harper Lee, Horton Foote","Gregory Peck, John Megna, Frank Overton, Rosemary Murphy, Mary Badham",8,3,False
-382,West Side Story,7.6,3.8,1961,2h 33m,"Jerome Robbins, Robert Wise","Crime, Drama, Musical","Ernest Lehman, Arthur Laurents, Jerome Robbins","Natalie Wood, George Chakiris, Richard Beymer, Russ Tamblyn, Rita Moreno",True
-383,Fanny,6.8,3.1,1961,2h 14m,Joshua Logan,"Drama, Romance","S.N. Behrman, Joshua Logan, Marcel Pagnol","Leslie Caron, Maurice Chevalier, Charles Boyer, Horst Buchholz, Georgette Anys",False
-384,Judgment at Nuremberg,8.3,4.3,1961,2h 59m,Stanley Kramer,"Drama, Guerra, História","Carl Foreman, Brian Garfield","Gregory Peck, David Niven, Anthony Quinn, Stanley Baker, James Darren",False
-385,The Guns of Navarone,7.5,3.7,1961,2h 38m,J. Lee Thompson,"Aventura, Ação, Drama, Guerra","Carl Foreman, Brian Garfield","Gregory Peck, David Niven, Anthony Quinn, Stanley Baker, James Darren",False
-386,The Hustler,7.9,1961,4.1,2h 14m,Robert Rossen,"Drama, Esportes","Sidney Carroll, Robert Rossen, Walter Tevis","Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott, Myron McCormick",False
-387,The Apartment,8.3,4.4,1960,2h 5m,Billy Wilder,"Comédia, Drama, Romance",Richard Brooks,"Burt Lancaster, Jean Simmons, Dean Jagger, Arthur Kennedy, Walter Huston",True
-388,Elmer Gantry,7.7,3.8,1960,2h 26m,Richard Brooks,Drama,Richard Brooks,"Burt Lancaster, Jean Simmons, Dean Jagger, Arthur Kennedy, Walter Huston",False
-389,Sons and Lovers,7.1,3.5,1960,1h 43m,Jack Cardiff,Drama,Dalton Trumbo,"Robert Mitchum, Deborah Kerr, Peter Ustinov, Glynis Johns, Chips Rafferty",False
-390,The Alamo,6.8,3.3,1960,2h 42m,John Wayne,"Aventura, Drama, Faroeste, Guerra, História",James Edward Grant,"John Wayne, Richard Widmark, Laurence Harvey, Frankie Avalon, Patrick Wayne",False
-391,The Sundowners,7.1,3.3,1960,2h 13m,Fred Zinnemann,"Drama, Faroeste",Dalton Trumbo,"Robert Mitchum, Deborah Kerr, Peter Ustinov, Glynis Johns, Chips Rafferty",False
-392,Ben-Hur,8.1,4.1,1959,3h 32m,William Wyler,"Aventura, Drama","Lew Wallace, Karl Tunberg, Gore Vidal","Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet, Hugh Griffith",True
+382,West Side Story,7.6,3.8,1961,2h 33m,"Jerome Robbins, Robert Wise","Crime, Drama, Musical","Ernest Lehman, Arthur Laurents, Jerome Robbins","Natalie Wood, George Chakiris, Richard Beymer, Russ Tamblyn, Rita Moreno",11,10,True
+383,Fanny,6.8,3.1,1961,2h 14m,Joshua Logan,"Drama, Romance","S.N. Behrman, Joshua Logan, Marcel Pagnol","Leslie Caron, Maurice Chevalier, Charles Boyer, Horst Buchholz, Georgette Anys",5,0,False
+384,Judgment at Nuremberg,8.3,4.3,1961,2h 59m,Stanley Kramer,"Drama, Guerra, História",Abby Mann,"Spencer Tracy, Burt Lancaster, Judy Garland, Maximilian Schell, Montgomery Clift",11,2,False
+385,The Guns of Navarone,7.5,3.7,1961,2h 38m,J. Lee Thompson,"Aventura, Ação, Drama, Guerra","Carl Foreman, Brian Garfield","Gregory Peck, David Niven, Anthony Quinn, Stanley Baker, James Darren",7,1,False
+386,The Hustler,7.9,1961,4.1,2h 14m,Robert Rossen,"Drama, Esportes","Sidney Carroll, Robert Rossen, Walter Tevis","Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott, Myron McCormick",9,2,False
+387,The Apartment,8.3,4.4,1960,2h 5m,Billy Wilder,"Comédia, Drama, Romance","Billy Wilder, I.A.L. Diamond","Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston, Jack Kruschen",10,5,True
+388,Elmer Gantry,7.7,3.8,1960,2h 26m,Richard Brooks,Drama,Richard Brooks,"Burt Lancaster, Jean Simmons, Dean Jagger, Arthur Kennedy, Shirley Jones",5,3,False
+389,Sons and Lovers,7.1,3.5,1960,1h 43m,Jack Cardiff,Drama,"Gavin Lambert, T.E.B. Clarke","Trevor Howard, Dean Stockwell, Wendy Hiller, Mary Ure, Heather Sears",7,1,False
+390,The Alamo,6.8,3.3,1960,2h 42m,John Wayne,"Aventura, Drama, Faroeste, Guerra, História",James Edward Grant,"John Wayne, Richard Widmark, Laurence Harvey, Frankie Avalon, Patrick Wayne",7,1,False
+391,The Sundowners,7.1,3.3,1960,2h 13m,Fred Zinnemann,"Drama, Faroeste",Dalton Trumbo,"Robert Mitchum, Deborah Kerr, Peter Ustinov, Glynis Johns, Chips Rafferty",5,0,False
+392,Ben-Hur,8.1,4.1,1959,3h 32m,William Wyler,"Aventura, Drama","Lew Wallace, Karl Tunberg, Gore Vidal","Charlton Heston, Jack Hawkins, Stephen Boyd, Haya Harareet, Hugh Griffith",,,True
 393,Anatomy of a Murder,8.0,4.2,1959,2h 41m,Otto Preminger,"Drama, Mistério","Wendell Mayes, John D. Voelker","James Stewart, Lee Remick, Ben Gazzara, Arthur O'Connell, Eve Arden",False
 394,Room at the Top,7.5,3.7,1958,1h 57m,Jack Clayton,"Drama, Romance",Neil Paterson,"Laurence Harvey, Simone Signoret, Heather Sears, Donald Wolfit, Donald Houston",False
 395,The Diary of Anne Frank,7.4,3.7,1959,3h,George Stevens,"Biografia, Drama, Família, Guerra, História",Neil Paterson,"Laurence Harvey, Simone Signoret, Heather Sears, Donald Wolfit, Donald Houston",False
