@@ -401,16 +401,16 @@
 400,Separate Tables,7.3,3.5,1958,1h 40m,Delbert Mann,"Drama, Romance","Terence Rattigan, John Gay, John Michael Hayes","Rita Hayworth, Deborah Kerr, David Niven, Burt Lancaster, Wendy Hiller",7,2,False
 401,The Defiant Ones,7.6,3.8,1958,1h 36m,Stanley Kramer,"Drama, Policial","Nedrick Young, Harold Jacob Smith","Tony Curtis, Sidney Poitier, Theodore Bikel, Charles McGraw, Cara williams",9,2,False
 402,The Bridge on the River Kwai,8.1,4.2,1957,2h 41m,David Lean,"Aventura, Drama, Guerra","Pierre Boulle, Carl Foreman, Michael Wilson","William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa, James Donald",8,7,True
-403,12 Angry Men,9.0,4.6,1957,1h 36m,Sidney Lumet,"Drama, Policial","Agatha Christie, Billy Wilder, Harry Kurnitz","Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester, Henry Daniell",,,False
-404,Peyton Place,7.2,3.5,1957,2h 37m,Mark Robson,"Drama, Mistério, Policial, Romance","John Michael Hayes, Grace Metalious","Lana Turner, Lee Philips, Lloyd Nolan, Arthur Kennedy, Russ Tamblyn",False
-405,Sayonara,7.0,3.3,1957,2h 27m,Joshua Logan,"Drama, Romance","Paul Osborn, James A. Michener","Marlon Brando, Ricardo Montalban, Patricia Owens, James Garner, Martha Scott",False
-406,Witness for the Prosecution,8.4,4.4,1957,1h 56m,Billy Wilder,"Drama, Mistério, Policial, Suspense",Reginald Rose,"Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler, E.G. Marshall",False
-407,Around the World in Eighty Days,6.7,3.1,1956,2h 47m,"Michael Anderson, John Farrow","Aventura, Comédia, Família, Romance","James Poe, John Farrow, S.J. Perelman","David Niven, Cantinflas, Shirley MacLaine, Robert Newton, Michael Todd",True
-408,Friendly Persuasion,7.3,3.4,1956,2h 17m,William Wyler,"Drama, Família, Faroeste, Guerra, Romance","Michael Wilson, Dalton Trumbo","Gary Cooper, Dorothy McGuire, Anthony Perkins, Jean Simmons, Walter Brennan",False
-409,Giant,7.6,3.9,1956,3h 21m,George Stevens,"Drama, Faroeste","Ivan Moffat, Fred Guiol, Edgar Nixon","Elizabeth Taylor, Rock Hudson, James Dean, Carroll Baker, Dennis Hopper",False
-410,The King and I,7.4,3.5,1956,2h 13m,Walter Lang,"Biografia, Drama, Musical, Romance","Ivan Moffat, Fred Guiol, Edgar Nixon","Elizabeth Taylor, Rock Hudson, James Dean, Carroll Baker, Dennis Hopper",False
-411,The Ten Commandments,7.9,3.8,1956,3h 40m,Cecil B. DeMille,"Aventura, Drama, Família, História","Michael Wilson, Dalton Trumbo","Gary Cooper, Dorothy McGuire, Anthony Perkins, Jean Simmons, Walter Brennan",False
-412,Marty,7.6,3.9,1955,1h 30m,Delbert Mann,"Drama, Romance",Daniel Taradash,"William Holden, Kim Novak, Rosalind Russell, Cliff Robertson, Paul Newman",True
+403,12 Angry Men,9.0,4.6,1957,1h 36m,Sidney Lumet,"Drama, Policial",Reginald Rose,"Henry Fonda, Lee J. Cobb, Martin Balsam, John Fiedler, Jack Klugman",3,0,False
+404,Peyton Place,7.2,3.5,1957,2h 37m,Mark Robson,"Drama, Mistério, Policial, Romance","John Michael Hayes, Grace Metalious","Lana Turner, Lee Philips, Lloyd Nolan, Arthur Kennedy, Russ Tamblyn",9,0,False
+405,Sayonara,7.0,3.3,1957,2h 27m,Joshua Logan,"Drama, Romance","Paul Osborn, James A. Michener","Marlon Brando, Ricardo Montalban, Patricia Owens, Red Buttons, Miyoshi Umeki",10,4,False
+406,Witness for the Prosecution,8.4,4.4,1957,1h 56m,Billy Wilder,"Drama, Mistério, Policial, Suspense","Agatha Christie, Billy Wilder, Harry Kurnitz","Tyrone Power, Marlene Dietrich, Charles Laughton, Elsa Lanchester, John Williams",6,0,False
+407,Around the World in Eighty Days,6.7,3.1,1956,2h 47m,"Michael Anderson, John Farrow","Aventura, Comédia, Família, Romance","James Poe, John Farrow, S.J. Perelman","David Niven, Cantinflas, Shirley MacLaine, Robert Newton, Finlay Currie",8,5,True
+408,Friendly Persuasion,7.3,3.4,1956,2h 17m,William Wyler,"Drama, Família, Faroeste, Guerra, Romance","Michael Wilson, Dalton Trumbo","Gary Cooper, Dorothy McGuire, Anthony Perkins, Peter Mark Richman, Walter Catlett",6,0,False
+409,Giant,7.6,3.9,1956,3h 21m,George Stevens,"Drama, Faroeste","Ivan Moffat, Fred Guiol, Edgar Nixon","Elizabeth Taylor, Rock Hudson, James Dean, Carroll Baker, Mercedes McCambridge",10,1,False
+410,The King and I,7.4,3.5,1956,2h 13m,Walter Lang,"Biografia, Drama, Musical, Romance",Ernest Lehman,"Deborah Kerr, Yul Brynner, Rita Moreno, Martin Benson, Rex Thompson",9,5,False
+411,The Ten Commandments,7.9,3.8,1956,3h 40m,Cecil B. DeMille,"Aventura, Drama, Família, História","Jesse Lasky Jr., Jack Gariss, Fredric M. Frank","Charlton Heston, Yul Brynner, Anne Baxter, Edward G. Robinson, Debra Paget",7,1,False
+412,Marty,7.6,3.9,1955,1h 30m,Delbert Mann,"Drama, Romance",Daniel Taradash,"William Holden, Kim Novak, Rosalind Russell, Cliff Robertson, Paul Newman",,,True
 413,Love Is a Many-Splendored Thing,6.4,3.1,1955,1h 42m,"Henry King, Otto Lang","Biografia, Drama, Guerra, Romance","John Patrick, Han Suyin","William Holden, Jennifer Jones, Torin Thatcher, Isobel Elsom, Murray Matheson",False
 414,Mister Roberts,7.6,3.6,1955,2h 3m,"John Ford, Mervyn LeRoy, Joshua Logan","Comédia, Drama, Guerra","Frank Tarloff, John Monks Jr., Joshua Logan","Henry Fonda, James Cagney, William Powell, Jack Lemmon, Robert Walker",False
 415,Picnic,7.0,3.3,1955,1h 55m,Joshua Logan,"Drama, Romance",Daniel Taradash,"William Holden, Kim Novak, Rosalind Russell, Cliff Robertson, Paul Newman",False
