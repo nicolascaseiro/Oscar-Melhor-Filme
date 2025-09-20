@@ -415,16 +415,16 @@
 414,Mister Roberts,7.6,3.6,1955,2h 3m,"John Ford, Mervyn LeRoy, Joshua Logan","Comédia, Drama, Guerra","Frank Tarloff, John Monks Jr., Joshua Logan","Henry Fonda, James Cagney, William Powell, Jack Lemmon, Robert Walker",3,1,False
 415,Picnic,7.0,3.3,1955,1h 55m,Joshua Logan,"Drama, Romance",Daniel Taradash,"William Holden, Kim Novak, Rosalind Russell, Cliff Robertson, Arthur O'Connell",6,2,False
 416,The Rose Tattoo,6.9,3.3,1955,1h 57m,Daniel Mann,"Comédia, Drama, Romance","Tennessee Williams, Hal Kanter","Anna Magnani, Burt Lancaster, Marisa Pavan, Ben Cooper, Virginia Grey",8,3,False
-417,On the Waterfront,8.1,4.2,1954,1h 48m,Elia Kazan,"Drama, Policial, Suspense","Budd Schulberg, Malcolm Johnson, Robert Siodmak","Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger, Pat Henning",,,True
-418,Seven Brides for Seven Brothers,7.3,3.5,1954,1h 42m,Stanley Donen,"Comédia, Faroeste, Musical, Romance","Albert Hackett, Frances Goodrich, Dorothy Kingsley","Jane Powell, Howard Keel, Jeff Richards, Russ Tamblyn, Tommy Rall",False
-419,The Caine Mutiny,7.7,3.7,1954,2h 4m,Edward Dmytryk,"Drama, Guerra",Stanley Roberts,"Humphrey Bogart, José Ferrer, Van Johnson, Fred MacMurray, Robert Francis",False
-420,The Country Girl,7.2,3.5,1954,1h 44m,George Seaton,"Drama, Musical",Stanley Roberts,"Humphrey Bogart, José Ferrer, Van Johnson, Fred MacMurray, Robert Francis",False
-421,Three Coins in the Fountain,6.2,3.0,1954,1h 42m,Jean Negulesco,"Drama, Romance","John Patrick, John H. Secondari","Clifton Webb, Dorothy McGuire, Jean Peters, Louis Jourdan, Maggie McNamara",False
-422,From Here to Eternity,7.6,3.8,1953,1h 58m,Fred Zinnemann,"Drama, Guerra, Romance","Daniel Taradash, James Jones","Burt Lancaster, Montgomery Clift, Deborah Kerr, Donna Reed, Frank Sinatra",True
-423,Julius Caesar,7.2,3.6,1953,2h,Joseph L. Mankiewicz,"Drama, História","William Shakespeare, Joseph L. Mankiewicz","Louis Calhern, Marlon Brando, James Mason, John Gielgud, Edmond O'Brien",False
-424,Roman Holiday,8.0,4.2,1953,1h 58m,William Wyler,"Comédia, Drama, Romance","Dalton Trumbo, Ian McLellan Hunter, John Dighton","Gregory Peck, Audrey Hepburn, Eddie Albert, Hartley Power, Harcourt Williams",False
-425,Shane,7.6,3.7,1953,1h 58m,George Stevens,"Drama, Faroeste","A.B. Guthrie Jr., Jack Sher, Jack Schaefer","Alan Ladd, Jean Arthur, Van Heflin, Brandon De Wilde, Jack Palance",False
-426,The Robe,6.7,3.2,1953,2h 15m,Henry Koster,"Drama, História, Romance","Philip Dunne, Gina Kaus, Lloyd C. Douglas","Richard Burton, Jean Simmons, Victor Mature, Michael Rennie, Jay Robinson",False
+417,On the Waterfront,8.1,4.2,1954,1h 48m,Elia Kazan,"Drama, Policial, Suspense","Budd Schulberg, Malcolm Johnson, Robert Siodmak","Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger, Karl Maiden",12,8,True
+418,Seven Brides for Seven Brothers,7.3,3.5,1954,1h 42m,Stanley Donen,"Comédia, Faroeste, Musical, Romance","Albert Hackett, Frances Goodrich, Dorothy Kingsley","Jane Powell, Howard Keel, Jeff Richards, Russ Tamblyn, Tommy Rall",5,1,False
+419,The Caine Mutiny,7.7,3.7,1954,2h 4m,Edward Dmytryk,"Drama, Guerra",Stanley Roberts,"Humphrey Bogart, José Ferrer, Van Johnson, Fred MacMurray, Robert Francis",7,0,False
+420,The Country Girl,7.2,3.5,1954,1h 44m,George Seaton,"Drama, Musical",George Seaton,"Bing Crosby, Grace Kelly, William Holden, Anthony Ross, Gene Reynolds",7,2,False
+421,Three Coins in the Fountain,6.2,3.0,1954,1h 42m,Jean Negulesco,"Drama, Romance","John Patrick, John H. Secondari","Clifton Webb, Dorothy McGuire, Jean Peters, Louis Jourdan, Maggie McNamara",3,2,False
+422,From Here to Eternity,7.6,3.8,1953,1h 58m,Fred Zinnemann,"Drama, Guerra, Romance","Daniel Taradash, James Jones","Burt Lancaster, Montgomery Clift, Deborah Kerr, Donna Reed, Frank Sinatra",13,8,True
+423,Julius Caesar,7.2,3.6,1953,2h,Joseph L. Mankiewicz,"Drama, História","William Shakespeare, Joseph L. Mankiewicz","Louis Calhern, Marlon Brando, James Mason, John Gielgud, Edmond O'Brien",5,1,False
+424,Roman Holiday,8.0,4.2,1953,1h 58m,William Wyler,"Comédia, Drama, Romance","Dalton Trumbo, Ian McLellan Hunter, John Dighton","Gregory Peck, Audrey Hepburn, Eddie Albert, Hartley Power, Harcourt Williams",10,3,False
+425,Shane,7.6,3.7,1953,1h 58m,George Stevens,"Drama, Faroeste","A.B. Guthrie Jr., Jack Sher, Jack Schaefer","Alan Ladd, Jean Arthur, Van Heflin, Brandon De Wilde, Jack Palance",6,1,False
+426,The Robe,6.7,3.2,1953,2h 15m,Henry Koster,"Drama, História, Romance","Philip Dunne, Gina Kaus, Lloyd C. Douglas","Richard Burton, Jean Simmons, Victor Mature, Michael Rennie, Jay Robinson",5,2,False
 427,The Greatest Show on Earth,6.5,2.9,1952,2h 32m,Cecil B. DeMille,"Drama, Família, Romance","Fredric M. Frank, Theodore St. John","Charlton Heston, Betty Hutton, James Stewart, Cornel Wilde, Gloria Grahame",True
 428,High Noon,7.9,4.0,1952,1h 25m,Fred Zinnemann,"Drama, Faroeste, Suspense",Carl Foreman,"Gary Cooper, Grace Kelly, Thomas Mitchell, Lloyd Bridges, Katy Jurado",False
 429,Ivanhoe,6.7,3.3,1952,1h 46m,Richard Thorpe,"Aventura, Ação, Drama, Romance","Noel Langley, Æneas MacKenzie, Marguerite Roberts","Robert Taylor, Elizabeth Taylor, Joan Fontaine, George Sanders, Emlyn Williams",False
