@@ -410,12 +410,12 @@
 409,Giant,7.6,3.9,1956,3h 21m,George Stevens,"Drama, Faroeste","Ivan Moffat, Fred Guiol, Edgar Nixon","Elizabeth Taylor, Rock Hudson, James Dean, Carroll Baker, Mercedes McCambridge",10,1,False
 410,The King and I,7.4,3.5,1956,2h 13m,Walter Lang,"Biografia, Drama, Musical, Romance",Ernest Lehman,"Deborah Kerr, Yul Brynner, Rita Moreno, Martin Benson, Rex Thompson",9,5,False
 411,The Ten Commandments,7.9,3.8,1956,3h 40m,Cecil B. DeMille,"Aventura, Drama, Família, História","Jesse Lasky Jr., Jack Gariss, Fredric M. Frank","Charlton Heston, Yul Brynner, Anne Baxter, Edward G. Robinson, Debra Paget",7,1,False
-412,Marty,7.6,3.9,1955,1h 30m,Delbert Mann,"Drama, Romance",Daniel Taradash,"William Holden, Kim Novak, Rosalind Russell, Cliff Robertson, Paul Newman",,,True
-413,Love Is a Many-Splendored Thing,6.4,3.1,1955,1h 42m,"Henry King, Otto Lang","Biografia, Drama, Guerra, Romance","John Patrick, Han Suyin","William Holden, Jennifer Jones, Torin Thatcher, Isobel Elsom, Murray Matheson",False
-414,Mister Roberts,7.6,3.6,1955,2h 3m,"John Ford, Mervyn LeRoy, Joshua Logan","Comédia, Drama, Guerra","Frank Tarloff, John Monks Jr., Joshua Logan","Henry Fonda, James Cagney, William Powell, Jack Lemmon, Robert Walker",False
-415,Picnic,7.0,3.3,1955,1h 55m,Joshua Logan,"Drama, Romance",Daniel Taradash,"William Holden, Kim Novak, Rosalind Russell, Cliff Robertson, Paul Newman",False
-416,The Rose Tattoo,6.9,3.3,1955,1h 57m,Daniel Mann,"Comédia, Drama, Romance","James Poe, John Farrow, S.J. Perelman","David Niven, Cantinflas, Shirley MacLaine, Robert Newton, Michael Todd",False
-417,On the Waterfront,8.1,4.2,1954,1h 48m,Elia Kazan,"Drama, Policial, Suspense","Budd Schulberg, Malcolm Johnson, Robert Siodmak","Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger, Pat Henning",True
+412,Marty,7.6,3.9,1955,1h 30m,Delbert Mann,"Drama, Romance",Paddy Chayefsky,"Ernest Borgnine, Betsy Blair, Esther Minciotti, Augusta Ciolli, Joe Mantell",8,4,True
+413,Love Is a Many-Splendored Thing,6.4,3.1,1955,1h 42m,"Henry King, Otto Lang","Biografia, Drama, Guerra, Romance","John Patrick, Han Suyin","William Holden, Jennifer Jones, Torin Thatcher, Isobel Elsom, Murray Matheson",8,3,False
+414,Mister Roberts,7.6,3.6,1955,2h 3m,"John Ford, Mervyn LeRoy, Joshua Logan","Comédia, Drama, Guerra","Frank Tarloff, John Monks Jr., Joshua Logan","Henry Fonda, James Cagney, William Powell, Jack Lemmon, Robert Walker",3,1,False
+415,Picnic,7.0,3.3,1955,1h 55m,Joshua Logan,"Drama, Romance",Daniel Taradash,"William Holden, Kim Novak, Rosalind Russell, Cliff Robertson, Arthur O'Connell",6,2,False
+416,The Rose Tattoo,6.9,3.3,1955,1h 57m,Daniel Mann,"Comédia, Drama, Romance","Tennessee Williams, Hal Kanter","Anna Magnani, Burt Lancaster, Marisa Pavan, Ben Cooper, Virginia Grey",8,3,False
+417,On the Waterfront,8.1,4.2,1954,1h 48m,Elia Kazan,"Drama, Policial, Suspense","Budd Schulberg, Malcolm Johnson, Robert Siodmak","Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger, Pat Henning",,,True
 418,Seven Brides for Seven Brothers,7.3,3.5,1954,1h 42m,Stanley Donen,"Comédia, Faroeste, Musical, Romance","Albert Hackett, Frances Goodrich, Dorothy Kingsley","Jane Powell, Howard Keel, Jeff Richards, Russ Tamblyn, Tommy Rall",False
 419,The Caine Mutiny,7.7,3.7,1954,2h 4m,Edward Dmytryk,"Drama, Guerra",Stanley Roberts,"Humphrey Bogart, José Ferrer, Van Johnson, Fred MacMurray, Robert Francis",False
 420,The Country Girl,7.2,3.5,1954,1h 44m,George Seaton,"Drama, Musical",Stanley Roberts,"Humphrey Bogart, José Ferrer, Van Johnson, Fred MacMurray, Robert Francis",False
