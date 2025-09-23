@@ -425,22 +425,22 @@
 424,Roman Holiday,8.0,4.2,1953,1h 58m,William Wyler,"Comédia, Drama, Romance","Dalton Trumbo, Ian McLellan Hunter, John Dighton","Gregory Peck, Audrey Hepburn, Eddie Albert, Hartley Power, Harcourt Williams",10,3,False
 425,Shane,7.6,3.7,1953,1h 58m,George Stevens,"Drama, Faroeste","A.B. Guthrie Jr., Jack Sher, Jack Schaefer","Alan Ladd, Jean Arthur, Van Heflin, Brandon De Wilde, Jack Palance",6,1,False
 426,The Robe,6.7,3.2,1953,2h 15m,Henry Koster,"Drama, História, Romance","Philip Dunne, Gina Kaus, Lloyd C. Douglas","Richard Burton, Jean Simmons, Victor Mature, Michael Rennie, Jay Robinson",5,2,False
-427,The Greatest Show on Earth,6.5,2.9,1952,2h 32m,Cecil B. DeMille,"Drama, Família, Romance","Fredric M. Frank, Theodore St. John","Charlton Heston, Betty Hutton, James Stewart, Cornel Wilde, Gloria Grahame",True
-428,High Noon,7.9,4.0,1952,1h 25m,Fred Zinnemann,"Drama, Faroeste, Suspense",Carl Foreman,"Gary Cooper, Grace Kelly, Thomas Mitchell, Lloyd Bridges, Katy Jurado",False
-429,Ivanhoe,6.7,3.3,1952,1h 46m,Richard Thorpe,"Aventura, Ação, Drama, Romance","Noel Langley, Æneas MacKenzie, Marguerite Roberts","Robert Taylor, Elizabeth Taylor, Joan Fontaine, George Sanders, Emlyn Williams",False
-430,Moulin Rouge,7.0,3.3,1952,1h 59m,John Huston,"Biografia, Drama, Musical, Romance",Carl Foreman,"Gary Cooper, Grace Kelly, Thomas Mitchell, Lloyd Bridges, Katy Jurado",False
-431,The Quiet Man,7.7,3.8,1952,2h 9m,John Ford,"Comédia, Drama, Romance","John Huston, Anthony Veiller","José Ferrer, Zsa Zsa Gabor, Michael Garey, Philip Bourneuf, Margalo Gillmore",False
-432,An American in Paris,7.1,3.7,1951,1h 54m,Vincente Minnelli,"Drama, Musical, Romance",Alan Jay Lerner,"Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary, Nina Foch",True
-433,A Place in the Sun,7.7,3.9,1951,2h 2m,George Stevens,"Drama, Romance","Fredric M. Frank, Theodore St. John","Charlton Heston, Betty Hutton, James Stewart, Cornel Wilde, Gloria Grahame",False
-434,A Streetcar Named Desire,7.9,4.0,1951,2h 2m,Elia Kazan,Drama,"Tennessee Williams, Oscar Saul","Vivien Leigh, Marlon Brando, Kim Hunter, Karl Malden, Rudy Bond",False
-435,Decision Before Dawn,7.2,3.5,1951,1h 59m,Anatole Litvak,"Drama, Guerra","Anatole Litvak, Michael Wilson","Richard Basehart, Oskar Werner, Richard Krauss, Peter van Eyck, Hildegard Knef",False
-436,Quo Vadis,7.1,3.4,1951,2h 51m,"Mervyn LeRoy, Anthony Mann","Drama, Romance","Anatole Litvak, Michael Wilson","Richard Basehart, Oskar Werner, Richard Krauss, Peter van Eyck, Hildegard Knef",False
-437,All About Eve,8.2,4.4,1950,2h 18m,Joseph L. Mankiewicz,Drama,"Joseph L. Mankiewicz, Mary Orr","Bette Davis, Anne Baxter, George Sanders, Celeste Holm, Gary Merrill",True
-438,Born Yesterday,7.5,3.7,1950,1h 43m,George Cukor,"Comédia, Drama, Romance",Albert Mannheimer,"Judy Holliday, Broderick Crawford, William Holden, Howard St. John, Paul Douglas",False
-439,Father of the Bride,7.1,3.5,1950,1h 32m,Vincente Minnelli,"Comédia, Drama, Romance","Frances Goodrich, Albert Hackett","Spencer Tracy, Elizabeth Taylor, Joan Bennett, Don Taylor, Billie Burke",False
-440,King Solomon's Mines,6.7,3.2,1950,1h 43m,"Compton Bennett, Andrew Marton","Aventura, Ação, Romance","Helen Deutsch, H. Rider Haggard","Deborah Kerr, Stewart Granger, Richard Carlson, Hugo Haas, Lowell Gilmore",False
-441,Sunset Boulevard,8.4,4.4,1950,1h 50m,Billy Wilder,"Drama, Filme noir",Albert Mannheimer,"Judy Holliday, Broderick Crawford, William Holden, Howard St. John, Paul Douglas",False
-442,All the King's Men,7.4,3.6,1949,1h 50m,Robert Rossen,"Drama, Filme noir",Robert Rossen,"Broderick Crawford, John Ireland, Joanne Dru, John Derek, Mercedes McCambridge",True
+427,The Greatest Show on Earth,6.5,2.9,1952,2h 32m,Cecil B. DeMille,"Drama, Família, Romance","Fredric M. Frank, Theodore St. John","Charlton Heston, Betty Hutton, James Stewart, Cornel Wilde, Gloria Grahame",5,2,True
+428,High Noon,7.9,4.0,1952,1h 25m,Fred Zinnemann,"Drama, Faroeste, Suspense",Carl Foreman,"Gary Cooper, Grace Kelly, Thomas Mitchell, Lloyd Bridges, Katy Jurado",7,4,False
+429,Ivanhoe,6.7,3.3,1952,1h 46m,Richard Thorpe,"Aventura, Ação, Drama, Romance","Noel Langley, Æneas MacKenzie, Marguerite Roberts","Robert Taylor, Elizabeth Taylor, Joan Fontaine, George Sanders, Emlyn Williams",3,0,False
+430,Moulin Rouge,7.0,3.3,1952,1h 59m,John Huston,"Biografia, Drama, Musical, Romance","John Huston, Anthony Veiller","José Ferrer, Zsa Zsa Gabor, Michael Garey, Philip Bourneuf, Colette Marchand",7,2,False
+431,The Quiet Man,7.7,3.8,1952,2h 9m,John Ford,"Comédia, Drama, Romance",Frank S. Nugent,"John Wayne, Maureen O'Hara, Barry Fitzgerald, Ward Bond, Victor McLaglen",7,2,False
+432,An American in Paris,7.1,3.7,1951,1h 54m,Vincente Minnelli,"Drama, Musical, Romance",Alan Jay Lerner,"Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary, Nina Foch",8,6,True
+433,A Place in the Sun,7.7,3.9,1951,2h 2m,George Stevens,"Drama, Romance","Michael Wilson, Harry Brown","Montgomery Clift, Elizabeth Taylor, Shelley Winters, Anne Revere, Keefe Brasselle",9,6,False
+434,A Streetcar Named Desire,7.9,4.0,1951,2h 2m,Elia Kazan,Drama,"Tennessee Williams, Oscar Saul","Vivien Leigh, Marlon Brando, Kim Hunter, Karl Malden, Rudy Bond",12,4,False
+435,Decision Before Dawn,7.2,3.5,1951,1h 59m,Anatole Litvak,"Drama, Guerra","Anatole Litvak, Michael Wilson","Richard Basehart, Oskar Werner, Richard Krauss, Peter van Eyck, Hildegard Knef",2,0,False
+436,Quo Vadis,7.1,3.4,1951,2h 51m,"Mervyn LeRoy, Anthony Mann","Drama, Romance","John Lee Mahin, S.N. Behrman, Sonya Levien","Robert Taylor, Deborah Kerr, Leo Genn, Peter Ustinov, Finlay Currie",8,0,False
+437,All About Eve,8.2,4.4,1950,2h 18m,Joseph L. Mankiewicz,Drama,"Joseph L. Mankiewicz, Mary Orr","Bette Davis, Anne Baxter, George Sanders, Celeste Holm, Thelma Ritter",14,6,True
+438,Born Yesterday,7.5,3.7,1950,1h 43m,George Cukor,"Comédia, Drama, Romance",Albert Mannheimer,"Judy Holliday, Broderick Crawford, William Holden, Howard St. John, Paul Douglas",5,1,False
+439,Father of the Bride,7.1,3.5,1950,1h 32m,Vincente Minnelli,"Comédia, Drama, Romance","Frances Goodrich, Albert Hackett","Spencer Tracy, Elizabeth Taylor, Joan Bennett, Don Taylor, Billie Burke",3,0,False
+440,King Solomon's Mines,6.7,3.2,1950,1h 43m,"Compton Bennett, Andrew Marton","Aventura, Ação, Romance","Helen Deutsch, H. Rider Haggard","Deborah Kerr, Stewart Granger, Richard Carlson, Hugo Haas, Lowell Gilmore",3,2,False
+441,Sunset Boulevard,8.4,4.4,1950,1h 50m,Billy Wilder,"Drama, Filme noir","Charles Brackett, Billy Wilder, D.M. Marshman Jr.","William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson, Fred Clark",11,3,False
+442,All the King's Men,7.4,3.6,1949,1h 50m,Robert Rossen,"Drama, Filme noir",Robert Rossen,"Broderick Crawford, John Ireland, Joanne Dru, John Derek, Mercedes McCambridge",,,True
 443,A Letter to Three Wives,7.7,3.8,1949,1h 43m,Joseph L. Mankiewicz,"Comédia, Drama, Romance","Albert Hackett, Frances Goodrich, Leonard Spigelgass","Jeanne Crain, Ann Sothern, Linda Darnell, Jeffrey Lynn, Kirk Douglas",False
 444,Battleground,7.4,3.7,1949,1h 58m,William A. Wellman,"Ação, Drama, Guerra, História","Henry King, Beirne Lay Jr., Sy Bartlett","Gregory Peck, Hugh Marlowe, Gary Merrill, Millard Mitchell, Robert Patten",False
 445,The Heiress,8.1,4.2,1949,1h 55m,William Wyler,"Drama, Romance","Ruth Goetz, Augustus Goetz, Henry James","Olivia de Havilland, Montgomery Clift, Ralph Richardson, Miriam Hopkins, Vanessa Brown",False
