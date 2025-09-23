@@ -440,21 +440,21 @@
 439,Father of the Bride,7.1,3.5,1950,1h 32m,Vincente Minnelli,"Comédia, Drama, Romance","Frances Goodrich, Albert Hackett","Spencer Tracy, Elizabeth Taylor, Joan Bennett, Don Taylor, Billie Burke",3,0,False
 440,King Solomon's Mines,6.7,3.2,1950,1h 43m,"Compton Bennett, Andrew Marton","Aventura, Ação, Romance","Helen Deutsch, H. Rider Haggard","Deborah Kerr, Stewart Granger, Richard Carlson, Hugo Haas, Lowell Gilmore",3,2,False
 441,Sunset Boulevard,8.4,4.4,1950,1h 50m,Billy Wilder,"Drama, Filme noir","Charles Brackett, Billy Wilder, D.M. Marshman Jr.","William Holden, Gloria Swanson, Erich von Stroheim, Nancy Olson, Fred Clark",11,3,False
-442,All the King's Men,7.4,3.6,1949,1h 50m,Robert Rossen,"Drama, Filme noir",Robert Rossen,"Broderick Crawford, John Ireland, Joanne Dru, John Derek, Mercedes McCambridge",,,True
-443,A Letter to Three Wives,7.7,3.8,1949,1h 43m,Joseph L. Mankiewicz,"Comédia, Drama, Romance","Albert Hackett, Frances Goodrich, Leonard Spigelgass","Jeanne Crain, Ann Sothern, Linda Darnell, Jeffrey Lynn, Kirk Douglas",False
-444,Battleground,7.4,3.7,1949,1h 58m,William A. Wellman,"Ação, Drama, Guerra, História","Henry King, Beirne Lay Jr., Sy Bartlett","Gregory Peck, Hugh Marlowe, Gary Merrill, Millard Mitchell, Robert Patten",False
-445,The Heiress,8.1,4.2,1949,1h 55m,William Wyler,"Drama, Romance","Ruth Goetz, Augustus Goetz, Henry James","Olivia de Havilland, Montgomery Clift, Ralph Richardson, Miriam Hopkins, Vanessa Brown",False
-446,Twelve O'Clock High,7.7,3.7,1949,2h 12m,Henry King,"Drama, Guerra","Henry King, Beirne Lay Jr., Sy Bartlett","Gregory Peck, Hugh Marlowe, Gary Merrill, Millard Mitchell, Robert Patten",False
-447,Hamlet,7.5,3.7,1948,2h 34m,Laurence Olivier,Drama,Robert Rossen,"Broderick Crawford, John Ireland, Joanne Dru, John Derek, Mercedes McCambridge",True
-448,Johnny Belinda,7.7,3.7,1948,1h 42m,Jean Negulesco,Drama,John Huston,"Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett, Barton MacLane",False
-449,The Red Shoes,8.1,4.4,1948,2h 15m,"Michael Powell, Emeric Pressburger","Drama, Musical, Romance",Willis Goldbeck,"Olivia de Havilland, Mark Stevens, Leo Genn, Celeste Holm, Beulah Bondi",False
-450,The Snake Pit,7.6,3.7,1948,1h 48m,Anatole Litvak,"Drama, Mistério","Emeric Pressburger, Michael Powell","Moira Shearer, Anton Walbrook, Marius Goring, Robert Helpmann, Léonide Massine",False
-451,The Treasure of the Sierra Madre,8.2,4.3,1948,2h 6m,John Huston,"Aventura, Drama, Faroeste",John Huston,"Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett, Barton MacLane",False
-452,Gentleman's Agreement,7.2,3.5,1947,1h 58m,Elia Kazan,"Drama, Romance","William Shakespeare, Lawrence Olivier","Laurence Olivier, Jean Simmons, Basil Sydney, Felix Aylmer, Eileen Herlie",True
-453,Crossfire,7.3,3.6,1947,1h 26m,Edward Dmytryk,"Drama, Filme noir, Mistério, Policial",George Seaton,"Maureen O'Hara, John Payne, Edmund Gwenn, Natalie Wood, Gene Lockhart",False
-454,Great Expectations,7.8,3.8,1946,1h 58m,David Lean,"Aventura, Drama, Mistério, Romance",Robert E. Sherwood,"Cary Grant, Loretta Young, David Niven, Monty Woolley, Elsa Lanchester",False
-455,Miracle on 34th Street,7.9,3.8,1947,1h 36m,George Seaton,"Comédia, Drama, Família, Fantasia",George Seaton,"Maureen O'Hara, John Payne, Edmund Gwenn, Natalie Wood, Gene Lockhart",False
-456,The Bishop's Wife,7.6,3.5,1947,1h 49m,Henry Koster,"Comédia, Drama, Fantasia, Romance",John Paxton,"Robert Young, Robert Mitchum, Robert Ryan, Gloria Grahame, Sam Levene",False
+442,All the King's Men,7.4,3.6,1949,1h 50m,Robert Rossen,"Drama, Filme noir",Robert Rossen,"Broderick Crawford, John Ireland, Joanne Dru, John Derek, Mercedes McCambridge",7,3,True
+443,A Letter to Three Wives,7.7,3.8,1949,1h 43m,Joseph L. Mankiewicz,"Comédia, Drama, Romance","Vera Caspary, Joseph L. Mankiewicz","Jeanne Crain, Ann Sothern, Linda Darnell, Jeffrey Lynn, Kirk Douglas",3,2,False
+444,Battleground,7.4,3.7,1949,1h 58m,William A. Wellman,"Ação, Drama, Guerra, História",Robert Pirosh,"Van Johnson, John Hodiak, Ricardo Montalban, George Murphy, James Whitmore",6,2,False
+445,The Heiress,8.1,4.2,1949,1h 55m,William Wyler,"Drama, Romance","Ruth Goetz, Augustus Goetz, Henry James","Olivia de Havilland, Montgomery Clift, Ralph Richardson, Miriam Hopkins, Vanessa Brown",8,4,False
+446,Twelve O'Clock High,7.7,3.7,1949,2h 12m,Henry King,"Drama, Guerra","Henry King, Beirne Lay Jr., Sy Bartlett","Gregory Peck, Hugh Marlowe, Gary Merrill, Millard Mitchell, Dean Jagger",4,2,False
+447,Hamlet,7.5,3.7,1948,2h 34m,Laurence Olivier,Drama,Laurence Olivier,"Laurence Olivier, Jean Simmons, John Laurie, Esmond Knight, Anthony Quayle",7,4,True
+448,Johnny Belinda,7.7,3.7,1948,1h 42m,Jean Negulesco,Drama,"Irma von Cube, Allen Vincent","Jane Wyman, Lew Ayres, Charles Bickford, Agnes Moorehead, Jan Sterling",12,1,False
+449,The Red Shoes,8.1,4.4,1948,2h 15m,"Michael Powell, Emeric Pressburger","Drama, Musical, Romance","Michael Powell, Emeric Pressburger","Anton Walbrook, Marius Goring, Moira Shearer, Robert Helpmann, Albert Bassermann",5,2,False
+450,The Snake Pit,7.6,3.7,1948,1h 48m,Anatole Litvak,"Drama, Mistério","Frank Partos, Millen Brand","Olivia de Havilland, Mark Stevens, Leo Genn, Celeste Holm, Glenn Langan",6,1,False
+451,The Treasure of the Sierra Madre,8.2,4.3,1948,2h 6m,John Huston,"Aventura, Drama, Faroeste",John Huston,"Humphrey Bogart, Walter Huston, Tim Holt, Bruce Bennett, Barton MacLane",4,3,False
+452,Gentleman's Agreement,7.2,3.5,1947,1h 58m,Elia Kazan,"Drama, Romance",Moss Hart,"Gregory Peck, Dorothy McGuire, John Garfield, Celeste Holm, Anne Revere",8,3,True
+453,Crossfire,7.3,3.6,1947,1h 26m,Edward Dmytryk,"Drama, Filme noir, Mistério, Policial","Robert Young, Robert Mitchum, Robert Ryan, Gloria Grahame, Sam Levene",5,0,False
+454,Great Expectations,7.8,3.8,1946,1h 58m,David Lean,"Aventura, Drama, Mistério, Romance","David Lean, Ronald Neame","John Mills, Tony Wager, Valerie Hobson, Jean Simmons, Bernard Miles",5,2,False
+455,Miracle on 34th Street,7.9,3.8,1947,1h 36m,George Seaton,"Comédia, Drama, Família, Fantasia",George Seaton,"Maureen O'Hara, John Payne, Edmund Gwenn, Natalie Wood, Gene Lockhart",4,3,False
+456,The Bishop's Wife,7.6,3.5,1947,1h 49m,Henry Koster,"Comédia, Drama, Fantasia, Romance,"Robert E. Sherwood, Leonardo Bercovici","Cary Grant, Loretta Young, David Niven, Monty Woolley, Elsa Lanchester",5,1,False
 457,The Best Years of Our Lives,8.1,4.2,1946,2h 50m,William Wyler,"Drama, Guerra, Romance",Moss Hart,"Gregory Peck, Dorothy McGuire, John Garfield, Celeste Holm, Anne Revere",True
 458,Henry V,7.0,3.5,1944,2h 17m,Laurence Olivier,"Biografia, Drama, Guerra, História",Laurence Olivier,"Laurence Olivier, Renée Asherson, Robert Newton, Leslie Banks, Felix Aylmer",False
 459,It's a Wonderful Life,8.6,4.4,1946,2h 10m,Frank Capra,"Drama, Família, Fantasia, Romance",Lamar Trotti,"Tyrone Power, Gene Tierney, John Payne, Anne Baxter, Clifton Webb",False
