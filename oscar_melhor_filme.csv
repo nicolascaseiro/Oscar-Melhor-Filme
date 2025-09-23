@@ -454,13 +454,13 @@
 453,Crossfire,7.3,3.6,1947,1h 26m,Edward Dmytryk,"Drama, Filme noir, Mistério, Policial","Robert Young, Robert Mitchum, Robert Ryan, Gloria Grahame, Sam Levene",5,0,False
 454,Great Expectations,7.8,3.8,1946,1h 58m,David Lean,"Aventura, Drama, Mistério, Romance","David Lean, Ronald Neame","John Mills, Tony Wager, Valerie Hobson, Jean Simmons, Bernard Miles",5,2,False
 455,Miracle on 34th Street,7.9,3.8,1947,1h 36m,George Seaton,"Comédia, Drama, Família, Fantasia",George Seaton,"Maureen O'Hara, John Payne, Edmund Gwenn, Natalie Wood, Gene Lockhart",4,3,False
-456,The Bishop's Wife,7.6,3.5,1947,1h 49m,Henry Koster,"Comédia, Drama, Fantasia, Romance,"Robert E. Sherwood, Leonardo Bercovici","Cary Grant, Loretta Young, David Niven, Monty Woolley, Elsa Lanchester",5,1,False
-457,The Best Years of Our Lives,8.1,4.2,1946,2h 50m,William Wyler,"Drama, Guerra, Romance",Moss Hart,"Gregory Peck, Dorothy McGuire, John Garfield, Celeste Holm, Anne Revere",True
-458,Henry V,7.0,3.5,1944,2h 17m,Laurence Olivier,"Biografia, Drama, Guerra, História",Laurence Olivier,"Laurence Olivier, Renée Asherson, Robert Newton, Leslie Banks, Felix Aylmer",False
-459,It's a Wonderful Life,8.6,4.4,1946,2h 10m,Frank Capra,"Drama, Família, Fantasia, Romance",Lamar Trotti,"Tyrone Power, Gene Tierney, John Payne, Anne Baxter, Clifton Webb",False
-460,The Razor's Edge,7.3,3.5,1946,2h 25m,Edmund Goulding,"Drama, Romance","Frances Goodrich, Albert Hackett, Frank Capra","James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell, Henry Travers",False
-461,The Yearling,7.2,3.3,1946,2h 8m,Clarence Brown,"Drama, Família, Faroeste","Paul Osborn, Marjorie Kinnan Rawlings, John Lee Mahin","Gregory Peck, Jane Wyman, Claude Jarman Jr., Chill Wills, Clem Bevans",False
-462,The Lost Weekend,7.9,4.0,1945,1h 41m,Billy Wilder,"Drama, Filme noir",Dudley Nichols,"Bing Crosby, Ingrid Bergman, Henry Travers, William Gargan, Joan Carroll",True
+456,The Bishop's Wife,7.6,3.5,1947,1h 49m,Henry Koster,"Comédia, Drama, Fantasia, Romance","Robert E. Sherwood, Leonardo Bercovici","Cary Grant, Loretta Young, David Niven, Monty Woolley, Elsa Lanchester",5,1,False
+457,The Best Years of Our Lives,8.1,4.2,1946,2h 50m,William Wyler,"Drama, Guerra, Romance",Robert E. Sherwood,"Myrna Loy, Fredric March, Dana Andrews, Teresa Wright, Harold Russell",9,7,True
+458,Henry V,7.0,3.5,1944,2h 17m,Laurence Olivier,"Biografia, Drama, Guerra, História",Laurence Olivier,"Laurence Olivier, Renée Asherson, Robert Newton, Leslie Banks, Felix Aylmer",4,0,False
+459,It's a Wonderful Life,8.6,4.4,1946,2h 10m,Frank Capra,"Drama, Família, Fantasia, Romance","Frances Goodrich, Albert Hackett, Frank Capra","James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell, Henry Travers",5,0,False
+460,The Razor's Edge,7.3,3.5,1946,2h 25m,Edmund Goulding,"Drama, Romance",Lamar Trotti,"Tyrone Power, Gene Tierney, John Payne, Anne Baxter, Clifton Webb",4,1,False
+461,The Yearling,7.2,3.3,1946,2h 8m,Clarence Brown,"Drama, Família, Faroeste","Paul Osborn, Marjorie Kinnan Rawlings, John Lee Mahin","Gregory Peck, Jane Wyman, Claude Jarman Jr., Chill Wills, Clem Bevans",7,2,False
+462,The Lost Weekend,7.9,4.0,1945,1h 41m,Billy Wilder,"Drama, Filme noir",Dudley Nichols,"Bing Crosby, Ingrid Bergman, Henry Travers, William Gargan, Joan Carroll",,,True
 463,Anchors Aweigh,7.0,3.5,1945,2h 20m,"George Sidney, Joseph Barbera, William Hanna","Comédia, Fantasia, Musical",Laurence Olivier,"Laurence Olivier, Renée Asherson, Robert Newton, Leslie Banks, Felix Aylmer",False
 464,Mildred Pierce,7.9,4.1,1945,1h 51m,Michael Curtiz,"Drama, Filme noir, Mistério, Policial, Romance","Robert E. Sherwood, Hugo Butler","Myrna Loy, Fredric March, Dana Andrews, Teresa Wright, Virginia Mayo",False
 465,Spellbound,7.5,3.8,1945,1h 51m,Alfred Hitchcock,"Drama, Filme noir, Mistério, Romance, Suspense","Ben Hecht, John Palmer, Hilary St George Saunders","Ingrid Bergman, Gregory Peck, Michael Chekhov, Leo G. Carroll, Rhonda Fleming",False
