@@ -490,12 +490,12 @@
 489,The Talk of the Town,7.5,3.7,1942,1h 58m,George Stevens,"Comédia, Drama, Romance, Suspense","Irwin Shaw, Sidney Buchman, Dale Van Every","Cary Grant, Jean Arthur, Ronald Colman, Edgar Buchanan, Glenda Farrell",7,0,False
 490,Wake Island,6.6,3.2,1942,1h 28m,John Farrow,"Ação, Drama, Guerra","W.R. Burnett, Frank Wead","Brian Donlevy, Macdonald Carey, William Bendix, Robert Preston, Albert Dekker",4,0,False
 491,Yankee Doodle Dandy,7.6,3.5,1942,2h 6m,Michael Curtiz,"Biografia, Drama, Família, Musical, Musical",Robert Buckner,"James Cagney, Joan Leslie, Walter Huston, Richard Whorf, Walter Brennan",8,3,False
-492,How Green Was My Valley,7.7,4.1,1941,1h 58m,John Ford,"Drama, Família","Philip Dunne, Richard Llewellyn","Walter Pidgeon, Maureen O'Hara, Anna Lee, Donald Crisp, Roddy McDowall",,,True
-493,Blossoms in the Dust,6.9,3.3,1941,1h 39m,Mervyn LeRoy,"Biografia, Drama, Romance","Anita Loos, Ralph Wheelwright, Hugo Butler","Greer Garson, Walter Pidgeon, Felix Bressart, Marsha Hunt, Fay Holden",False
-494,Citizen Kane,8.2,4.2,1941,1h 59m,Orson Welles,"Drama, Mistério",Joan Harrison,"Cary Grant, Joan Fontaine, Cedric Hardwicke, Nigel Bruce, Dame May Whitty",False
-495,Here Comes Mr. Jordan,7.5,3.6,1941,1h 34m,Alexander Hall,"Comédia, Fantasia, Romance","Sidney Buchman, Seton I. Miller, Harry Segall","Robert Montgomery, Claude Rains, Evelyn Keyes, Rita Johnson, Edward Everett Horton",False
-496,Hold Back the Dawn,7.3,3.6,1941,1h 56m,Mitchell Leisen,"Drama, Romance","Charles Schnee, Irving Ravetch","Fredric March, Martha Scott, Beulah Bondi, James Gleason, Gene Lockhart",False
-497,One Foot in Heaven,6.6,3.0,1941,1h 48m,Irving Rapper,"Biografia, Drama, Romance",John Huston,"Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre, Sydney Greenstreet",False
+492,How Green Was My Valley,7.7,4.1,1941,1h 58m,John Ford,"Drama, Família","Philip Dunne, Richard Llewellyn","Walter Pidgeon, Maureen O'Hara, Anna Lee, Donald Crisp, Sara Allgood",10,5,True
+493,Blossoms in the Dust,6.9,3.3,1941,1h 39m,Mervyn LeRoy,"Biografia, Drama, Romance","Anita Loos, Ralph Wheelwright, Hugo Butler","Greer Garson, Walter Pidgeon, Felix Bressart, Marsha Hunt, Fay Holden",4,1,False
+494,Citizen Kane,8.2,4.2,1941,1h 59m,Orson Welles,"Drama, Mistério","Herman J. Mankiewicz, Orson Welles","Joseph Cotten, Orson Welles, Dorothy Comingore, Agnes Moorehead, Ruth Warrick",9,1,False
+495,Here Comes Mr. Jordan,7.5,3.6,1941,1h 34m,Alexander Hall,"Comédia, Fantasia, Romance","Sidney Buchman, Seton I. Miller, Harry Segall","Robert Montgomery, Claude Rains, Evelyn Keyes, Rita Johnson, James Gleason",7,2,False
+496,Hold Back the Dawn,7.3,3.6,1941,1h 56m,Mitchell Leisen,"Drama, Romance","Charles Brackett, Billy Wilder","Charles Boyer, Olivia de Havilland, Paulette Goddard, Victor Francen, Walter Abel",6,0,False
+497,One Foot in Heaven,6.6,3.0,1941,1h 48m,Irving Rapper,"Biografia, Drama, Romance",Casey Robinson,"Fredric March, Martha Scott, Beulah Bondi, Gene Lockhart, Elisabeth Fraser",1,0,False
 498,Sergeant York,7.7,3.6,1941,2h 14m,Howard Hawks,"Biografia, Drama, Guerra, História, Romance",Lillian Hellman,"Bette Davis, Herbert Marshall, Teresa Wright, Richard Carlson, Patricia Collinge",False
 499,Suspicion,7.3,3.5,1941,1h 39m,Alfred Hitchcock,"Drama, Filme noir, Mistério, Suspense",Joan Harrison,"Cary Grant, Joan Fontaine, Cedric Hardwicke, Nigel Bruce, Dame May Whitty",False
 500,The Little Foxes,7.9,3.8,1941,1h 56m,William Wyler,"Drama, Romance",Lillian Hellman,"Bette Davis, Herbert Marshall, Teresa Wright, Richard Carlson, Patricia Collinge",False
