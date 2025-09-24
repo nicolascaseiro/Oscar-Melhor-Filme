@@ -500,17 +500,17 @@
 499,Suspicion,7.3,3.5,1941,1h 39m,Alfred Hitchcock,"Drama, Filme noir, Mistério, Suspense",Joan Harrison,"Cary Grant, Joan Fontaine, Cedric Hardwicke, Nigel Bruce, Dame May Whitty",3,1,False
 500,The Little Foxes,7.9,3.8,1941,1h 56m,William Wyler,"Drama, Romance",Lillian Hellman,"Bette Davis, Herbert Marshall, Teresa Wright, Richard Carlson, Patricia Collinge",9,0,False
 501,The Maltese Falcon,7.9,3.9,1941,1h 40m,John Huston,"Drama, Filme noir, Mistério, Policial, Romance",John Huston,"Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre, Sydney Greenstreet",3,0,False
-502,Rebecca,8.1,4.1,1940,2h 10m,Alfred Hitchcock,"Drama, Mistério, Romance, Suspense","Daphne Du Maurier, Robert E. Sherwood, Joan Harrison","Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson, Nigel Bruce",True
-503,"All This, and Heaven Too",7.4,3.5,1940,2h 21m,Anatole Litvak,"Drama, Romance","Rachel Field, Casey Robinson","Bette Davis, Charles Boyer, Jeffrey Lynn, Barbara O'Neil, Virginia Weidler",False
-504,Foreign Correspondent,7.4,3.7,1940,2h,Alfred Hitchcock,"Ação, Drama, Guerra, Romance, Suspense",Donald Ogden Stewart,"Cary Grant, Katharine Hepburn, James Stewart, Ruth Hussey, John Howard",False
-505,Kitty Foyle,6.9,3.3,1940,1h 48m,Sam Wood,"Drama, Romance",Thornton Wilder,"Martha Scott, William Holden, Fay Bainter, Beulah Bondi, Guy Kibbee",False
-506,Our Town,6.5,3.0,1940,1h 30m,Sam Wood,"Drama, Família, Romance",Thornton Wilder,"Martha Scott, William Holden, Fay Bainter, Beulah Bondi, Guy Kibbee",False
-507,The Grapes of Wrath,8.1,4.2,1940,2h 9m,John Ford,Drama,Nunnally Johnson,"Henry Fonda, Jane Darwell, John Carradine, Dorris Bowdon, Charley Grapewin",False
-508,The Great Dictator,8.4,4.3,1940,2h 5m,Charles Chaplin,"Comédia, Drama, Guerra",Dalton Trumbo,"Ginger Rogers, Dennis Morgan, James Craig, Isobel Elsom, Gladys Cooper",False
-509,The Letter,7.5,3.7,1940,1h 35m,William Wyler,"Drama, Filme noir, Mistério, Policial, Romance",Charlie Chaplin,"Charlie Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner, Henry Daniell",False
-510,The Long Voyage Home,6.9,3.6,1940,1h 45m,John Ford,"Drama, Guerra",Nunnally Johnson,"Henry Fonda, Jane Darwell, John Carradine, Dorris Bowdon, Charley Grapewin",False
-511,The Philadelphia Story,7.8,4.0,1940,1h 52m,George Cukor,"Comédia, Romance",Donald Ogden Stewart,"Cary Grant, Katharine Hepburn, James Stewart, Ruth Hussey, John Howard",False
-512,Gone with the Wind,8.2,3.9,1939,3h 58m,Victor Fleming,"Drama, Guerra, Romance","Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett","Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil, Evelyn Keyes",True
+502,Rebecca,8.1,4.1,1940,2h 10m,Alfred Hitchcock,"Drama, Mistério, Romance, Suspense","Daphne Du Maurier, Robert E. Sherwood, Joan Harrison","Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson, Nigel Bruce",11,2,True
+503,"All This, and Heaven Too",7.4,3.5,1940,2h 21m,Anatole Litvak,"Drama, Romance","Rachel Field, Casey Robinson","Bette Davis, Charles Boyer, Jeffrey Lynn, Barbara O'Neil, Virginia Weidler",3,0,False
+504,Foreign Correspondent,7.4,3.7,1940,2h,Alfred Hitchcock,"Ação, Drama, Guerra, Romance, Suspense","Charles Bennett, Joan Harrison","Joel McCrea, Laraine Day, Herbert Marshall, George Sanders, Albert Bassermann",6,0,False
+505,Kitty Foyle,6.9,3.3,1940,1h 48m,Sam Wood,"Drama, Romance",Dalton Trumbo,"Ginger Rogers, Dennis Morgan, James Craig, Eduardo Ciannelli, Gladys Cooper",5,1,False
+506,Our Town,6.5,3.0,1940,1h 30m,Sam Wood,"Drama, Família, Romance",Thornton Wilder,"Martha Scott, William Holden, Fay Bainter, Beulah Bondi, Guy Kibbee",6,0,False
+507,The Grapes of Wrath,8.1,4.2,1940,2h 9m,John Ford,Drama,Nunnally Johnson,"Henry Fonda, Jane Darwell, John Carradine, Dorris Bowdon, Charley Grapewin",7,2,False
+508,The Great Dictator,8.4,4.3,1940,2h 5m,Charles Chaplin,"Comédia, Drama, Guerra",Charlie Chaplin,"Charlie Chaplin, Paulette Goddard, Jack Oakie, Reginald Gardiner, Henry Daniell",5,0,False
+509,The Letter,7.5,3.7,1940,1h 35m,William Wyler,"Drama, Filme noir, Mistério, Policial, Romance",Howard Koch,"Bette Davis, Herbert Marshall, James Stephenson, Frieda Inescort, Bruce Lester",7,0,False
+510,The Long Voyage Home,6.9,3.6,1940,1h 45m,John Ford,"Drama, Guerra",Dudley Nichols,"John Wayne, Thomas Mitchell, Ian Hunter, Barry Fitzgerald, Wilfrid Lawson",6,0,False
+511,The Philadelphia Story,7.8,4.0,1940,1h 52m,George Cukor,"Comédia, Romance",Donald Ogden Stewart,"Cary Grant, Katharine Hepburn, James Stewart, Ruth Hussey, John Howard",6,2,False
+512,Gone with the Wind,8.2,3.9,1939,3h 58m,Victor Fleming,"Drama, Guerra, Romance","Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett","Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil, Evelyn Keyes",,,True
 513,Dark Victory,7.4,3.7,1939,1h 44m,Edmund Goulding,"Drama, Romance","Bertram Millhauser, Humphrey Pearson","Bette Davis, George Brent, Humphrey Bogart, Geraldine Fitzgerald, Ronald Reagan",False
 514,"Goodbye, Mr. Chips",7.9,3.7,1939,1h 54m,"Sam Wood, Sidney Franklin","Drama, Romance","Noel Langley, Florence Ryerson, Edgar Allan Woolf","Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley",False
 515,Love Affair,7.3,3.7,1939,1h 28m,Leo McCarey,"Comédia, Drama, Romance","Delmer Daves, Donald Ogden Stewart","Irene Dunne, Charles Boyer, Maria Ouspenskaya, Lee Bowman, Astrid Allwyn",False
