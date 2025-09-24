@@ -510,17 +510,17 @@
 509,The Letter,7.5,3.7,1940,1h 35m,William Wyler,"Drama, Filme noir, Mistério, Policial, Romance",Howard Koch,"Bette Davis, Herbert Marshall, James Stephenson, Frieda Inescort, Bruce Lester",7,0,False
 510,The Long Voyage Home,6.9,3.6,1940,1h 45m,John Ford,"Drama, Guerra",Dudley Nichols,"John Wayne, Thomas Mitchell, Ian Hunter, Barry Fitzgerald, Wilfrid Lawson",6,0,False
 511,The Philadelphia Story,7.8,4.0,1940,1h 52m,George Cukor,"Comédia, Romance",Donald Ogden Stewart,"Cary Grant, Katharine Hepburn, James Stewart, Ruth Hussey, John Howard",6,2,False
-512,Gone with the Wind,8.2,3.9,1939,3h 58m,Victor Fleming,"Drama, Guerra, Romance","Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett","Clark Gable, Vivien Leigh, Thomas Mitchell, Barbara O'Neil, Evelyn Keyes",,,True
-513,Dark Victory,7.4,3.7,1939,1h 44m,Edmund Goulding,"Drama, Romance","Bertram Millhauser, Humphrey Pearson","Bette Davis, George Brent, Humphrey Bogart, Geraldine Fitzgerald, Ronald Reagan",False
-514,"Goodbye, Mr. Chips",7.9,3.7,1939,1h 54m,"Sam Wood, Sidney Franklin","Drama, Romance","Noel Langley, Florence Ryerson, Edgar Allan Woolf","Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley",False
-515,Love Affair,7.3,3.7,1939,1h 28m,Leo McCarey,"Comédia, Drama, Romance","Delmer Daves, Donald Ogden Stewart","Irene Dunne, Charles Boyer, Maria Ouspenskaya, Lee Bowman, Astrid Allwyn",False
-516,Mr. Smith Goes to Washington,8.1,4.1,1939,2h 9m,Frank Capra,"Comédia, Drama",Nunnally Johnson,"Burgess Meredith, Betty Field, Lon Chaney Jr., Charles Bickford, Leigh Whipper",False
-517,Ninotchka,7.8,4.0,1939,1h 50m,Ernst Lubitsch,"Comédia, Romance","Charles Brackett, Billy Wilder, Walter Reisch","Greta Garbo, Melvyn Douglas, Felix Bressart, Ina Claire, Bela Lugosi",False
-518,Of Mice and Men,7.8,3.7,1939,1h 46m,Lewis Milestone,"Aventura, Drama",Sidney Buchman,"James Stewart, Jean Arthur, Claude Rains, Edward Arnold, Joseph Sawyer",False
-519,Stagecoach,7.8,4.0,1939,1h 36m,John Ford,"Aventura, Drama, Faroeste","Delmer Daves, Donald Ogden Stewart","Irene Dunne, Charles Boyer, Maria Ouspenskaya, Lee Bowman, Astrid Allwyn",False
-520,The Wizard of Oz,8.1,3.9,1939,1h 42m,"Victor Fleming, George Cukor, Norman Taurog, Richard Thorpe, King Vidor","Aventura, Família, Fantasia, Musical","Eric Maschwitz, Claudine West","Robert Donat, Greer Garson, Terry Kilburn, John Mills, Lyn Harding",False
-521,Wuthering Heights,7.5,3.6,1939,1h 44m,William Wyler,"Drama, Romance","Charles MacArthur, Ben Hecht, Emily Brontë","Merle Oberon, Laurence Olivier, David Niven, Flora Robson, Donald Crisp",False
-522,You Can't Take It with You,7.8,3.8,1938,2h 6m,Frank Capra,"Comédia, Drama, Romance","Alan Scott, George O'Neil, Stephen Morehouse Avery","Tyrone Power, Alice Faye, Don Ameche, Ethel Merman, Jack Haley",True
+512,Gone with the Wind,8.2,3.9,1939,3h 58m,Victor Fleming,"Drama, Guerra, Romance","Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett","Clark Gable, Vivien Leigh, Thomas Mitchell, Olivia de Havilland, Hattie McDaniel",13,8,True
+513,Dark Victory,7.4,3.7,1939,1h 44m,Edmund Goulding,"Drama, Romance","Bertram Millhauser, Humphrey Pearson","Bette Davis, George Brent, Humphrey Bogart, Geraldine Fitzgerald, Ronald Reagan",3,0,False
+514,"Goodbye, Mr. Chips",7.9,3.7,1939,1h 54m,"Sam Wood, Sidney Franklin","Drama, Romance","R.C. Sherriff, Claudine West, Eric Maschwitz","Robert Donat, Greer Garson, Terry Killburn, John Mills, Paul Henreid",7,1,False
+515,Love Affair,7.3,3.7,1939,1h 28m,Leo McCarey,"Comédia, Drama, Romance","Delmer Daves, Donald Ogden Stewart","Irene Dunne, Charles Boyer, Maria Ouspenskaya, Lee Bowman, Astrid Allwyn",6,0,False
+516,Mr. Smith Goes to Washington,8.1,4.1,1939,2h 9m,Frank Capra,"Comédia, Drama",Sidney Buchman,"Jean Arthur, James Stewart, Claude Rains, Edward Arnold, Guy Kibbee",11,1,False
+517,Ninotchka,7.8,4.0,1939,1h 50m,Ernst Lubitsch,"Comédia, Romance","Charles Brackett, Billy Wilder, Walter Reisch","Greta Garbo, Melvyn Douglas, Felix Bressart, Ina Claire, Bela Lugosi",4,0,False
+518,Of Mice and Men,7.8,3.7,1939,1h 46m,Lewis Milestone,"Aventura, Drama",Eugene Solow,"Burgess Meredith, Betty Field, Lon Chaney Jr., Charles Bickford, Roman Bohnen",4,0,False
+519,Stagecoach,7.8,4.0,1939,1h 36m,John Ford,"Aventura, Drama, Faroeste",Dudley Nichols,"Claire Trevor, John Wayne, Andy Devine, John Carradine, Thomas Mitchell",7,2,False
+520,The Wizard of Oz,8.1,3.9,1939,1h 42m,"Victor Fleming, George Cukor, Norman Taurog, Richard Thorpe, King Vidor","Aventura, Família, Fantasia, Musical","Noel Langley, Florence Ryerson, Edgar Allan Woolf","Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley",5,2,False
+521,Wuthering Heights,7.5,3.6,1939,1h 44m,William Wyler,"Drama, Romance","Charles MacArthur, Ben Hecht, Emily Brontë","Merle Oberon, Laurence Olivier, David Niven, Flora Robson, Geraldine Fitzgerald",8,1,False
+522,You Can't Take It with You,7.8,3.8,1938,2h 6m,Frank Capra,"Comédia, Drama, Romance","Alan Scott, George O'Neil, Stephen Morehouse Avery","Tyrone Power, Alice Faye, Don Ameche, Ethel Merman, Jack Haley",,,True
 523,Alexander's Ragtime Band,6.8,3.3,1938,1h 46m,Henry King,"Drama, Musical, Musical, Romance","Bertram Millhauser, Humphrey Pearson","Bette Davis, George Brent, Humphrey Bogart, Geraldine Fitzgerald, Ronald Reagan",False
 524,Boys Town,7.2,3.4,1938,1h 36m,Norman Taurog,"Biografia, Drama, Família","Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
 525,Four Daughters,6.9,3.3,1938,1h 30m,Michael Curtiz,"Drama, Musical, Romance",Frank Wead,"Clark Gable, Myrna Loy, Spencer Tracy, Lionel Barrymore, Melvyn Douglas",False
