@@ -530,16 +530,16 @@
 529,Test Pilot,6.8,3.4,1938,1h 59m,Victor Fleming,"Drama, Romance","Vincent Lawrence, Waldemar Young","Clark Gable, Myrna Loy, Spencer Tracy, Lionel Barrymore, Marjorie Main",3,0,False
 530,The Adventures of Robin Hood,7.9,3.9,1938,1h 42m,"Michael Curtiz, William Keighley","Aventura, Ação, Romance","Norman Reilly Raine, Seton I. Miller","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles",4,3,False
 531,The Citadel,7.0,3.3,1938,1h 50m,King Vidor,Drama,"Ian Dalrymple, W.P. Lipscomb, Lewis Galantière","Robert Donat, Rosalind Russell, Ralph Richardson, Rex Harrison, Ben Webster",4,0,False
-532,The Life of Emile Zola,7.1,3.3,1937,1h 56m,William Dieterle,"Biografia, Drama","Norman Reilly Raine, Seton I. Miller, Richard Maibaum","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles",,,True
-533,A Star Is Born,7.3,3.6,1937,1h 51m,"William A. Wellman, Jack Conway, Victor Fleming","Drama, Romance","Dorothy Parker, Alan Campbell, Robert Carson","Janet Gaynor, Fredric March, Adolphe Menjou, May Robson, Andy Devine",False
-534,Captains Courageous,7.9,3.8,1937,1h 57m,Victor Fleming,"Aventura, Drama, Família",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
-535,Dead End,7.2,3.6,1937,1h 33m,William Wyler,"Drama, Filme noir, Policial, Romance","Lillian Hellman, Sidney Kingsley","Sylvia Sidney, Joel McCrea, Humphrey Bogart, Wendy Barrie, Claire Trevor",False
-536,In Old Chicago,6.7,3.2,1938,1h 35m,Henry King,"Ação, Drama, Musical, Romance",George Bernard Shaw,"Leslie Howard, Wendy Hiller, Wilfrid Lawson, Donald Wolfit, Margaretta Scott",False
-537,Lost Horizon,7.6,3.6,1937,2h 12m,Frank Capra,"Aventura, Drama, Fantasia, Mistério",Norman Krasna,"Deanna Durbin, Adolphe Menjou, Eugene Pallette, Alice Brady, Edward Everett Horton",False
-538,One Hundred Men and a Girl,6.7,3.3,1937,1h 24m,Henry Koster,"Comédia, Drama, Musical",Robert E. Sherwood,"Ronald Colman, Jane Wyatt, Edward Everett Horton, Isabel Jewell, John Howard",False
-539,Stage Door,7.7,3.9,1937,1h 32m,Gregory La Cava,"Comédia, Drama, Romance",Nunnally Johnson,"Alice Brady, Tyrone Power, Alice Faye, Don Ameche, Andy Devine",False
-540,The Awful Truth,7.6,3.9,1937,1h 30m,Leo McCarey,"Comédia, Romance",Dudley Nichols,"Paul Muni, Luise Rainer, Walter Huston, Tilly Losch, Charley Grapewin",False
-541,The Good Earth,7.5,3.2,1937,2h 18m,"Sidney Franklin, Victor Fleming, Gustav Machatý, Sam Wood","Drama, Romance",Dudley Nichols,"Paul Muni, Luise Rainer, Walter Huston, Tilly Losch, Charley Grapewin",False
+532,The Life of Emile Zola,7.1,3.3,1937,1h 56m,William Dieterle,"Biografia, Drama","Norman Reilly Raine, Heinz Herald, Geza Herczeg","Paul Muni, Gale Sondergaard, Joseph Schildkraut, Gloria Holden, Donald Crisp",10,3,True
+533,A Star Is Born,7.3,3.6,1937,1h 51m,"William A. Wellman, Jack Conway, Victor Fleming","Drama, Romance","Dorothy Parker, Alan Campbell, Robert Carson","Janet Gaynor, Fredric March, Adolphe Menjou, May Robson, Andy Devine",7,1,False
+534,Captains Courageous,7.9,3.8,1937,1h 57m,Victor Fleming,"Aventura, Drama, Família",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",4,1,False
+535,Dead End,7.2,3.6,1937,1h 33m,William Wyler,"Drama, Filme noir, Policial, Romance","Lillian Hellman, Sidney Kingsley","Sylvia Sidney, Joel McCrea, Humphrey Bogart, Wendy Barrie, Claire Trevor",4,0,False
+536,In Old Chicago,6.7,3.2,1938,1h 35m,Henry King,"Ação, Drama, Musical, Romance","Lamar Trotti, Sonya Levien","Tyrone Power, Alice Faye, Don Ameche, Alice Brady, Andy Devine",6,2,False
+537,Lost Horizon,7.6,3.6,1937,2h 12m,Frank Capra,"Aventura, Drama, Fantasia, Mistério",Robert Riskin,"Ronald Colman, Jane Wyatt, Edward Everett Horton, John Howard, H.B. Warner",7,2,False
+538,One Hundred Men and a Girl,6.7,3.3,1937,1h 24m,Henry Koster,"Comédia, Drama, Musical","Bruce Manning, Charles Kenyon, James Mulhauser","Deanna Durbin, Leopold Stokowski, Adolphe Menjou, Alice Brady, Eugene Pallette",5,1,False
+539,Stage Door,7.7,3.9,1937,1h 32m,Gregory La Cava,"Comédia, Drama, Romance","Morrie Rysking, Anthony Veiller","Katharine Hepburn, Ginger Rogers, Adolphe Menjou, Andrea Leeds, Lucille Ball",4,0,False
+540,The Awful Truth,7.6,3.9,1937,1h 30m,Leo McCarey,"Comédia, Romance",Viña Delmar,"Irene Dunne, Cary Grant, Ralph Bellamy, Alexander D'Arcy, Cecil Cunningham",6,1,False
+541,The Good Earth,7.5,3.2,1937,2h 18m,"Sidney Franklin, Victor Fleming, Gustav Machatý, Sam Wood","Drama, Romance",Dudley Nichols,"Paul Muni, Luise Rainer, Walter Connolly, Tilly Losch, Charley Grapewin",5,2,False
 542,The Great Ziegfeld,6.6,3.0,1936,2h 56m,Robert Z. Leonard,"Drama, Musical","Viña Delmar, Leo McCarey","Cary Grant, Irene Dunne, Ralph Bellamy, Alexander D'Arcy, Cecil Cunningham",True
 543,A Tale of Two Cities,7.8,3.7,1935,2h 8m,"Jack Conway, Robert Z. Leonard","Drama, História, Romance",Sidney Howard,"Walter Huston, Ruth Chatterton, Mary Astor, David Niven, Paul Lukas",False
 544,Anthony Adverse,6.3,2.9,1936,2h 21m,"Mervyn LeRoy, Michael Curtiz","Aventura, Drama, Romance",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
