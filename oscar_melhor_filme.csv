@@ -520,17 +520,17 @@
 519,Stagecoach,7.8,4.0,1939,1h 36m,John Ford,"Aventura, Drama, Faroeste",Dudley Nichols,"Claire Trevor, John Wayne, Andy Devine, John Carradine, Thomas Mitchell",7,2,False
 520,The Wizard of Oz,8.1,3.9,1939,1h 42m,"Victor Fleming, George Cukor, Norman Taurog, Richard Thorpe, King Vidor","Aventura, Família, Fantasia, Musical","Noel Langley, Florence Ryerson, Edgar Allan Woolf","Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley",5,2,False
 521,Wuthering Heights,7.5,3.6,1939,1h 44m,William Wyler,"Drama, Romance","Charles MacArthur, Ben Hecht, Emily Brontë","Merle Oberon, Laurence Olivier, David Niven, Flora Robson, Geraldine Fitzgerald",8,1,False
-522,You Can't Take It with You,7.8,3.8,1938,2h 6m,Frank Capra,"Comédia, Drama, Romance","Alan Scott, George O'Neil, Stephen Morehouse Avery","Tyrone Power, Alice Faye, Don Ameche, Ethel Merman, Jack Haley",,,True
-523,Alexander's Ragtime Band,6.8,3.3,1938,1h 46m,Henry King,"Drama, Musical, Musical, Romance","Bertram Millhauser, Humphrey Pearson","Bette Davis, George Brent, Humphrey Bogart, Geraldine Fitzgerald, Ronald Reagan",False
-524,Boys Town,7.2,3.4,1938,1h 36m,Norman Taurog,"Biografia, Drama, Família","Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
-525,Four Daughters,6.9,3.3,1938,1h 30m,Michael Curtiz,"Drama, Musical, Romance",Frank Wead,"Clark Gable, Myrna Loy, Spencer Tracy, Lionel Barrymore, Melvyn Douglas",False
-526,Grand Illusion,8.1,4.2,1937,1h 53m,Jean Renoir,"Drama, Guerra","Morrie Ryskind, Anthony Veiller","Katharine Hepburn, Ginger Rogers, Adolphe Menjou, Gail Patrick, Andrea Leeds",False
-527,Jezebel,7.4,3.5,1938,1h 44m,William Wyler,"Drama, Romance","Clements Ripley, Abem Finkel, John Huston","Bette Davis, Henry Fonda, George Brent, Margaret Lindsay, Donald Crisp",False
-528,Pygmalion,7.7,3.7,1938,1h 36m,"Anthony Asquith, Leslie Howard","Comédia, Drama, Romance","Jean Renoir, Charles Spaak","Jean Gabin, Dita Parlo, Pierre Fresnay, Erich von Stroheim, Marcel Dalio",False
-529,Test Pilot,6.8,3.4,1938,1h 59m,Victor Fleming,"Drama, Romance","Julius J. Epstein, Philip G. Epstein, Casey Robinson","Priscilla Lane, Rosemary Lane, Lola Lane, Gale Page, John Garfield",False
-530,The Adventures of Robin Hood,7.9,3.9,1938,1h 42m,"Michael Curtiz, William Keighley","Aventura, Ação, Romance","Ian Dalrymple, W.P. Lipscomb, Lewis Galantière","Robert Donat, Rosalind Russell, Ralph Richardson, Rex Harrison, Ben Webster",False
-531,The Citadel,7.0,3.3,1938,1h 50m,King Vidor,Drama,"Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",False
-532,The Life of Emile Zola,7.1,3.3,1937,1h 56m,William Dieterle,"Biografia, Drama","Norman Reilly Raine, Seton I. Miller, Richard Maibaum","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles",True
+522,You Can't Take It with You,7.8,3.8,1938,2h 6m,Frank Capra,"Comédia, Drama, Romance",Robert Riskin,"Jean Arthur, Lionel Barrymore, James Stewart, Edward Arnold, Spring Byington",7,2,True
+523,Alexander's Ragtime Band,6.8,3.3,1938,1h 46m,Henry King,"Drama, Musical, Romance","Kathryn Scola, Lamar Trotti","Tyrone Power, Alice Faye, Don Ameche, Ethel Merman, Jack Haley",6,1,False
+524,Boys Town,7.2,3.4,1938,1h 36m,Norman Taurog,"Biografia, Drama, Família","Dore Schary, Robert E. Sherwood","Spencer Tracy, Mickey Rooney, Leslie Fenton, Gene Reynolds, Edward Norris",5,2,False
+525,Four Daughters,6.9,3.3,1938,1h 30m,Michael Curtiz,"Drama, Musical, Romance","Julius J. Epstein, Lenore J. Coffee","Claude Rains, Jeffrey Lynn, John Garfield, Frank McHugh, May Robson",5,0,False
+526,Grand Illusion,8.1,4.2,1937,1h 53m,Jean Renoir,"Drama, Guerra","Charles Spaak, Jean Renoir","Jean Gabin, Dita Parlo, Pierre Fresnay, Erich von Stroheim, Julien Carette",1,0,False
+527,Jezebel,7.4,3.5,1938,1h 44m,William Wyler,"Drama, Romance","Clements Ripley, Abem Finkel, John Huston","Bette Davis, Henry Fonda, George Brent, Margaret Lindsay, Fay Bainter",5,2,False
+528,Pygmalion,7.7,3.7,1938,1h 36m,"Anthony Asquith, Leslie Howard","Comédia, Drama, Romance",George Bernard Shaw,"Leslie Howard, Wendy Hiller, Wilfrid Lawson, Marie Lohr, Jean Cadell",4,1,False
+529,Test Pilot,6.8,3.4,1938,1h 59m,Victor Fleming,"Drama, Romance","Vincent Lawrence, Waldemar Young","Clark Gable, Myrna Loy, Spencer Tracy, Lionel Barrymore, Marjorie Main",3,0,False
+530,The Adventures of Robin Hood,7.9,3.9,1938,1h 42m,"Michael Curtiz, William Keighley","Aventura, Ação, Romance","Norman Reilly Raine, Seton I. Miller","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles",4,3,False
+531,The Citadel,7.0,3.3,1938,1h 50m,King Vidor,Drama,"Ian Dalrymple, W.P. Lipscomb, Lewis Galantière","Robert Donat, Rosalind Russell, Ralph Richardson, Rex Harrison, Ben Webster",4,0,False
+532,The Life of Emile Zola,7.1,3.3,1937,1h 56m,William Dieterle,"Biografia, Drama","Norman Reilly Raine, Seton I. Miller, Richard Maibaum","Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles",,,True
 533,A Star Is Born,7.3,3.6,1937,1h 51m,"William A. Wellman, Jack Conway, Victor Fleming","Drama, Romance","Dorothy Parker, Alan Campbell, Robert Carson","Janet Gaynor, Fredric March, Adolphe Menjou, May Robson, Andy Devine",False
 534,Captains Courageous,7.9,3.8,1937,1h 57m,Victor Fleming,"Aventura, Drama, Família",Delmer Daves,"Spencer Tracy, Freddie Bartholomew, Lionel Barrymore, Melvyn Douglas, Mickey Rooney",False
 535,Dead End,7.2,3.6,1937,1h 33m,William Wyler,"Drama, Filme noir, Policial, Romance","Lillian Hellman, Sidney Kingsley","Sylvia Sidney, Joel McCrea, Humphrey Bogart, Wendy Barrie, Claire Trevor",False
