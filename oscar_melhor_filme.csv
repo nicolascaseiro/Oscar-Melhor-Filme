@@ -597,16 +597,16 @@
 596,Skippy,6.3,3.2,1931,1h 25m,Norman Taurog,"Comédia, Drama, Família","Joseph L. Mankiewicz, Norman Z. McLeod","Jackie Cooper, Robert Coogan, Mitzi Green, Jackie Searl, Willard Robertson",4,1,False
 597,The Front Page,6.7,3.3,1931,1h 41m,Lewis Milestone,"Comédia, Drama, Mistério, Policial, Romance","Ben Hecht, Charles MacArthur","Adolphe Menjou, Pat O'Brien, Mary Brian, Edward Everett Horton, Walter Catlett",3,0,False
 598,Trader Horn,6.1,2.6,1931,2h 2m,W.S. Van Dyke,"Aventura, Ação, Drama, Romance",Richard Schayer,"Harry Carey, Edwina Booth, Duncan Renaldo, Mutia Omoolu, Olive Carey",1,0,False
-599,All Quiet on the Western Front,8.1,4.2,1930,2h 32m,Lewis Milestone,"Drama, Guerra","Erich Maria Remarque, Maxwell Anderson, George Abbott","Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy, Ben Alexander",True
-600,Disraeli,6.1,2.8,1929,1h 30m,Alfred E. Green,"Biografia, Drama, História",William A. Drake,"Greta Garbo, John Barrymore, Joan Crawford, Wallace Beery, Lionel Barrymore",True
-601,The Big House,7.1,3.5,1930,1h 27m,"George W. Hill, Ward Wing","Drama, Policial, Suspense",Edwin J. Burke,"Sally Eilers, James Dunn, Minna Gombell, John Arledge, Kay Johnson",False
-602,The Divorcee,6.7,3.3,1930,1h 24m,Robert Z. Leonard,"Drama, Romance","Robert Milton, Jane Murfin","Norma Shearer, Chester Morris, Robert Montgomery, Florence Eldridge, Geneva Mitchell",False
-603,The Love Parade,7.0,3.4,1929,1h 47m,Ernst Lubitsch,"Comédia, Musical, Romance","Philip Bartholomae, Waldemar Young","Ann Harding, Clive Brook, H.B. Warner, Cecilia Loftus, Holmes Herbert",False
-604,The Broadway Melody,5.5,2.4,1929,1h 40m,Harry Beaumont,"Drama, Musical, Romance","Walter Anthony, Laurence Stallings","Harry Carey, Edwina Booth, Duncan Renaldo, C. Aubrey Smith, Julanne Johnston",True
-605,Alibi,5.6,2.8,1929,1h 31m,Roland West,"Ação, Policial, Romance","Joseph L. Mankiewicz, Sam Mintz","Jackie Cooper, Robert Coogan, Mitzi Green, Willard Robertson, Enid Bennett",False
-606,In Old Arizona,5.5,2.6,1928,1h 35m,"Irving Cummings, Raoul Walsh","Drama, Faroeste","O. Henry, Tom Barry, Paul Gerard Smith","Edmund Lowe, Warner Baxter, Dorothy Burgess, Henry Armetta, James Bradbury Jr.",False
-607,The Hollywood Revue of 1929,5.7,2.6,1929,2h 10m,"Charles Reisner, Christy Cabanne, Norman Houston","Comédia, Musical","Ben Hecht, Charles MacArthur","Pat O'Brien, Adolphe Menjou, Mary Brian, Edward Everett Horton, Walter Connolly",False
-608,The Patriot,7.2,3.1,1928,1h 53m,Ernst Lubitsch,"Drama, História, Suspense","Robert Milton, Jane Murfin","Norma Shearer, Chester Morris, Robert Montgomery, Florence Eldridge, Geneva Mitchell",False
-609,Wings,7.5,3.8,1927,2h 24m,"William A. Wellman, Harry d'Abbadie d'Arrast","Ação, Drama, Guerra, Romance",John Monk Saunders,"Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston, El Brendel",True
-610,7th Heaven,7.5,3.7,1927,1h 50m,Frank Borzage,"Drama, Romance","Benjamin Glazer, Kenneth Webb","Janet Gaynor, Charles Farrell, Ben Bard, Albert Gran, Olive Borden",False
-611,The Racket,6.6,3.1,1928,1h 24m,Lewis Milestone,"Drama, Filme noir, Policial","Louis N. Parker, James Forbes","George Arliss, Doris Lloyd, Joan Bennett, Florence Arliss, Anthony Bushell",False
+599,All Quiet on the Western Front,8.1,4.2,1930,2h 32m,Lewis Milestone,"Drama, Guerra","Erich Maria Remarque, Maxwell Anderson, George Abbott","Lew Ayres, Louis Wolheim, John Wray, Arnold Lucy, Ben Alexander",4,2,True
+600,Disraeli,6.1,2.8,1929,1h 30m,Alfred E. Green,"Biografia, Drama, História",Julien Josephson,"George Arliss, Doris Lloyd, David Torrence, Joan Bennett, Florence Arliss",3,1,False
+601,The Big House,7.1,3.5,1930,1h 27m,"George W. Hill, Ward Wing","Drama, Policial, Suspense",Frances Marion,"Chester Morris, Wallace Beery, Lewis Stone, Robert Montgomery, Leila Hyams",4,2,False
+602,The Divorcee,6.7,3.3,1930,1h 24m,Robert Z. Leonard,"Drama, Romance","Zelda Sears, John Meehan","Norma Shearer, Chester Morris, Robert Montgomery, Florence Eldridge, Conrad Nagel",4,1,False
+603,The Love Parade,7.0,3.4,1929,1h 47m,Ernst Lubitsch,"Comédia, Musical, Romance","Ernest Vajda, Guy Bolton","Maurice Chevalier, Jeanette MacDonald, Lupino Lane, Lillian Roth, Eugene Pallette",6,0,False
+604,The Broadway Melody,5.5,2.4,1929,1h 40m,Harry Beaumont,"Drama, Musical, Romance","Norman Houston, James Gleason, Edmund Goulding","Charles King, Anita Page, Bessie Love, Eddie Kane, J. Emmett Beck",3,1,True
+605,Alibi,5.6,2.8,1929,1h 31m,Roland West,"Ação, Policial, Romance","Roland West, C. Gardner Sullivan","Chester Morris, Harry Stubbs, Mae Busch, Eleanor Griffith, Irma Harrison",3,0,False
+606,In Old Arizona,5.5,2.6,1928,1h 35m,"Irving Cummings, Raoul Walsh","Drama, Faroeste","O. Henry, Tom Barry, Paul Gerard Smith","Edmund Lowe, Warner Baxter, Dorothy Burgess, Henry Armetta, James Bradbury Jr.",5,1,False
+607,The Hollywood Revue of 1929,5.7,2.6,1929,2h 10m,"Charles Reisner, Christy Cabanne, Norman Houston","Comédia, Musical","Al Boasberg, Robert E. Hopkins","Conrad Nagel, Jack Benny, John Gilbert, Norma Shearer, Joan Crawford",1,0,False
+608,The Patriot,7.2,3.1,1928,1h 53m,Ernst Lubitsch,"Drama, História, Suspense",Hanns Kräly,"Emil Jannings, Florence Vidor, Lewis Stone, Vera Voronina, Neil Hamilton",5,1,False
+609,Wings,7.5,3.8,1927,2h 24m,"William A. Wellman, Harry d'Abbadie d'Arrast","Ação, Drama, Guerra, Romance",John Monk Saunders,"Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston, El Brendel",2,2,True
+610,7th Heaven,7.5,3.7,1927,1h 50m,Frank Borzage,"Drama, Romance","Benjamin Glazer, Kenneth Webb","Janet Gaynor, Charles Farrell, Ben Bard, Albert Gran, Olive Borden",5,3,False
+611,The Racket,6.6,3.1,1928,1h 24m,Lewis Milestone,"Drama, Filme noir, Policial",Bartlett Cormack,"Thomas Meighan, Louis Wolheim, Marie Prevost, Henry Sedley, George E. Stone",1,0,False
