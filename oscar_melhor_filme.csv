@@ -562,18 +562,18 @@
 561,The Informer,7.3,3.7,1935,1h 31m,John Ford,"Drama, Policial",Dudley Nichols,"Victor McLaglen, Heather Angel, Preston Foster, Margot Grahame, Wallace Ford",6,4,False
 562,The Lives of a Bengal Lancer,7.0,3.3,1935,1h 49m,Henry Hathaway,"Aventura, Drama, Guerra","Grover Jones, William Slavens McNutt","Gary Cooper, Franchot Tone, Richard Cromwell, Douglass Montgomery, Guy Kibbee",7,1,False
 563,Top Hat,7.7,3.8,1935,1h 41m,Mark Sandrich,"Comédia, Musical, Romance","Allan Scott, Dwight Taylor","Fred Astaire, Ginger Rogers, Edward Everett Horton, Erik Rhodes, Helen Broderick",4,0,False
-564,It Happened One Night,8.1,4.2,1934,1h 45m,Frank Capra,"Comédia, Romance",Dudley Nichols,"Victor McLaglen, Heather Angel, Preston Foster, Margot Grahame, Wallace Ford",True
-565,Cleopatra,6.8,3.4,1934,1h 40m,Cecil B. DeMille,"Biografia, Drama, História","Waldemar Young, Vincent Lawrence, Bartlett Cormack","Claudette Colbert, Warren William, Henry Wilcoxon, Joseph Schildkraut, Ian Keith",False
-566,Flirtation Walk,5.6,2.9,1934,1h 37m,Frank Borzage,Musical,"Delmer Daves, Louis F. Edelman","Dick Powell, Ruby Keeler, Pat O'Brien, Ross Alexander, John Arledge",False
-567,Here Comes the Navy,6.2,3.0,1934,1h 27m,Lloyd Bacon,"Comédia, Drama, Guerra, Romance",Casey Robinson,"Errol Flynn, Olivia de Havilland, Basil Rathbone, Ross Alexander, Hobart Cavanaugh",False
-568,Imitation of Life,7.5,3.5,1934,1h 51m,John M. Stahl,"Comédia, Drama, Romance","Jack McGowan, Richard Macaulay, Irving Brecher","Jack Benny, Eleanor Powell, Robert Taylor, Una Merkel, Sid Silvers",False
-569,One Night of Love,5.6,2.9,1934,1h 24m,Victor Schertzinger,"Comédia, Musical, Romance","Dorothy Yost, Sarah Y. Mason","Katharine Hepburn, Fred MacMurray, Fred Stone, Frank Albertson, Fred Kohler Jr.",False
-570,The Barretts of Wimpole Street,6.9,3.3,1934,1h 49m,Sidney Franklin,"Biografia, Drama, Romance","Edith Fitzgerald, Ian McLellan Hunter","Norma Shearer, Fredric March, Charles Laughton, Maureen O'Sullivan, Glenn Anders",False
-571,The Gay Divorcee,7.3,3.5,1934,1h 47m,Mark Sandrich,"Comédia, Musical, Romance","Maxwell Anderson, Dorothy Yost, Forrest Halsey","Lionel Barrymore, Myrna Loy, Blanche Sweet, Phillips Holmes, Frank Albertson",False
-572,The House of Rothschild,6.4,3.0,1934,1h 28m,"Alfred L. Werker, Sidney Lanfield","Biografia, Drama, Guerra, História","John Lee Mahin, Lamar Trotti","Wallace Beery, Leo Carrillo, Fay Wray, Donald Cook, Leo G. Carroll",False
-573,The Thin Man,7.9,4.0,1934,1h 31m,W.S. Van Dyke,"Comédia, Mistério, Policial, Romance","Albert Hackett, Frances Goodrich","William Powell, Myrna Loy, Maureen O'Sullivan, Nat Pendleton, Porter Hall",False
-574,The White Parade,6.5,3.3,1934,1h 20m,Irving Cummings,Drama,"Samuel Hoffenstein, George Oppenheimer","Grace Moore, Tullio Carminati, Lyle Talbot, Harry Stockwell, Olive Tell",False
-575,Viva Villa!,6.3,3.1,1934,1h 55m,"Jack Conway, Howard Hawks, William A. Wellman","Biografia, Drama, Faroeste",William Hurlbut,"Claudette Colbert, Warren William, Rochelle Hudson, Louise Beavers, Alan Hale",False
+564,It Happened One Night,8.1,4.2,1934,1h 45m,Frank Capra,"Comédia, Romance",Robert Riskin,"Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Alan Hale",5,5,True
+565,Cleopatra,6.8,3.4,1934,1h 40m,Cecil B. DeMille,"Biografia, Drama, História","Waldemar Young, Vincent Lawrence, Bartlett Cormack","Claudette Colbert, Warren William, Henry Wilcoxon, Joseph Schildkraut, Ian Keith",5,1,False
+566,Flirtation Walk,5.6,2.9,1934,1h 37m,Frank Borzage,Musical,"Delmer Daves, Louis F. Edelman","Dick Powell, Ruby Keeler, Pat O'Brien, Ross Alexander, John Arledge",2,0,False
+567,Here Comes the Navy,6.2,3.0,1934,1h 27m,Lloyd Bacon,"Comédia, Drama, Guerra, Romance","Earl Baldwin, Ben Markson","James Cagney, Pat O'Brien, Gloria Stuart, Frank McHugh, Robert Barrat",1,0,False
+568,Imitation of Life,7.5,3.5,1934,1h 51m,John M. Stahl,"Comédia, Drama, Romance",William Hurlbut,"Claudette Colbert, Warren William, Rochelle Hudson, Ned Sparks, Louise Beavers",3,0,False
+569,One Night of Love,5.6,2.9,1934,1h 24m,Victor Schertzinger,"Comédia, Musical, Romance","S.K. Lauren, James Gow, Edmund H. North","Grace Moore, Tullio Carminati, Lyle Talbot, Mona Barrie, Jessie Ralph",6,2,False
+570,The Barretts of Wimpole Street,6.9,3.3,1934,1h 49m,Sidney Franklin,"Biografia, Drama, Romance","Edith Fitzgerald, Ian McLellan Hunter","Norma Shearer, Fredric March, Charles Laughton, Maureen O'Sullivan, Katharine Alexander",2,0,False
+571,The Gay Divorcee,7.3,3.5,1934,1h 47m,Mark Sandrich,"Comédia, Musical, Romance","George Marion Jr., Dorothy Yost, Edward Kaufman","Fred Astaire, Ginger Rogers, Alice Brady, Edward Everett Horton, Erik Rhodes",5,1,False
+572,The House of Rothschild,6.4,3.0,1934,1h 28m,"Alfred L. Werker, Sidney Lanfield","Biografia, Drama, Guerra, História",Nunnally Johnson,"George Arliss, Boris Karloff, Loretta Young, Robert Young, Arthur Byron",1,0,False
+573,The Thin Man,7.9,4.0,1934,1h 31m,W.S. Van Dyke,"Comédia, Mistério, Policial, Romance","Albert Hackett, Frances Goodrich","William Powell, Myrna Loy, Maureen O'Sullivan, Nat Pendleton, Porter Hall",4,0,False
+574,The White Parade,6.5,3.3,1934,1h 20m,Irving Cummings,Drama,"Rian James, Jesse Lasky Jr.","Loretta Young, John Boles, Dorothy Wilson, Muriel Kirkland, Astrid Allwyn",2,0,False
+575,Viva Villa!,6.3,3.1,1934,1h 55m,"Jack Conway, Howard Hawks, William A. Wellman","Biografia, Drama, Faroeste",Ben Hecht,"Wallace Beery, Leo Carrillo, Fay Wray, Donald Cook, Stuart Erwin",4,1,False
 576,Cavalcade,5.8,2.5,1933,1h 52m,Frank Lloyd,"Drama, Guerra, Romance",Nunnally Johnson,"George Arliss, Loretta Young, Boris Karloff, Henry Travers, Louis Calhern",True
 577,42nd Street,7.3,3.6,1933,1h 29m,Lloyd Bacon,"Comédia, Drama, Musical, Romance","Frank Wead, William Conselman","James Cagney, Pat O'Brien, Gloria Stuart, Frank McHugh, Guy Kibbee",False
 578,A Farewell to Arms,6.4,3.4,1932,1h 20m,Frank Borzage,"Drama, Guerra, Romance",Robert Riskin,"Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns, Jameson Thomas",True
