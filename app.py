@@ -12,7 +12,6 @@ def carregar_dados():
 
 df = carregar_dados()
 
-# Processamento dos dados
 df['década'] = (df['ano'] // 10 * 10).astype('Int64').astype(str) + 's'
 df['diretores_lista'] = df['direção'].fillna('').apply(lambda x: [d.strip() for d in x.split(',') if d.strip() != ''])
 df = df.explode('diretores_lista')
@@ -23,7 +22,6 @@ df = df.explode('atores_lista')
 df['gêneros_lista'] = df['gêneros'].fillna('').apply(lambda x: [g.strip() for g in x.split(',') if g.strip() != ''])
 df = df.explode('gêneros_lista')
 
-# Filtros
 st.sidebar.header("🎬 Filtros")
 
 decadas = sorted(df['década'].dropna().unique())
@@ -49,10 +47,8 @@ if ator_selecionado:
 
 df_filtrado_unico = df_filtrado.drop_duplicates(subset=['título', 'ano'])
 
-# Título
 st.title("🏆 Dashboard dos Filmes do Oscar")
 
-# Métricas principais
 col1, col2, col3, col4, col5 = st.columns(5)
 col1.metric("🎬 Total de Filmes", df_filtrado_unico.shape[0])
 col2.metric("⭐ Nota Média do IMDb dos Filmes", f"{df_filtrado_unico['nota_imdb'].mean():.2f}")
@@ -62,7 +58,6 @@ col5.metric("🏅 Total de Vitórias", int(df_filtrado_unico['vitórias'].sum())
 
 st.markdown("---")
 
-# Gráfico de barras: Nota Média IMDb por Gênero
 df_grafico = df_filtrado.groupby('gêneros_lista')['nota_imdb'].mean().reset_index()
 
 fig = px.bar(
@@ -76,35 +71,32 @@ fig = px.bar(
     text=df_grafico['nota_imdb'].round(2)
 )
 
-# Rótulos, bordas das barras e texto em preto
 fig.update_traces(
     textposition='outside',
     marker_line_width=1.5,
     marker_line_color='black',
-    textfont=dict(color='black')  # Cor dos textos nas barras
+    textfont=dict(color='black')
 )
 
-# Layout geral com todos os textos em preto
 fig.update_layout(
     plot_bgcolor='white',
-    title_font=dict(size=22, family='Verdana', color='black'),  # Cor do título
+    title_font=dict(size=22, family='Verdana', color='black'),
     xaxis_tickangle=-45,
-    xaxis_title_font=dict(size=16, color='black'),  # Cor do título do eixo X
-    yaxis_title_font=dict(size=16, color='black'),  # Cor do título do eixo Y
+    xaxis_title_font=dict(size=16, color='black'),
+    yaxis_title_font=dict(size=16, color='black'),
     yaxis=dict(
         range=[0, df_grafico['nota_imdb'].max() + 1],
-        tickfont=dict(color='black')  # Cor dos valores do eixo Y
+        tickfont=dict(color='black')
     ),
     margin=dict(l=40, r=40, t=100, b=100),
-    font=dict(color='black'),  # Cor de todo o texto do gráfico
-    xaxis=dict(tickfont=dict(color='black'))  # Cor dos valores do eixo X
+    font=dict(color='black'),
+    xaxis=dict(tickfont=dict(color='black'))
 )
 
 st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
 
-# Tabela de filmes com formatação para manter casas decimais
 colunas_exibir = [
     'título', 'ano', 'gêneros', 'direção',
     'nota_imdb', 'nota_letterboxd', 'indicações', 'vitórias', 'venceu_melhor_filme'
@@ -112,7 +104,7 @@ colunas_exibir = [
 
 df_tabela_formatada = df_filtrado_unico[colunas_exibir].copy()
 df_tabela_formatada['nota_letterboxd'] = df_tabela_formatada['nota_letterboxd'].map(lambda x: f"{x:.1f}" if pd.notnull(x) else "-")
-df_tabela_formatada['nota_imdb'] = df_tabela_formatada['nota_imdb'].map(lambda x: f"{x:.2f}" if pd.notnull(x) else "-")
+df_tabela_formatada['nota_imdb'] = df_tabela_formatada['nota_imdb'].map(lambda x: f"{x:.1f}" if pd.notnull(x) else "-")
 
 st.subheader("📋 Tabela de Filmes")
 st.dataframe(df_tabela_formatada)
