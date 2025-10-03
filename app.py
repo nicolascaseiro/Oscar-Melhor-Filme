@@ -75,7 +75,7 @@ fig.update_traces(
     textposition='outside',
     marker_line_width=1.5,
     marker_line_color='black',
-    textfont=dict(color='black')  # texto no topo em preto
+    textfont=dict(color='black')
 )
 
 fig.update_layout(
@@ -84,8 +84,8 @@ fig.update_layout(
     xaxis_tickangle=-45,
     xaxis_title_font=dict(size=16),
     yaxis_title_font=dict(size=16),
-    yaxis=dict(range=[0, df_grafico['nota_imdb'].max() + 1]),  # espaço extra no eixo Y
-    margin=dict(l=40, r=40, t=100, b=100)  # margem superior maior para não cortar texto
+    yaxis=dict(range=[0, df_grafico['nota_imdb'].max() + 1]),
+    margin=dict(l=40, r=40, t=100, b=100)
 )
 
 st.plotly_chart(fig, use_container_width=True)
