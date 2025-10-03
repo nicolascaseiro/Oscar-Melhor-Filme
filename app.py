@@ -20,7 +20,7 @@ df['diretores_lista'] = df['direção'].fillna('').apply(lambda x: [d.strip() fo
 df_explodido_diretores = df.explode('diretores_lista')
 
 # Corrigir atores múltiplos (nova coluna e separação)
-df_explodido_diretores['atores_lista'] = df_explodido_diretores['atores'].fillna('').apply(lambda x: [a.strip() for a in x.split(',') if a.strip() != ''])
+df_explodido_diretores['atores_lista'] = df_explodido_diretores['elenco_principal'].fillna('').apply(lambda x: [a.strip() for a in x.split(',') if a.strip() != ''])
 df_explodido = df_explodido_diretores.explode('atores_lista')
 
 # Corrigir gêneros múltiplos
