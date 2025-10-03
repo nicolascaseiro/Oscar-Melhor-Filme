@@ -34,6 +34,11 @@ genero_selecionado = st.sidebar.multiselect("Gênero", generos)
 diretor_selecionado = st.sidebar.multiselect("Diretor", diretores)
 ator_selecionado = st.sidebar.multiselect("Ator/Atriz", atores)
 
+filtro_vencedor = st.sidebar.radio(
+    "Mostrar Filmes:",
+    ("Somente Vencedores", "Somente Não Vencedores")
+)
+
 df_filtrado = df.copy()
 
 if decada_selecionada:
@@ -44,6 +49,11 @@ if diretor_selecionado:
     df_filtrado = df_filtrado[df_filtrado['diretores_lista'].isin(diretor_selecionado)]
 if ator_selecionado:
     df_filtrado = df_filtrado[df_filtrado['atores_lista'].isin(ator_selecionado)]
+
+if filtro_vencedor == "Somente Vencedores":
+    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == True]
+elif filtro_vencedor == "Somente Não Vencedores":
+    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == False]
 
 df_filtrado_unico = df_filtrado.drop_duplicates(subset=['título', 'ano'])
 
@@ -106,5 +116,7 @@ df_tabela_formatada = df_filtrado_unico[colunas_exibir].copy()
 df_tabela_formatada['nota_letterboxd'] = df_tabela_formatada['nota_letterboxd'].map(lambda x: f"{x:.1f}" if pd.notnull(x) else "-")
 df_tabela_formatada['nota_imdb'] = df_tabela_formatada['nota_imdb'].map(lambda x: f"{x:.1f}" if pd.notnull(x) else "-")
 
+df_tabela_formatada['Pôster'] = df_tabela_formatada['link_poster'].apply(lambda x: f'<img src="{x}" width="100" height="150">')
+
 st.subheader("📋 Tabela de Filmes")
-st.dataframe(df_tabela_formatada)
+st.markdown(df_tabela_formatada.to_html(escape=False), unsafe_allow_html=True)
