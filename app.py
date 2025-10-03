@@ -12,7 +12,6 @@ def carregar_dados():
 
 df = carregar_dados()
 
-# Processamento dos dados
 df['década'] = (df['ano'] // 10 * 10).astype('Int64').astype(str) + 's'
 df['diretores_lista'] = df['direção'].fillna('').apply(lambda x: [d.strip() for d in x.split(',') if d.strip() != ''])
 df = df.explode('diretores_lista')
@@ -23,7 +22,6 @@ df = df.explode('atores_lista')
 df['gêneros_lista'] = df['gêneros'].fillna('').apply(lambda x: [g.strip() for g in x.split(',') if g.strip() != ''])
 df = df.explode('gêneros_lista')
 
-# Filtros
 st.sidebar.header("🎬 Filtros")
 
 decadas = sorted(df['década'].dropna().unique())
@@ -36,15 +34,8 @@ genero_selecionado = st.sidebar.multiselect("Gênero", generos)
 diretor_selecionado = st.sidebar.multiselect("Diretor", diretores)
 ator_selecionado = st.sidebar.multiselect("Ator/Atriz", atores)
 
-# Filtro de Vencedores ou Não Vencedores
-filtro_vencedor = st.sidebar.radio(
-    "Mostrar Filmes:",
-    ("Somente Vencedores", "Somente Não Vencedores")
-)
-
 df_filtrado = df.copy()
 
-# Aplicar os filtros selecionados
 if decada_selecionada:
     df_filtrado = df_filtrado[df_filtrado['década'].isin(decada_selecionada)]
 if genero_selecionado:
@@ -54,15 +45,8 @@ if diretor_selecionado:
 if ator_selecionado:
     df_filtrado = df_filtrado[df_filtrado['atores_lista'].isin(ator_selecionado)]
 
-# Filtro de Vencedores
-if filtro_vencedor == "Somente Vencedores":
-    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == True]
-elif filtro_vencedor == "Somente Não Vencedores":
-    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == False]
-
 df_filtrado_unico = df_filtrado.drop_duplicates(subset=['título', 'ano'])
 
-# Exibição de Métricas
 st.title("🏆 Dashboard dos Filmes do Oscar")
 
 col1, col2, col3, col4, col5 = st.columns(5)
@@ -74,7 +58,6 @@ col5.metric("🏅 Total de Vitórias", int(df_filtrado_unico['vitórias'].sum())
 
 st.markdown("---")
 
-# Gráfico de Nota Média IMDb por Gênero
 df_grafico = df_filtrado.groupby('gêneros_lista')['nota_imdb'].mean().reset_index()
 
 fig = px.bar(
@@ -114,7 +97,6 @@ st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
 
-# Exibição de Tabela com Pôsteres (Se você tiver links para os pôsteres)
 colunas_exibir = [
     'título', 'ano', 'gêneros', 'direção',
     'nota_imdb', 'nota_letterboxd', 'indicações', 'vitórias', 'venceu_melhor_filme'
@@ -124,9 +106,5 @@ df_tabela_formatada = df_filtrado_unico[colunas_exibir].copy()
 df_tabela_formatada['nota_letterboxd'] = df_tabela_formatada['nota_letterboxd'].map(lambda x: f"{x:.1f}" if pd.notnull(x) else "-")
 df_tabela_formatada['nota_imdb'] = df_tabela_formatada['nota_imdb'].map(lambda x: f"{x:.1f}" if pd.notnull(x) else "-")
 
-# Supondo que você tenha a coluna 'link_poster' com os URLs das imagens dos pôsteres
-df_tabela_formatada['Pôster'] = df_tabela_formatada['link_poster'].apply(lambda x: f'<img src="{x}" width="100" height="150">')
-
-# Exibindo a tabela
 st.subheader("📋 Tabela de Filmes")
-st.markdown(df_tabela_formatada.to_html(escape=False), unsafe_allow_html=True)
+st.dataframe(df_tabela_formatada)
