@@ -2,52 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Definindo os temas light e dark
-def aplicar_tema(dark_mode):
-    if dark_mode:
-        st.markdown(
-            """
-            <style>
-            body {
-                background-color: #121212;
-                color: white;
-            }
-            .stButton>button {
-                background-color: #6200EE;
-                color: white;
-            }
-            .css-1d391kg {
-                background-color: #333;
-            }
-            </style>
-            """, unsafe_allow_html=True)
-    else:
-        st.markdown(
-            """
-            <style>
-            body {
-                background-color: white;
-                color: black;
-            }
-            .stButton>button {
-                background-color: #6200EE;
-                color: white;
-            }
-            .css-1d391kg {
-                background-color: #f4f4f4;
-            }
-            </style>
-            """, unsafe_allow_html=True)
-
-# Sidebar para o controle de modo
-dark_mode = st.sidebar.checkbox("Ativar Modo Escuro (Dark Mode)")
-
-# Aplicando o tema escolhido
-aplicar_tema(dark_mode)
-
 st.set_page_config(page_title="Dashboard - Filmes do Oscar", layout="wide")
 
-# Carregar dados
 @st.cache_data
 def carregar_dados():
     url = "https://raw.githubusercontent.com/nicolascaseiro/Oscar-Melhor-Filme/refs/heads/main/oscar_melhor_filme.csv"
@@ -130,14 +86,14 @@ fig.update_traces(
 
 # Layout geral com todos os textos em preto
 fig.update_layout(
-    plot_bgcolor='white' if not dark_mode else '#121212',
-    title_font=dict(size=22, family='Verdana', color='black' if not dark_mode else 'white'),
+    plot_bgcolor='white',
+    title_font=dict(size=22, family='Verdana'),
     xaxis_tickangle=-45,
-    xaxis_title_font=dict(size=16, color='black' if not dark_mode else 'white'),
-    yaxis_title_font=dict(size=16, color='black' if not dark_mode else 'white'),
+    xaxis_title_font=dict(size=16),
+    yaxis_title_font=dict(size=16),
     yaxis=dict(range=[0, df_grafico['nota_imdb'].max() + 1]),
     margin=dict(l=40, r=40, t=100, b=100),
-    font=dict(color='black' if not dark_mode else 'white')  # cor preta ou branca para todo o texto
+    font=dict(color='black')  # cor preta para todos os textos do gráfico
 )
 
 st.plotly_chart(fig, use_container_width=True)
