@@ -64,8 +64,8 @@ st.title("🏆 Dashboard dos Filmes do Oscar")
 
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("🎬 Total de Filmes", df_filtrado_unico.shape[0])
-col2.metric("⭐ Média IMDb", f"{df_filtrado_unico['nota_imdb'].mean():.2f}")
-col3.metric("🎥 Diretores Únicos", df_filtrado_unico['diretores_lista'].nunique())
+col2.metric("⭐ Média IMDb dos Filmes", f"{df_filtrado_unico['nota_imdb'].mean():.2f}")
+col3.metric("🎥 Diretores Diferentes", df_filtrado_unico['diretores_lista'].nunique())
 col4.metric("🏅 Total de Vitórias", int(df_filtrado_unico['vitórias'].sum()))
 
 st.markdown("---")
