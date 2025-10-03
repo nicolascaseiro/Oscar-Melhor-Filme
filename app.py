@@ -62,7 +62,7 @@ col1.metric("🎬 Total de Filmes", df_filtrado_unico.shape[0])
 col2.metric("⭐ Nota Média do IMDb dos Filmes", f"{df_filtrado_unico['nota_imdb'].mean():.2f}")
 col3.metric("🎞️ Nota Média do Letterboxd dos Filmes", f"{df_filtrado_unico['nota_letterboxd'].mean():.2f}")
 col4.metric("🎥 Diretores Diferentes", df_filtrado_unico['diretores_lista'].nunique())
-col5.metric("🏅 Total de Vitórias", int(df_filtrado_unico['vitórias'].sum()))
+col5.metric("🏅 Total de Vitórias (todas categorias)", int(df_filtrado_unico['vitórias'].sum()))
 
 st.markdown("---")
 
