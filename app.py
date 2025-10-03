@@ -13,7 +13,6 @@ def carregar_dados():
 df = carregar_dados()
 
 df['década'] = (df['ano'] // 10 * 10).astype('Int64').astype(str) + 's'
-
 df['diretores_lista'] = df['direção'].fillna('').apply(lambda x: [d.strip() for d in x.split(',') if d.strip() != ''])
 df = df.explode('diretores_lista')
 
@@ -39,13 +38,10 @@ df_filtrado = df.copy()
 
 if decada_selecionada:
     df_filtrado = df_filtrado[df_filtrado['década'].isin(decada_selecionada)]
-
 if genero_selecionado:
     df_filtrado = df_filtrado[df_filtrado['gêneros_lista'].isin(genero_selecionado)]
-
 if diretor_selecionado:
     df_filtrado = df_filtrado[df_filtrado['diretores_lista'].isin(diretor_selecionado)]
-
 if ator_selecionado:
     df_filtrado = df_filtrado[df_filtrado['atores_lista'].isin(ator_selecionado)]
 
@@ -75,14 +71,21 @@ fig = px.bar(
     text=df_grafico['nota_imdb'].round(2)
 )
 
-fig.update_traces(textposition='outside', marker_line_width=1.5, marker_line_color='black')
+fig.update_traces(
+    textposition='outside',
+    marker_line_width=1.5,
+    marker_line_color='black',
+    textfont=dict(color='black')  # texto no topo em preto
+)
+
 fig.update_layout(
     plot_bgcolor='white',
     title_font=dict(size=22, family='Verdana'),
     xaxis_tickangle=-45,
     xaxis_title_font=dict(size=16),
     yaxis_title_font=dict(size=16),
-    margin=dict(l=40, r=40, t=80, b=100)
+    yaxis=dict(range=[0, df_grafico['nota_imdb'].max() + 1]),  # espaço extra no eixo Y
+    margin=dict(l=40, r=40, t=100, b=100)  # margem superior maior para não cortar texto
 )
 
 st.plotly_chart(fig, use_container_width=True)
@@ -93,5 +96,6 @@ colunas_exibir = [
     'título', 'ano', 'gêneros', 'direção',
     'nota_imdb', 'nota_letterboxd', 'indicações', 'vitórias', 'venceu_melhor_filme'
 ]
+
 st.subheader("📋 Tabela de Filmes")
 st.dataframe(df_filtrado_unico[colunas_exibir])
