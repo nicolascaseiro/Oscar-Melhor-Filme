@@ -34,8 +34,8 @@ genero_selecionado = st.sidebar.multiselect("Gênero", generos)
 diretor_selecionado = st.sidebar.multiselect("Diretor", diretores)
 ator_selecionado = st.sidebar.multiselect("Ator/Atriz", atores)
 
-# Adicionar o filtro para 'venceu_melhor_filme'
-venceu_filme_selecionado = st.sidebar.selectbox("Venceu Melhor Filme", ['Todos', 'Sim', 'Não'])
+# Adicionar o filtro para 'venceu_melhor_filme' com apenas "Sim" ou "Não"
+venceu_filme_selecionado = st.sidebar.selectbox("Venceu Melhor Filme", ['Sim', 'Não'])
 
 df_filtrado = df.copy()
 
