@@ -2,8 +2,52 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+# Definindo os temas light e dark
+def aplicar_tema(dark_mode):
+    if dark_mode:
+        st.markdown(
+            """
+            <style>
+            body {
+                background-color: #121212;
+                color: white;
+            }
+            .stButton>button {
+                background-color: #6200EE;
+                color: white;
+            }
+            .css-1d391kg {
+                background-color: #333;
+            }
+            </style>
+            """, unsafe_allow_html=True)
+    else:
+        st.markdown(
+            """
+            <style>
+            body {
+                background-color: white;
+                color: black;
+            }
+            .stButton>button {
+                background-color: #6200EE;
+                color: white;
+            }
+            .css-1d391kg {
+                background-color: #f4f4f4;
+            }
+            </style>
+            """, unsafe_allow_html=True)
+
+# Sidebar para o controle de modo
+dark_mode = st.sidebar.checkbox("Ativar Modo Escuro (Dark Mode)")
+
+# Aplicando o tema escolhido
+aplicar_tema(dark_mode)
+
 st.set_page_config(page_title="Dashboard - Filmes do Oscar", layout="wide")
 
+# Carregar dados
 @st.cache_data
 def carregar_dados():
     url = "https://raw.githubusercontent.com/nicolascaseiro/Oscar-Melhor-Filme/refs/heads/main/oscar_melhor_filme.csv"
@@ -12,6 +56,7 @@ def carregar_dados():
 
 df = carregar_dados()
 
+# Processamento dos dados
 df['década'] = (df['ano'] // 10 * 10).astype('Int64').astype(str) + 's'
 df['diretores_lista'] = df['direção'].fillna('').apply(lambda x: [d.strip() for d in x.split(',') if d.strip() != ''])
 df = df.explode('diretores_lista')
@@ -22,6 +67,7 @@ df = df.explode('atores_lista')
 df['gêneros_lista'] = df['gêneros'].fillna('').apply(lambda x: [g.strip() for g in x.split(',') if g.strip() != ''])
 df = df.explode('gêneros_lista')
 
+# Filtros
 st.sidebar.header("🎬 Filtros")
 
 decadas = sorted(df['década'].dropna().unique())
@@ -47,8 +93,10 @@ if ator_selecionado:
 
 df_filtrado_unico = df_filtrado.drop_duplicates(subset=['título', 'ano'])
 
+# Título
 st.title("🏆 Dashboard dos Filmes do Oscar")
 
+# Métricas principais
 col1, col2, col3, col4, col5 = st.columns(5)
 col1.metric("🎬 Total de Filmes", df_filtrado_unico.shape[0])
 col2.metric("⭐ Nota Média do IMDb dos Filmes", f"{df_filtrado_unico['nota_imdb'].mean():.2f}")
@@ -58,6 +106,7 @@ col5.metric("🏅 Total de Vitórias", int(df_filtrado_unico['vitórias'].sum())
 
 st.markdown("---")
 
+# Gráfico de barras: Nota Média IMDb por Gênero
 df_grafico = df_filtrado.groupby('gêneros_lista')['nota_imdb'].mean().reset_index()
 
 fig = px.bar(
@@ -71,31 +120,39 @@ fig = px.bar(
     text=df_grafico['nota_imdb'].round(2)
 )
 
+# Rótulos, bordas das barras e texto em preto
 fig.update_traces(
     textposition='outside',
     marker_line_width=1.5,
     marker_line_color='black',
-    textfont=dict(color='black')
+    textfont=dict(color='black')  # cor dos textos nas barras
 )
 
+# Layout geral com todos os textos em preto
 fig.update_layout(
-    plot_bgcolor='white',
-    title_font=dict(size=22, family='Verdana'),
+    plot_bgcolor='white' if not dark_mode else '#121212',
+    title_font=dict(size=22, family='Verdana', color='black' if not dark_mode else 'white'),
     xaxis_tickangle=-45,
-    xaxis_title_font=dict(size=16),
-    yaxis_title_font=dict(size=16),
+    xaxis_title_font=dict(size=16, color='black' if not dark_mode else 'white'),
+    yaxis_title_font=dict(size=16, color='black' if not dark_mode else 'white'),
     yaxis=dict(range=[0, df_grafico['nota_imdb'].max() + 1]),
-    margin=dict(l=40, r=40, t=100, b=100)
+    margin=dict(l=40, r=40, t=100, b=100),
+    font=dict(color='black' if not dark_mode else 'white')  # cor preta ou branca para todo o texto
 )
 
 st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
 
+# Tabela de filmes com formatação para manter casas decimais
 colunas_exibir = [
     'título', 'ano', 'gêneros', 'direção',
     'nota_imdb', 'nota_letterboxd', 'indicações', 'vitórias', 'venceu_melhor_filme'
 ]
 
+df_tabela_formatada = df_filtrado_unico[colunas_exibir].copy()
+df_tabela_formatada['nota_letterboxd'] = df_tabela_formatada['nota_letterboxd'].map(lambda x: f"{x:.1f}" if pd.notnull(x) else "-")
+df_tabela_formatada['nota_imdb'] = df_tabela_formatada['nota_imdb'].map(lambda x: f"{x:.2f}" if pd.notnull(x) else "-")
+
 st.subheader("📋 Tabela de Filmes")
-st.dataframe(df_filtrado_unico[colunas_exibir])
+st.dataframe(df_tabela_formatada)
