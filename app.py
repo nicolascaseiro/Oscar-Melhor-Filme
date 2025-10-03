@@ -81,19 +81,21 @@ fig.update_traces(
     textposition='outside',
     marker_line_width=1.5,
     marker_line_color='black',
-    textfont=dict(color='black')  # cor dos textos nas barras
+    textfont=dict(color='black')  # Cor dos textos nas barras
 )
 
 # Layout geral com todos os textos em preto
 fig.update_layout(
     plot_bgcolor='white',
-    title_font=dict(size=22, family='Verdana'),
+    title_font=dict(size=22, family='Verdana', color='black'),  # Cor do título
     xaxis_tickangle=-45,
-    xaxis_title_font=dict(size=16),
-    yaxis_title_font=dict(size=16),
+    xaxis_title_font=dict(size=16, color='black'),  # Cor do título do eixo X
+    yaxis_title_font=dict(size=16, color='black'),  # Cor do título do eixo Y
     yaxis=dict(range=[0, df_grafico['nota_imdb'].max() + 1]),
     margin=dict(l=40, r=40, t=100, b=100),
-    font=dict(color='black')  # cor preta para todos os textos do gráfico
+    font=dict(color='black'),  # Cor de todo o texto do gráfico
+    xaxis=dict(tickfont=dict(color='black')),  # Cor dos valores do eixo X
+    yaxis=dict(tickfont=dict(color='black'))  # Cor dos valores do eixo Y
 )
 
 st.plotly_chart(fig, use_container_width=True)
