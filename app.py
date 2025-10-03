@@ -29,11 +29,13 @@ generos = sorted(df['gêneros_lista'].dropna().unique())
 diretores = sorted(df['diretores_lista'].dropna().unique())
 atores = sorted(df['atores_lista'].dropna().unique())
 
-
 decada_selecionada = st.sidebar.multiselect("Década", decadas)
 genero_selecionado = st.sidebar.multiselect("Gênero", generos)
 diretor_selecionado = st.sidebar.multiselect("Diretor", diretores)
 ator_selecionado = st.sidebar.multiselect("Ator/Atriz", atores)
+
+# Adicionar o filtro para 'venceu_melhor_filme'
+venceu_filme_selecionado = st.sidebar.selectbox("Venceu Melhor Filme", ['Todos', 'Sim', 'Não'])
 
 df_filtrado = df.copy()
 
@@ -45,6 +47,12 @@ if diretor_selecionado:
     df_filtrado = df_filtrado[df_filtrado['diretores_lista'].isin(diretor_selecionado)]
 if ator_selecionado:
     df_filtrado = df_filtrado[df_filtrado['atores_lista'].isin(ator_selecionado)]
+
+# Filtrar os dados com base na seleção do filtro 'venceu_melhor_filme'
+if venceu_filme_selecionado == 'Sim':
+    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == True]
+elif venceu_filme_selecionado == 'Não':
+    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == False]
 
 df_filtrado_unico = df_filtrado.drop_duplicates(subset=['título', 'ano'])
 
