@@ -91,11 +91,13 @@ fig.update_layout(
     xaxis_tickangle=-45,
     xaxis_title_font=dict(size=16, color='black'),  # Cor do título do eixo X
     yaxis_title_font=dict(size=16, color='black'),  # Cor do título do eixo Y
-    yaxis=dict(range=[0, df_grafico['nota_imdb'].max() + 1]),
+    yaxis=dict(
+        range=[0, df_grafico['nota_imdb'].max() + 1],
+        tickfont=dict(color='black')  # Cor dos valores do eixo Y
+    ),
     margin=dict(l=40, r=40, t=100, b=100),
     font=dict(color='black'),  # Cor de todo o texto do gráfico
-    xaxis=dict(tickfont=dict(color='black')),  # Cor dos valores do eixo X
-    yaxis=dict(tickfont=dict(color='black'))  # Cor dos valores do eixo Y
+    xaxis=dict(tickfont=dict(color='black'))  # Cor dos valores do eixo X
 )
 
 st.plotly_chart(fig, use_container_width=True)
