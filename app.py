@@ -1,3 +1,5 @@
+%%writefile app.py
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -12,35 +14,48 @@ def carregar_dados():
 
 df = carregar_dados()
 
-df['década'] = (df['ano'] // 10 * 10).astype('Int64').astype(str) + 's'
-df['diretores_lista'] = df['direção'].fillna('').apply(lambda x: [d.strip() for d in x.split(',') if d.strip() != ''])
-df = df.explode('diretores_lista')
-
-df['atores_lista'] = df['elenco_principal'].fillna('').apply(lambda x: [a.strip() for a in x.split(',') if a.strip() != ''])
-df = df.explode('atores_lista')
-
-df['gêneros_lista'] = df['gêneros'].fillna('').apply(lambda x: [g.strip() for g in x.split(',') if g.strip() != ''])
-df = df.explode('gêneros_lista')
-
+# Sidebar - Filtros
 st.sidebar.header("🎬 Filtros")
 
-decadas = sorted(df['década'].dropna().unique())
-generos = sorted(df['gêneros_lista'].dropna().unique())
-diretores = sorted(df['diretores_lista'].dropna().unique())
-atores = sorted(df['atores_lista'].dropna().unique())
+# Filtro: Venceu Melhor Filme
+venceu_oscar = st.sidebar.selectbox(
+    "Venceu Melhor Filme?",
+    options=["Todos", "Sim", "Não"],
+    index=0
+)
+
+# Aplicar filtro antes dos explode
+df_base = df.copy()
+
+if venceu_oscar == "Sim":
+    df_base = df_base[df_base['venceu_melhor_filme'] == True]
+elif venceu_oscar == "Não":
+    df_base = df_base[df_base['venceu_melhor_filme'] == False]
+
+# Adiciona colunas auxiliares e explode listas
+df_base['década'] = (df_base['ano'] // 10 * 10).astype('Int64').astype(str) + 's'
+df_base['diretores_lista'] = df_base['direção'].fillna('').apply(lambda x: [d.strip() for d in x.split(',') if d.strip()])
+df_base = df_base.explode('diretores_lista')
+
+df_base['atores_lista'] = df_base['elenco_principal'].fillna('').apply(lambda x: [a.strip() for a in x.split(',') if a.strip()])
+df_base = df_base.explode('atores_lista')
+
+df_base['gêneros_lista'] = df_base['gêneros'].fillna('').apply(lambda x: [g.strip() for g in x.split(',') if g.strip()])
+df_base = df_base.explode('gêneros_lista')
+
+# Sidebar - Filtros adicionais
+decadas = sorted(df_base['década'].dropna().unique())
+generos = sorted(df_base['gêneros_lista'].dropna().unique())
+diretores = sorted(df_base['diretores_lista'].dropna().unique())
+atores = sorted(df_base['atores_lista'].dropna().unique())
 
 decada_selecionada = st.sidebar.multiselect("Década", decadas)
 genero_selecionado = st.sidebar.multiselect("Gênero", generos)
 diretor_selecionado = st.sidebar.multiselect("Diretor", diretores)
 ator_selecionado = st.sidebar.multiselect("Ator/Atriz", atores)
 
-venceu_oscar = st.sidebar.selectbox(
-    "Filmes",
-    options=["Todos", "Vencedores de Melhor Filme", "Indicados a Melhor Filme"],
-    index=0
-)
-
-df_filtrado = df.copy()
+# Aplicação dos filtros
+df_filtrado = df_base.copy()
 
 if decada_selecionada:
     df_filtrado = df_filtrado[df_filtrado['década'].isin(decada_selecionada)]
@@ -50,13 +65,10 @@ if diretor_selecionado:
     df_filtrado = df_filtrado[df_filtrado['diretores_lista'].isin(diretor_selecionado)]
 if ator_selecionado:
     df_filtrado = df_filtrado[df_filtrado['atores_lista'].isin(ator_selecionado)]
-if venceu_oscar == "Sim":
-    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == True]
-elif venceu_oscar == "Não":
-    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == False]
 
 df_filtrado_unico = df_filtrado.drop_duplicates(subset=['título', 'ano'])
 
+# Título e Métricas
 st.title("🏆 Dashboard dos Filmes do Oscar")
 
 col1, col2, col3, col4, col5 = st.columns(5)
@@ -68,6 +80,7 @@ col5.metric("🏅 Total de Vitórias (todas categorias)", int(df_filtrado_unico[
 
 st.markdown("---")
 
+# Gráfico: Nota média por gênero
 df_grafico = df_filtrado.groupby('gêneros_lista')['nota_imdb'].mean().reset_index()
 
 fig = px.bar(
@@ -107,6 +120,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
 
+# Tabela de filmes
 colunas_exibir = [
     'título', 'ano', 'gêneros', 'direção',
     'nota_imdb', 'nota_letterboxd', 'indicações', 'vitórias', 'venceu_melhor_filme'
