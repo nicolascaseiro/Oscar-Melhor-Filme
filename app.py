@@ -34,6 +34,12 @@ genero_selecionado = st.sidebar.multiselect("Gênero", generos)
 diretor_selecionado = st.sidebar.multiselect("Diretor", diretores)
 ator_selecionado = st.sidebar.multiselect("Ator/Atriz", atores)
 
+venceu_oscar = st.sidebar.selectbox(
+    "Filmes",
+    options=["Todos", "Vencedores de Melhor Filme", "Indicados a Melhor Filme"],
+    index=0
+)
+
 df_filtrado = df.copy()
 
 if decada_selecionada:
@@ -44,6 +50,10 @@ if diretor_selecionado:
     df_filtrado = df_filtrado[df_filtrado['diretores_lista'].isin(diretor_selecionado)]
 if ator_selecionado:
     df_filtrado = df_filtrado[df_filtrado['atores_lista'].isin(ator_selecionado)]
+if venceu_oscar == "Sim":
+    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == True]
+elif venceu_oscar == "Não":
+    df_filtrado = df_filtrado[df_filtrado['venceu_melhor_filme'] == False]
 
 df_filtrado_unico = df_filtrado.drop_duplicates(subset=['título', 'ano'])
 
