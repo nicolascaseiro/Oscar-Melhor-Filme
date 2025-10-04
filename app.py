@@ -12,25 +12,21 @@ def carregar_dados():
 
 df = carregar_dados()
 
-# Sidebar - Filtros
 st.sidebar.header("🎬 Filtros")
 
-# Filtro: Venceu Melhor Filme
 venceu_oscar = st.sidebar.selectbox(
-    "Venceu Melhor Filme?",
-    options=["Todos", "Sim", "Não"],
+    "Filmes",
+    options=["Todos", "Vencedores de Melhor Filme", "Indicados a Melhor Filme"],
     index=0
 )
 
-# Aplicar filtro antes dos explode
 df_base = df.copy()
 
-if venceu_oscar == "Sim":
+if venceu_oscar == "Vencedores de Melhor Filme":
     df_base = df_base[df_base['venceu_melhor_filme'] == True]
-elif venceu_oscar == "Não":
+elif venceu_oscar == "Indicados a Melhor Filme":
     df_base = df_base[df_base['venceu_melhor_filme'] == False]
 
-# Adiciona colunas auxiliares e explode listas
 df_base['década'] = (df_base['ano'] // 10 * 10).astype('Int64').astype(str) + 's'
 df_base['diretores_lista'] = df_base['direção'].fillna('').apply(lambda x: [d.strip() for d in x.split(',') if d.strip()])
 df_base = df_base.explode('diretores_lista')
@@ -41,7 +37,6 @@ df_base = df_base.explode('atores_lista')
 df_base['gêneros_lista'] = df_base['gêneros'].fillna('').apply(lambda x: [g.strip() for g in x.split(',') if g.strip()])
 df_base = df_base.explode('gêneros_lista')
 
-# Sidebar - Filtros adicionais
 decadas = sorted(df_base['década'].dropna().unique())
 generos = sorted(df_base['gêneros_lista'].dropna().unique())
 diretores = sorted(df_base['diretores_lista'].dropna().unique())
@@ -52,7 +47,6 @@ genero_selecionado = st.sidebar.multiselect("Gênero", generos)
 diretor_selecionado = st.sidebar.multiselect("Diretor", diretores)
 ator_selecionado = st.sidebar.multiselect("Ator/Atriz", atores)
 
-# Aplicação dos filtros
 df_filtrado = df_base.copy()
 
 if decada_selecionada:
@@ -78,7 +72,6 @@ col5.metric("🏅 Total de Vitórias (todas categorias)", int(df_filtrado_unico[
 
 st.markdown("---")
 
-# Gráfico: Nota média por gênero
 df_grafico = df_filtrado.groupby('gêneros_lista')['nota_imdb'].mean().reset_index()
 
 fig = px.bar(
@@ -118,7 +111,6 @@ st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
 
-# Tabela de filmes
 colunas_exibir = [
     'título', 'ano', 'gêneros', 'direção',
     'nota_imdb', 'nota_letterboxd', 'indicações', 'vitórias', 'venceu_melhor_filme'
